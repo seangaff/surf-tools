@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Surfline Stream Viewer</title>
+    <link rel="stylesheet" href="style.css?v=2">
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>Surf Spots</h2>
+            </div>
+            <div id="spot-list" class="spot-list">
+                <!-- Spots injected here -->
+            </div>
+        </aside>
+
+        <main class="main-content">
+            <div class="player-container">
+                <div id="video-placeholder" class="video-placeholder">
+                    <p>Select a spot to view stream</p>
+                </div>
+                <video id="video" controls autoplay muted playsinline></video>
+                <div class="stream-info">
+                    <h1 id="stream-title">Select a Stream</h1>
+                    <p id="stream-location"></p>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="app.js?v=2"></script>
+</body>
+
+</html>

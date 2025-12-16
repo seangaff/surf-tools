@@ -1,0 +1,2782 @@
+{
+    "countryCode": "US",
+    "subdivisionCode": "CA",
+    "ip": "2600:1700:8fdc:4130:c4fa:37cd:b3dc:b213",
+    "details": {
+        "isAccountLockedFromSharing": false,
+        "isAccountInShareWarningMode": false,
+        "isAccountAllowedToShare": false,
+        "profilePicture": null,
+        "_id": "64d1722939f43100125404ba",
+        "brand": "sl",
+        "isActive": true,
+        "isEmailVerified": true,
+        "locale": "US",
+        "firstName": "Sean",
+        "lastName": "Gaffney",
+        "email": "gaffnese@gmail.com",
+        "linkedClients": [],
+        "modifiedDate": "2023-08-07T22:37:29.029Z",
+        "createdAt": "2023-08-07T22:37:29.031Z",
+        "updatedAt": "2023-08-08T18:06:06.228Z",
+        "__v": 0,
+        "hasSessionCompatibleDevice": false,
+        "hasPassword": true,
+        "id": "64d1722939f43100125404ba"
+    },
+    "entitlements": [],
+    "favorites": [
+        {
+            "_id": "5842041f4e65fad6a7708976",
+            "lat": 37.59881852720143,
+            "lon": -122.50463,
+            "name": "Linda Mar",
+            "cameras": [
+                {
+                    "_id": "64d28154296d74a9c8b25fae",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-tacobellpacifica/latest_small.jpg",
+                    "title": "SF - Taco Bell",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-tacobellpacifica/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-tacobellpacifica/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-tacobellpacifica/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-tacobellpacifica/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-tacobellpacifica/wc-tacobellpacifica",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T16:55:51.399Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T16:55:51.399Z",
+                    "alias": "wc-tacobellpacifica",
+                    "supportsHighlights": true,
+                    "supportsInsights": true,
+                    "supportsSmartRewinds": true,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": {
+                        "url": "https://highlights.cdn-surfline.com/us-west-2/clips/64d28154296d74a9c8b25fae-20251215T180838271Z.mp4",
+                        "thumbUrl": "https://highlights.cdn-surfline.com/us-west-2/thumbnails/64d28154296d74a9c8b25fae-20251215T180838271Z.jpg",
+                        "gifUrl": ""
+                    },
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-tacobellpacifica/wc-tacobellpacifica.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "https://locations.tacobell.com/ca/pacifica/5200-coast-highway.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=030754&utm_content=website&y_source=1_NjE0MzE0NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+                        "camLinkText": "Camera hosted by Taco Bell Cantina"
+                    }
+                },
+                {
+                    "_id": "64d28113296d74a9c8b25e68",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-creekpacifica/latest_small.jpg",
+                    "title": "SF - The Creek",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-creekpacifica/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-creekpacifica/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-creekpacifica/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-creekpacifica/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-creekpacifica/wc-creekpacifica",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:33:28.269Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:33:28.269Z",
+                    "alias": "wc-creekpacifica",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-creekpacifica/wc-creekpacifica.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "https://locations.tacobell.com/ca/pacifica/5200-coast-highway.html?utm_source=yext&utm_campaign=googlelistings&utm_medium=referral&utm_term=030754&utm_content=website&y_source=1_NjE0MzE0NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+                        "camLinkText": "Camera hosted by Taco Bell Cantina"
+                    }
+                },
+                {
+                    "_id": "5cc08dec706253b879bc444c",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-boatdockspacifica/latest_small.jpg",
+                    "title": "SF - Boat Docks",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-boatdockspacifica/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-boatdockspacifica/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-boatdockspacifica/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-boatdockspacifica/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-boatdockspacifica/wc-boatdockspacifica",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:09:14.093Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:09:14.093Z",
+                    "alias": "wc-boatdockspacifica",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-boatdockspacifica/wc-boatdockspacifica.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": false,
+                        "name": "",
+                        "url": "",
+                        "camLinkText": ""
+                    }
+                }
+            ],
+            "conditions": {
+                "value": "POOR",
+                "sortableCondition": 1,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 9,
+                "direction": 86.85869,
+                "directionType": "Offshore",
+                "gust": 10,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 2.1,
+                    "period": 9,
+                    "direction": 272.74908,
+                    "directionMin": 261.81018,
+                    "event": 0,
+                    "power": 62.17187
+                },
+                {
+                    "height": 1.3,
+                    "period": 13,
+                    "direction": 217.92896,
+                    "directionMin": 209.98161,
+                    "event": 1,
+                    "power": 52.21042
+                },
+                {
+                    "height": 1.1,
+                    "period": 10,
+                    "direction": 184.06787,
+                    "directionMin": 175.8886,
+                    "event": 2,
+                    "power": 24.10442
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Knee to thigh",
+                "lastCameraObservation": 1765822118,
+                "lastObserved": 1765822118,
+                "min": 1,
+                "max": 2,
+                "occasional": null,
+                "plus": false,
+                "type": "CAMERA"
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 5.6,
+                    "timestamp": 1765810261,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 3,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765836371,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "5cc73566c30e4c0001096989",
+            "subregionName": "Pacifica",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708976/5842041f4e65fad6a7708976_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 0,
+            "hasLiveWind": false,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": "64d28154296d74a9c8b25fae",
+            "forecastStatus": "active",
+            "humanReported": false
+        },
+        {
+            "_id": "5842041f4e65fad6a7708974",
+            "lat": 37.54732,
+            "lon": -122.51612,
+            "name": "Montara",
+            "cameras": [],
+            "conditions": {
+                "value": "POOR_TO_FAIR",
+                "sortableCondition": 2,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 8,
+                "direction": 73.85021,
+                "directionType": "Offshore",
+                "gust": 8,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 2.1,
+                    "period": 9,
+                    "direction": 272.74908,
+                    "directionMin": 261.81018,
+                    "event": 0,
+                    "power": 62.17187
+                },
+                {
+                    "height": 1.3,
+                    "period": 13,
+                    "direction": 217.92896,
+                    "directionMin": 209.98161,
+                    "event": 1,
+                    "power": 52.21042
+                },
+                {
+                    "height": 1.1,
+                    "period": 10,
+                    "direction": 184.06787,
+                    "directionMin": 175.8886,
+                    "event": 2,
+                    "power": 24.10442
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Knee to thigh",
+                "lastCameraObservation": null,
+                "lastObserved": null,
+                "min": 1,
+                "max": 2,
+                "occasional": null,
+                "plus": false,
+                "type": null
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 5.6,
+                    "timestamp": 1765810261,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 3,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765836371,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "691602195da287a08d2d393a",
+            "subregionName": "Half Moon Bay",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708974/5842041f4e65fad6a7708974_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 1,
+            "hasLiveWind": false,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": null,
+            "forecastStatus": "active",
+            "humanReported": false
+        },
+        {
+            "_id": "5842041f4e65fad6a7708970",
+            "lat": 37.49899,
+            "lon": -122.47099,
+            "name": "Princeton Jetty",
+            "cameras": [],
+            "conditions": {
+                "value": "POOR_TO_FAIR",
+                "sortableCondition": 2,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 8,
+                "direction": 63.53997,
+                "directionType": "Offshore",
+                "gust": 8,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 1.3,
+                    "period": 13,
+                    "direction": 217.92896,
+                    "directionMin": 209.98161,
+                    "event": 1,
+                    "power": 52.21042
+                },
+                {
+                    "height": 2.1,
+                    "period": 9,
+                    "direction": 272.74908,
+                    "directionMin": 261.81018,
+                    "event": 0,
+                    "power": 62.17187
+                },
+                {
+                    "height": 1.1,
+                    "period": 10,
+                    "direction": 184.06787,
+                    "directionMin": 175.8886,
+                    "event": 2,
+                    "power": 24.10442
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Knee to thigh",
+                "lastCameraObservation": null,
+                "lastObserved": null,
+                "min": 1,
+                "max": 2,
+                "occasional": null,
+                "plus": false,
+                "type": null
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 5.6,
+                    "timestamp": 1765810261,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 3,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765836371,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "691602195da287a08d2d393a",
+            "subregionName": "Half Moon Bay",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708970/5842041f4e65fad6a7708970_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 2,
+            "hasLiveWind": false,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": null,
+            "forecastStatus": "active",
+            "humanReported": true
+        },
+        {
+            "_id": "5842041f4e65fad6a7708801",
+            "lat": 37.49173,
+            "lon": -122.50423,
+            "name": "Maverick's",
+            "cameras": [
+                {
+                    "_id": "60957ad32272016445d45b2c",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-mavericksov/latest_small.jpg",
+                    "title": "SF - Mavericks Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-mavericksov/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-mavericksov/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-mavericksov/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-mavericksov/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-mavericksov/wc-mavericksov",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:11:04.918Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:11:04.918Z",
+                    "alias": "wc-mavericksov",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-mavericksov/wc-mavericksov.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "https://www.oceanbluere.com/",
+                        "camLinkText": "Camera hosted by Ocean Blue Real Estate"
+                    }
+                },
+                {
+                    "_id": "58349c6de411dc743a5d52b2",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-mavericks/latest_small.jpg",
+                    "title": "SF - Maverick's",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-mavericks/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-mavericks/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-mavericks/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-mavericks/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-mavericks/wc-mavericks",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T16:26:19.076Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T16:26:19.076Z",
+                    "alias": "wc-mavericks",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-mavericks/wc-mavericks.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": false,
+                        "name": "",
+                        "url": "",
+                        "camLinkText": ""
+                    }
+                }
+            ],
+            "conditions": {
+                "value": null,
+                "sortableCondition": null,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 6,
+                "direction": 57.35471,
+                "directionType": "Offshore",
+                "gust": 6,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 2.1,
+                    "period": 9,
+                    "direction": 272.74908,
+                    "directionMin": 261.81018,
+                    "event": 0,
+                    "power": 62.17187
+                },
+                {
+                    "height": 1.3,
+                    "period": 13,
+                    "direction": 217.92896,
+                    "directionMin": 209.98161,
+                    "event": 1,
+                    "power": 52.21042
+                },
+                {
+                    "height": 1.1,
+                    "period": 10,
+                    "direction": 184.06787,
+                    "directionMin": 175.8886,
+                    "event": 2,
+                    "power": 24.10442
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Thigh to waist",
+                "lastCameraObservation": null,
+                "lastObserved": null,
+                "min": 2,
+                "max": 3,
+                "occasional": null,
+                "plus": false,
+                "type": null
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 5.6,
+                    "timestamp": 1765810261,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 3,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765836371,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "691602195da287a08d2d393a",
+            "subregionName": "Half Moon Bay",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708801/5842041f4e65fad6a7708801_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 3,
+            "hasLiveWind": false,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": null,
+            "forecastStatus": "active",
+            "humanReported": true
+        },
+        {
+            "_id": "5cbf8d85e7b15800014909e8",
+            "lat": 37.602434248190164,
+            "lon": -122.50096,
+            "name": "Linda Mar North",
+            "cameras": [
+                {
+                    "_id": "668ffb93eb2e0bf2616ece64",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-wanderinnpacifica/latest_small.jpg",
+                    "title": "SF - Wander Inn",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-wanderinnpacifica/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-wanderinnpacifica/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-wanderinnpacifica/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-wanderinnpacifica/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-wanderinnpacifica/wc-wanderinnpacifica",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T16:34:36.374Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T16:34:36.374Z",
+                    "alias": "wc-wanderinnpacifica",
+                    "supportsHighlights": true,
+                    "supportsInsights": true,
+                    "supportsSmartRewinds": true,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": {
+                        "url": "https://highlights.cdn-surfline.com/us-west-2/clips/668ffb93eb2e0bf2616ece64-20251215T181156170Z.mp4",
+                        "thumbUrl": "https://highlights.cdn-surfline.com/us-west-2/thumbnails/668ffb93eb2e0bf2616ece64-20251215T181156170Z.jpg",
+                        "gifUrl": ""
+                    },
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-wanderinnpacifica/wc-wanderinnpacifica.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "https://www.puerto27.com/",
+                        "camLinkText": "Camera hosted by Puerto 27"
+                    }
+                },
+                {
+                    "_id": "58349ea8e411dc743a5d52c7",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-northendpacifica/latest_small.jpg",
+                    "title": "SF - North End",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-northendpacifica/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-northendpacifica/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-northendpacifica/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-northendpacifica/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-northendpacifica/wc-northendpacifica",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T15:08:55.588Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T15:08:55.588Z",
+                    "alias": "wc-northendpacifica",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-northendpacifica/wc-northendpacifica.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": false,
+                        "name": "",
+                        "url": "",
+                        "camLinkText": ""
+                    }
+                }
+            ],
+            "conditions": {
+                "value": "POOR",
+                "sortableCondition": 1,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 9,
+                "direction": 86.85869,
+                "directionType": "Offshore",
+                "gust": 10,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 2.1,
+                    "period": 9,
+                    "direction": 272.74908,
+                    "directionMin": 261.81018,
+                    "event": 0,
+                    "power": 62.17187
+                },
+                {
+                    "height": 1.3,
+                    "period": 13,
+                    "direction": 217.92896,
+                    "directionMin": 209.98161,
+                    "event": 1,
+                    "power": 52.21042
+                },
+                {
+                    "height": 1.1,
+                    "period": 10,
+                    "direction": 184.06787,
+                    "directionMin": 175.8886,
+                    "event": 2,
+                    "power": 24.10442
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Knee to thigh",
+                "lastCameraObservation": 1765822913,
+                "lastObserved": 1765822913,
+                "min": 1,
+                "max": 2,
+                "occasional": null,
+                "plus": false,
+                "type": "CAMERA"
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 5.6,
+                    "timestamp": 1765810261,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 3,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765836371,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "5cc73566c30e4c0001096989",
+            "subregionName": "Pacifica",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/default/default_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 4,
+            "hasLiveWind": false,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": "668ffb93eb2e0bf2616ece64",
+            "forecastStatus": "active",
+            "humanReported": false
+        },
+        {
+            "_id": "5842041f4e65fad6a7708806",
+            "lat": 36.95918781542251,
+            "lon": -122.02489,
+            "name": "Cowells",
+            "cameras": [
+                {
+                    "_id": "583497a03421b20545c4b532",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-cowellsov/latest_small.jpg",
+                    "title": "STC - Cowells Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-cowellsov/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-cowellsov/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-cowellsov/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-cowellsov/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-cowellsov/wc-cowellsov",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:03:45.316Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:03:45.316Z",
+                    "alias": "wc-cowellsov",
+                    "supportsHighlights": true,
+                    "supportsInsights": true,
+                    "supportsSmartRewinds": true,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-cowellsov/wc-cowellsov.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "https://www.dreaminnsantacruz.com/?utm_source=Google&utm_medium=bizlisting",
+                        "camLinkText": "Camera Hosted by The Dream Inn"
+                    }
+                },
+                {
+                    "_id": "58349794e411dc743a5d527f",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-cowells/latest_small.jpg",
+                    "title": "STC - Cowells",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-cowells/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-cowells/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-cowells/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-cowells/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-cowells/wc-cowells",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:58:04.977Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:58:04.977Z",
+                    "alias": "wc-cowells",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-cowells/wc-cowells.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "http://www.idealbarandgrill.com/",
+                        "camLinkText": "Camera hosted by The Ideal Bar & Grill"
+                    }
+                }
+            ],
+            "conditions": {
+                "value": "VERY_POOR",
+                "sortableCondition": null,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 1,
+                "direction": 124,
+                "directionType": "Onshore",
+                "gust": 3,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 1.3,
+                    "period": 12,
+                    "direction": 184.22729,
+                    "directionMin": 174.70301,
+                    "event": 2,
+                    "power": 44.64638
+                },
+                {
+                    "height": 1.4,
+                    "period": 13,
+                    "direction": 216.28058,
+                    "directionMin": 207.09465,
+                    "event": 1,
+                    "power": 58.16604
+                },
+                {
+                    "height": 1.9,
+                    "period": 9,
+                    "direction": 277.3656,
+                    "directionMin": 268.34148,
+                    "event": 0,
+                    "power": 53.04389
+                },
+                {
+                    "height": 0.6,
+                    "period": 3,
+                    "direction": 302.78595,
+                    "directionMin": 296.03132,
+                    "event": 3,
+                    "power": 0.51965
+                },
+                {
+                    "height": 0.6,
+                    "period": 11,
+                    "direction": 312.97583,
+                    "directionMin": 310.49709,
+                    "event": 5,
+                    "power": 6.7794
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Flat",
+                "lastCameraObservation": null,
+                "lastObserved": null,
+                "min": 0,
+                "max": 0,
+                "occasional": null,
+                "plus": false,
+                "type": null
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 5.3,
+                    "timestamp": 1765809721,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 2.6,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765835891,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "58581a836630e24c44879011",
+            "subregionName": "Santa Cruz",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708806/5842041f4e65fad6a7708806_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 5,
+            "hasLiveWind": true,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": "583497a03421b20545c4b532",
+            "forecastStatus": "active",
+            "humanReported": false
+        },
+        {
+            "_id": "641c7e5395774e076bf4dd4c",
+            "lat": 36.964344,
+            "lon": -121.96017,
+            "name": "Privates",
+            "cameras": [
+                {
+                    "_id": "654d17812dae77d224e6b736",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-privates/latest_small.jpg",
+                    "title": "STC - Privates",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-privates/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-privates/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-privates/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-privates/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-privates/wc-privates",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:59:37.107Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:59:37.107Z",
+                    "alias": "wc-privates",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-privates/wc-privates.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "https://www.cityofcapitola.org",
+                        "camLinkText": "Brought to you by The City of Capitola"
+                    }
+                }
+            ],
+            "conditions": {
+                "value": "POOR_TO_FAIR",
+                "sortableCondition": 2,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 1,
+                "direction": 308.76104,
+                "directionType": "Offshore",
+                "gust": 1,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 1.3,
+                    "period": 12,
+                    "direction": 187.22485,
+                    "directionMin": 177.72638,
+                    "event": 2,
+                    "power": 41.14366
+                },
+                {
+                    "height": 1.4,
+                    "period": 13,
+                    "direction": 216.53033,
+                    "directionMin": 207.20973,
+                    "event": 1,
+                    "power": 58.57825
+                },
+                {
+                    "height": 1.9,
+                    "period": 9,
+                    "direction": 278.07397,
+                    "directionMin": 269.34133,
+                    "event": 0,
+                    "power": 52.67398
+                },
+                {
+                    "height": 0.5,
+                    "period": 3,
+                    "direction": 295.29181,
+                    "directionMin": 289.07326,
+                    "event": 3,
+                    "power": 0.40703
+                },
+                {
+                    "height": 0.5,
+                    "period": 11,
+                    "direction": 310.56079,
+                    "directionMin": 307.6108,
+                    "event": 5,
+                    "power": 5.22574
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Shin to knee",
+                "lastCameraObservation": null,
+                "lastObserved": null,
+                "min": 0,
+                "max": 1,
+                "occasional": null,
+                "plus": false,
+                "type": null
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 5.3,
+                    "timestamp": 1765809721,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 2.6,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765835891,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "58581a836630e24c44879011",
+            "subregionName": "Santa Cruz",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/default/default_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 6,
+            "hasLiveWind": false,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": null,
+            "forecastStatus": "active",
+            "humanReported": false
+        },
+        {
+            "_id": "5842041f4e65fad6a770880b",
+            "lat": 36.95782765000708,
+            "lon": -121.96729,
+            "name": "Jack's",
+            "cameras": [
+                {
+                    "_id": "5834946f3421b20545c4b51a",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-jacks/latest_small.jpg",
+                    "title": "STC - Jack's",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-jacks/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-jacks/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-jacks/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-jacks/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-jacks/wc-jacks",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:51:14.040Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:51:14.040Z",
+                    "alias": "wc-jacks",
+                    "supportsHighlights": true,
+                    "supportsInsights": true,
+                    "supportsSmartRewinds": true,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": {
+                        "url": "https://highlights.cdn-surfline.com/us-west-2/clips/5834946f3421b20545c4b51a-20251215T181114480Z.mp4",
+                        "thumbUrl": "https://highlights.cdn-surfline.com/us-west-2/thumbnails/5834946f3421b20545c4b51a-20251215T181114480Z.jpg",
+                        "gifUrl": ""
+                    },
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-jacks/wc-jacks.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": false,
+                        "name": "",
+                        "url": "",
+                        "camLinkText": ""
+                    }
+                }
+            ],
+            "conditions": {
+                "value": "POOR_TO_FAIR",
+                "sortableCondition": 2,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 1,
+                "direction": 308.76104,
+                "directionType": "Offshore",
+                "gust": 1,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 1.4,
+                    "period": 13,
+                    "direction": 216.28058,
+                    "directionMin": 207.09465,
+                    "event": 2,
+                    "power": 58.16604
+                },
+                {
+                    "height": 1.3,
+                    "period": 12,
+                    "direction": 184.22729,
+                    "directionMin": 174.70301,
+                    "event": 3,
+                    "power": 44.64638
+                },
+                {
+                    "height": 1.9,
+                    "period": 9,
+                    "direction": 277.3656,
+                    "directionMin": 268.34148,
+                    "event": 1,
+                    "power": 53.04389
+                },
+                {
+                    "height": 0.6,
+                    "period": 3,
+                    "direction": 302.78595,
+                    "directionMin": 296.03132,
+                    "event": 0,
+                    "power": 0.51965
+                },
+                {
+                    "height": 0.6,
+                    "period": 11,
+                    "direction": 312.97583,
+                    "directionMin": 310.49709,
+                    "event": 5,
+                    "power": 6.7794
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Shin to knee",
+                "lastCameraObservation": null,
+                "lastObserved": null,
+                "min": 0,
+                "max": 1,
+                "occasional": null,
+                "plus": false,
+                "type": null
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 5.3,
+                    "timestamp": 1765809721,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 2.6,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765835891,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "58581a836630e24c44879011",
+            "subregionName": "Santa Cruz",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a770880b/5842041f4e65fad6a770880b_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 7,
+            "hasLiveWind": false,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": "5834946f3421b20545c4b51a",
+            "forecastStatus": "active",
+            "humanReported": false
+        },
+        {
+            "_id": "5842041f4e65fad6a7708ddf",
+            "lat": 36.971492,
+            "lon": -121.9486,
+            "name": "Capitola",
+            "cameras": [
+                {
+                    "_id": "600db84b83602e171b044734",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-capitolapeak/latest_small.jpg",
+                    "title": "STC - Capitola Peak",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-capitolapeak/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-capitolapeak/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-capitolapeak/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-capitolapeak/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-capitolapeak/wc-capitolapeak",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T12:22:28.107Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T12:22:28.107Z",
+                    "alias": "wc-capitolapeak",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-capitolapeak/wc-capitolapeak.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "https://www.cityofcapitola.org",
+                        "camLinkText": "Brought to you by The City of Capitola"
+                    }
+                },
+                {
+                    "_id": "583496c63421b20545c4b529",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-capitolajetty/latest_small.jpg",
+                    "title": "STC - Capitola Jetty",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-capitolajetty/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-capitolajetty/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-capitolajetty/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-capitolajetty/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-capitolajetty/wc-capitolajetty",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:52:31.415Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:52:31.415Z",
+                    "alias": "wc-capitolajetty",
+                    "supportsHighlights": true,
+                    "supportsInsights": true,
+                    "supportsSmartRewinds": true,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": {
+                        "url": "https://highlights.cdn-surfline.com/us-west-2/clips/583496c63421b20545c4b529-20251215T180403956Z.mp4",
+                        "thumbUrl": "https://highlights.cdn-surfline.com/us-west-2/thumbnails/583496c63421b20545c4b529-20251215T180403956Z.jpg",
+                        "gifUrl": ""
+                    },
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-capitolajetty/wc-capitolajetty.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "https://www.cityofcapitola.org",
+                        "camLinkText": "Brought to you by The City of Capitola"
+                    }
+                }
+            ],
+            "conditions": {
+                "value": "POOR",
+                "sortableCondition": 1,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 1,
+                "direction": 308.76104,
+                "directionType": "Offshore",
+                "gust": 1,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 1.3,
+                    "period": 12,
+                    "direction": 184.22729,
+                    "directionMin": 174.70301,
+                    "event": 3,
+                    "power": 44.64638
+                },
+                {
+                    "height": 1.4,
+                    "period": 13,
+                    "direction": 216.28058,
+                    "directionMin": 207.09465,
+                    "event": 2,
+                    "power": 58.16604
+                },
+                {
+                    "height": 1.9,
+                    "period": 9,
+                    "direction": 277.3656,
+                    "directionMin": 268.34148,
+                    "event": 1,
+                    "power": 53.04389
+                },
+                {
+                    "height": 0.6,
+                    "period": 3,
+                    "direction": 302.78595,
+                    "directionMin": 296.03132,
+                    "event": 0,
+                    "power": 0.51965
+                },
+                {
+                    "height": 0.6,
+                    "period": 11,
+                    "direction": 312.97583,
+                    "directionMin": 310.49709,
+                    "event": 5,
+                    "power": 6.7794
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Shin to knee",
+                "lastCameraObservation": null,
+                "lastObserved": null,
+                "min": 0,
+                "max": 1,
+                "occasional": null,
+                "plus": false,
+                "type": null
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 5.3,
+                    "timestamp": 1765809721,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 2.6,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765835891,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "58581a836630e24c44879011",
+            "subregionName": "Santa Cruz",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708ddf/5842041f4e65fad6a7708ddf_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 8,
+            "hasLiveWind": false,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": "583496c63421b20545c4b529",
+            "forecastStatus": "active",
+            "humanReported": false
+        },
+        {
+            "_id": "5842041f4e65fad6a770896f",
+            "lat": 37.48293,
+            "lon": -122.45488,
+            "name": "Half Moon Bay",
+            "cameras": [
+                {
+                    "_id": "66a14da5cac63efc51ae6788",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-halfmoonbay/latest_small.jpg",
+                    "title": "SF - Half Moon Bay",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-halfmoonbay/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-halfmoonbay/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-halfmoonbay/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-halfmoonbay/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-halfmoonbay/wc-halfmoonbay",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:24:52.623Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:24:52.623Z",
+                    "alias": "wc-halfmoonbay",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-halfmoonbay/wc-halfmoonbay.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "Miramar Beach Restaurant",
+                        "url": "https://miramarbeachrestaurant.com/menu/",
+                        "camLinkText": "Camera hosted by Miramar Beach Restaurant"
+                    }
+                }
+            ],
+            "conditions": {
+                "value": "POOR",
+                "sortableCondition": 1,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 11,
+                "direction": 65.93282,
+                "directionType": "Offshore",
+                "gust": 11,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 2.1,
+                    "period": 9,
+                    "direction": 272.74908,
+                    "directionMin": 261.81018,
+                    "event": 0,
+                    "power": 62.17187
+                },
+                {
+                    "height": 1.3,
+                    "period": 13,
+                    "direction": 217.92896,
+                    "directionMin": 209.98161,
+                    "event": 1,
+                    "power": 52.21042
+                },
+                {
+                    "height": 1.1,
+                    "period": 10,
+                    "direction": 184.06787,
+                    "directionMin": 175.8886,
+                    "event": 2,
+                    "power": 24.10442
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Knee to thigh",
+                "lastCameraObservation": null,
+                "lastObserved": null,
+                "min": 1,
+                "max": 2,
+                "occasional": null,
+                "plus": false,
+                "type": null
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 5.6,
+                    "timestamp": 1765810261,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 3,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765836371,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "691602195da287a08d2d393a",
+            "subregionName": "Half Moon Bay",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a770896f/5842041f4e65fad6a770896f_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 9,
+            "hasLiveWind": false,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": null,
+            "forecastStatus": "active",
+            "humanReported": false
+        },
+        {
+            "_id": "5842041f4e65fad6a77087f9",
+            "lat": 37.741668,
+            "lon": -122.51038,
+            "name": "South Ocean Beach",
+            "cameras": [
+                {
+                    "_id": "5834a0c53421b20545c4b587",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-taraval/latest_small.jpg",
+                    "title": "SF - Taraval",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-taraval/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-taraval/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-taraval/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-taraval/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-taraval/wc-taraval",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:56:03.168Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:56:03.168Z",
+                    "alias": "wc-taraval",
+                    "supportsHighlights": true,
+                    "supportsInsights": true,
+                    "supportsSmartRewinds": true,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": {
+                        "url": "https://highlights.cdn-surfline.com/us-west-2/clips/5834a0c53421b20545c4b587-20251215T180545771Z.mp4",
+                        "thumbUrl": "https://highlights.cdn-surfline.com/us-west-2/thumbnails/5834a0c53421b20545c4b587-20251215T180545771Z.jpg",
+                        "gifUrl": ""
+                    },
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-taraval/wc-taraval.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": false,
+                        "name": "",
+                        "url": "",
+                        "camLinkText": ""
+                    }
+                },
+                {
+                    "_id": "615dd986de7d8059b38a053f",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-vicente/latest_small.jpg",
+                    "title": "SF - Vicente St.",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-vicente/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-vicente/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-vicente/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-vicente/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-vicente/wc-vicente",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T18:19:53.309Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T18:19:53.309Z",
+                    "alias": "wc-vicente",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-vicente/wc-vicente.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": false,
+                        "name": "",
+                        "url": "",
+                        "camLinkText": ""
+                    }
+                }
+            ],
+            "conditions": {
+                "value": "FAIR",
+                "sortableCondition": 3,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 7,
+                "direction": 89,
+                "directionType": "Offshore",
+                "gust": 11,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 2.1,
+                    "period": 9,
+                    "direction": 272.74908,
+                    "directionMin": 261.81018,
+                    "event": 0,
+                    "power": 62.17187
+                },
+                {
+                    "height": 1.3,
+                    "period": 13,
+                    "direction": 217.92896,
+                    "directionMin": 209.98161,
+                    "event": 1,
+                    "power": 52.21042
+                },
+                {
+                    "height": 1.1,
+                    "period": 10,
+                    "direction": 184.06787,
+                    "directionMin": 175.8886,
+                    "event": 2,
+                    "power": 24.10442
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Thigh to stomach",
+                "lastCameraObservation": 1765821945,
+                "lastObserved": 1765821945,
+                "min": 2,
+                "max": 3,
+                "occasional": null,
+                "plus": true,
+                "type": "CAMERA"
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 6,
+                    "timestamp": 1765811267,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 3.5,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.3,
+                    "timestamp": 1765836687,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "58581a836630e24c44879010",
+            "subregionName": "San Francisco",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a77087f9/5842041f4e65fad6a77087f9_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 10,
+            "hasLiveWind": true,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": "5834a0c53421b20545c4b587",
+            "forecastStatus": "active",
+            "humanReported": true
+        },
+        {
+            "_id": "5d9b68deab58860001c7359e",
+            "lat": 37.77524656957721,
+            "lon": -122.51312,
+            "name": "North Ocean Beach",
+            "cameras": [
+                {
+                    "_id": "5d9bd4c1aadd6d60def73b30",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-northoceanbeach/latest_small.jpg",
+                    "title": "SF - North Ocean Beach",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-northoceanbeach/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-northoceanbeach/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-northoceanbeach/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-northoceanbeach/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-northoceanbeach/wc-northoceanbeach",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T16:25:57.499Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T16:25:57.499Z",
+                    "alias": "wc-northoceanbeach",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-northoceanbeach/wc-northoceanbeach.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "https://saltedrootssurf.org/donate/",
+                        "camLinkText": "Expand coastal access with Salted Roots"
+                    }
+                },
+                {
+                    "_id": "6092eb11b4f64ebcb03ddf8d",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-balboast/latest_small.jpg",
+                    "title": "SF - Balboa St.",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-balboast/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-balboast/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-balboast/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-balboast/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-balboast/wc-balboast",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T16:30:28.338Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T16:30:28.338Z",
+                    "alias": "wc-balboast",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-balboast/wc-balboast.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "https://saltedrootssurf.org/donate/",
+                        "camLinkText": "Expand coastal access with Salted Roots"
+                    }
+                }
+            ],
+            "conditions": {
+                "value": "FAIR",
+                "sortableCondition": 3,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 7,
+                "direction": 89,
+                "directionType": "Offshore",
+                "gust": 11,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 2.1,
+                    "period": 9,
+                    "direction": 272.74908,
+                    "directionMin": 261.81018,
+                    "event": 0,
+                    "power": 62.17187
+                },
+                {
+                    "height": 1.3,
+                    "period": 13,
+                    "direction": 217.92896,
+                    "directionMin": 209.98161,
+                    "event": 1,
+                    "power": 52.21042
+                },
+                {
+                    "height": 1.1,
+                    "period": 10,
+                    "direction": 184.06787,
+                    "directionMin": 175.8886,
+                    "event": 2,
+                    "power": 24.10442
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Thigh to waist",
+                "lastCameraObservation": null,
+                "lastObserved": null,
+                "min": 2,
+                "max": 3,
+                "occasional": null,
+                "plus": false,
+                "type": null
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 6,
+                    "timestamp": 1765811281,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 3.5,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765837271,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "58581a836630e24c44879010",
+            "subregionName": "San Francisco",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/default/default_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 12,
+            "hasLiveWind": true,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": null,
+            "forecastStatus": "active",
+            "humanReported": true
+        },
+        {
+            "_id": "5842041f4e65fad6a7708807",
+            "lat": 36.95468082526536,
+            "lon": -121.97234,
+            "name": "Pleasure Point",
+            "cameras": [
+                {
+                    "_id": "5cf0124c4f41df57b971a9a4",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-pleasureptov/latest_small.jpg",
+                    "title": "STC - First and Second Peak",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-pleasureptov/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-pleasureptov/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-pleasureptov/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-pleasureptov/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-pleasureptov/wc-pleasureptov",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T15:18:10.104Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T15:18:10.104Z",
+                    "alias": "wc-pleasureptov",
+                    "supportsHighlights": true,
+                    "supportsInsights": true,
+                    "supportsSmartRewinds": true,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": {
+                        "url": "https://highlights.cdn-surfline.com/us-west-2/clips/5cf0124c4f41df57b971a9a4-20251215T180244387Z.mp4",
+                        "thumbUrl": "https://highlights.cdn-surfline.com/us-west-2/thumbnails/5cf0124c4f41df57b971a9a4-20251215T180244387Z.jpg",
+                        "gifUrl": ""
+                    },
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-pleasureptov/wc-pleasureptov.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "https://www.airbnb.com/rooms/16415027?source_impression_id=p3_1727105497_P3hTNAo9melo6ep8",
+                        "camLinkText": "Stay oceanfront here at Surfers Paradise Airbnb"
+                    }
+                },
+                {
+                    "_id": "58349f2a3421b20545c4b56e",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-pleasurept/latest_small.jpg",
+                    "title": "STC - Sewer Peak",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-pleasurept/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-pleasurept/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-pleasurept/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-pleasurept/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-pleasurept/wc-pleasurept",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:12:59.669Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:12:59.669Z",
+                    "alias": "wc-pleasurept",
+                    "supportsHighlights": true,
+                    "supportsInsights": true,
+                    "supportsSmartRewinds": true,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": {
+                        "url": "https://highlights.cdn-surfline.com/us-west-2/clips/58349f2a3421b20545c4b56e-20251215T180807770Z.mp4",
+                        "thumbUrl": "https://highlights.cdn-surfline.com/us-west-2/thumbnails/58349f2a3421b20545c4b56e-20251215T180807770Z.jpg",
+                        "gifUrl": ""
+                    },
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-pleasurept/wc-pleasurept.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "http://www.beachbungalow.com/index.html",
+                        "camLinkText": "Cam hosted by Beach Bungalows Vacation Rentals"
+                    }
+                }
+            ],
+            "conditions": {
+                "value": "FAIR",
+                "sortableCondition": 3,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 3,
+                "direction": 359.02039,
+                "directionType": "Offshore",
+                "gust": 4,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 1.7,
+                    "period": 13,
+                    "direction": 205.00525,
+                    "directionMin": 195.16419,
+                    "event": 1,
+                    "power": 86.31261
+                },
+                {
+                    "height": 1.8,
+                    "period": 9,
+                    "direction": 273.54095,
+                    "directionMin": 265.43293,
+                    "event": 0,
+                    "power": 47.34563
+                },
+                {
+                    "height": 0.4,
+                    "period": 3,
+                    "direction": 282.31964,
+                    "directionMin": 276.27161,
+                    "event": 3,
+                    "power": 0.21398
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Thigh to waist",
+                "lastCameraObservation": 1765822687,
+                "lastObserved": 1765822687,
+                "min": 2,
+                "max": 3,
+                "occasional": null,
+                "plus": false,
+                "type": "CAMERA"
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 5.3,
+                    "timestamp": 1765809721,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 2.6,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765835891,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "58581a836630e24c44879011",
+            "subregionName": "Santa Cruz",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708807/5842041f4e65fad6a7708807_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 13,
+            "hasLiveWind": true,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": "58349f2a3421b20545c4b56e",
+            "forecastStatus": "active",
+            "humanReported": false
+        },
+        {
+            "_id": "5842041f4e65fad6a7708805",
+            "lat": 36.95188851423011,
+            "lon": -122.02522,
+            "name": "Steamer Lane",
+            "cameras": [
+                {
+                    "_id": "63726f8a5cd4988578c5179b",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-steamercloseup/latest_small.jpg",
+                    "title": "STC - Steamer Lane Close-Up",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-steamercloseup/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-steamercloseup/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-steamercloseup/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-steamercloseup/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-steamercloseup/wc-steamercloseup",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:44:13.290Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:44:13.290Z",
+                    "alias": "wc-steamercloseup",
+                    "supportsHighlights": true,
+                    "supportsInsights": true,
+                    "supportsSmartRewinds": true,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": {
+                        "url": "https://highlights.cdn-surfline.com/us-west-2/clips/63726f8a5cd4988578c5179b-20251215T180631688Z.mp4",
+                        "thumbUrl": "https://highlights.cdn-surfline.com/us-west-2/thumbnails/63726f8a5cd4988578c5179b-20251215T180631688Z.jpg",
+                        "gifUrl": ""
+                    },
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-steamercloseup/wc-steamercloseup.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": false,
+                        "name": "",
+                        "url": "",
+                        "camLinkText": ""
+                    }
+                },
+                {
+                    "_id": "6176eb147ee6a18b0b1e68c3",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-steamer/latest_small.jpg",
+                    "title": "STC - Steamer Lane",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-steamer/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-steamer/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-steamer/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-steamer/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-steamer/wc-steamer",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T18:03:36.618Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T18:03:36.618Z",
+                    "alias": "wc-steamer",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-steamer/wc-steamer.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "http://www.cityofsantacruz.com/",
+                        "camLinkText": "Camera hosted by The City of Santa Cruz"
+                    }
+                },
+                {
+                    "_id": "5834a0de3421b20545c4b58a",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-steamerov/latest_small.jpg",
+                    "title": "STC - Steamer Lane Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-steamerov/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-steamerov/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-steamerov/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-steamerov/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-steamerov/wc-steamerov",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T18:10:57.616Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T18:10:57.616Z",
+                    "alias": "wc-steamerov",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-steamerov/wc-steamerov.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": true,
+                        "name": "",
+                        "url": "http://www.cityofsantacruz.com/",
+                        "camLinkText": "Camera hosted by The City of Santa Cruz"
+                    }
+                }
+            ],
+            "conditions": {
+                "value": "POOR_TO_FAIR",
+                "sortableCondition": 1.6666666666666665,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 0,
+                "direction": 254.97696,
+                "directionType": "Cross-shore",
+                "gust": 0,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 1.9,
+                    "period": 9,
+                    "direction": 277.3656,
+                    "directionMin": 268.34148,
+                    "event": 1,
+                    "power": 53.04389
+                },
+                {
+                    "height": 1.4,
+                    "period": 13,
+                    "direction": 216.28058,
+                    "directionMin": 207.09465,
+                    "event": 2,
+                    "power": 58.16604
+                },
+                {
+                    "height": 0.6,
+                    "period": 11,
+                    "direction": 312.97583,
+                    "directionMin": 310.49709,
+                    "event": 5,
+                    "power": 6.7794
+                },
+                {
+                    "height": 1.3,
+                    "period": 12,
+                    "direction": 184.22729,
+                    "directionMin": 174.70301,
+                    "event": 3,
+                    "power": 44.64638
+                },
+                {
+                    "height": 0.6,
+                    "period": 3,
+                    "direction": 302.78595,
+                    "directionMin": 296.03132,
+                    "event": 0,
+                    "power": 0.51965
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Knee to thigh",
+                "lastCameraObservation": null,
+                "lastObserved": null,
+                "min": 1,
+                "max": 2,
+                "occasional": null,
+                "plus": false,
+                "type": null
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 5.3,
+                    "timestamp": 1765809721,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 2.6,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.2,
+                    "timestamp": 1765835891,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "58581a836630e24c44879011",
+            "subregionName": "Santa Cruz",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/5842041f4e65fad6a7708805/5842041f4e65fad6a7708805_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 14,
+            "hasLiveWind": false,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": "63726f8a5cd4988578c5179b",
+            "forecastStatus": "active",
+            "humanReported": true
+        },
+        {
+            "_id": "638e32a4f052ba4ed06d0e3e",
+            "lat": 37.75281,
+            "lon": -122.51014,
+            "name": "Central Ocean Beach",
+            "cameras": [
+                {
+                    "_id": "607600df647e438e1f095a5b",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-oceanbeachsf/latest_small.jpg",
+                    "title": "SF - Ocean Beach, SF",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-oceanbeachsf/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-oceanbeachsf/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-oceanbeachsf/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-oceanbeachsf/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-oceanbeachsf/wc-oceanbeachsf",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T16:25:10.521Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T16:25:10.521Z",
+                    "alias": "wc-oceanbeachsf",
+                    "supportsHighlights": true,
+                    "supportsInsights": true,
+                    "supportsSmartRewinds": true,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": {
+                        "url": "https://highlights.cdn-surfline.com/us-west-2/clips/607600df647e438e1f095a5b-20251215T181207850Z.mp4",
+                        "thumbUrl": "https://highlights.cdn-surfline.com/us-west-2/thumbnails/607600df647e438e1f095a5b-20251215T181207850Z.jpg",
+                        "gifUrl": ""
+                    },
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-oceanbeachsf/wc-oceanbeachsf.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": false,
+                        "name": "",
+                        "url": "",
+                        "camLinkText": ""
+                    }
+                },
+                {
+                    "_id": "58349e103421b20545c4b563",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-oceanbeachov/latest_small.jpg",
+                    "title": "SF - Ocean Beach Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-oceanbeachov/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-oceanbeachov/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-oceanbeachov/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-oceanbeachov/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-oceanbeachov/wc-oceanbeachov",
+                    "isPremium": true,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T16:31:16.167Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T16:31:16.167Z",
+                    "alias": "wc-oceanbeachov",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-oceanbeachov/wc-oceanbeachov.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": false,
+                        "name": "",
+                        "url": "",
+                        "camLinkText": ""
+                    }
+                },
+                {
+                    "_id": "58bde44e1f1c96410558243c",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-centralobsfsouth/latest_small.jpg",
+                    "title": "SF - Central Ocean Beach South",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-centralobsfsouth/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-centralobsfsouth/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-centralobsfsouth/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-centralobsfsouth/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-centralobsfsouth/wc-centralobsfsouth",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T18:05:37.602Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T18:05:37.602Z",
+                    "alias": "wc-centralobsfsouth",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-centralobsfsouth/wc-centralobsfsouth.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": false,
+                        "name": "",
+                        "url": "",
+                        "camLinkText": ""
+                    }
+                },
+                {
+                    "_id": "58bde43d1f1c96410558243b",
+                    "control": "https://camstills.cdn-surfline.com/us-west-2/wc-centralobsfnorth/latest_small.jpg",
+                    "title": "SF - Central Ocean Beach North",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-centralobsfnorth/playlist.m3u8",
+                    "stillUrl": "https://camstills.cdn-surfline.com/us-west-2/wc-centralobsfnorth/latest_small.jpg",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-centralobsfnorth/latest_full.jpg",
+                    "pixelatedStillUrl": "https://camstills.cdn-surfline.com/wc-centralobsfnorth/latest_small_pixelated.png",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-centralobsfnorth/wc-centralobsfnorth",
+                    "isPremium": false,
+                    "isPrerecorded": false,
+                    "lastPrerecordedClipStartTimeUTC": "2025-12-14T17:43:51.324Z",
+                    "lastPrerecordedClipEndTimeUTC": "2025-12-14T17:43:51.324Z",
+                    "alias": "wc-centralobsfnorth",
+                    "supportsHighlights": false,
+                    "supportsInsights": false,
+                    "supportsSmartRewinds": false,
+                    "supportsCrowds": false,
+                    "status": {
+                        "isDown": false,
+                        "message": "",
+                        "subMessage": "",
+                        "altMessage": ""
+                    },
+                    "highlights": null,
+                    "nighttime": false,
+                    "rewindClip": "https://camrewinds.cdn-surfline.com/wc-centralobsfnorth/wc-centralobsfnorth.1300.2025-12-14.mp4",
+                    "host": {
+                        "camLinkEnabled": false,
+                        "name": "",
+                        "url": "",
+                        "camLinkText": ""
+                    }
+                }
+            ],
+            "conditions": {
+                "value": "FAIR",
+                "sortableCondition": 3,
+                "human": false,
+                "expired": false
+            },
+            "wind": {
+                "speed": 7,
+                "direction": 89,
+                "directionType": "Offshore",
+                "gust": 11,
+                "lastObserved": null
+            },
+            "swells": [
+                {
+                    "height": 2.1,
+                    "period": 9,
+                    "direction": 272.74908,
+                    "directionMin": 261.81018,
+                    "event": 0,
+                    "power": 62.17187
+                },
+                {
+                    "height": 1.3,
+                    "period": 13,
+                    "direction": 217.92896,
+                    "directionMin": 209.98161,
+                    "event": 1,
+                    "power": 52.21042
+                },
+                {
+                    "height": 1.1,
+                    "period": 10,
+                    "direction": 184.06787,
+                    "directionMin": 175.8886,
+                    "event": 2,
+                    "power": 24.10442
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                },
+                {
+                    "height": 0,
+                    "period": 0,
+                    "direction": 0,
+                    "directionMin": 0,
+                    "event": null,
+                    "power": 0
+                }
+            ],
+            "waveHeight": {
+                "forecaster": null,
+                "human": false,
+                "humanRelation": "Waist to chest",
+                "lastCameraObservation": 1765822927,
+                "lastObserved": 1765822927,
+                "min": 3,
+                "max": 4,
+                "occasional": null,
+                "plus": false,
+                "type": "CAMERA"
+            },
+            "tide": {
+                "previous": {
+                    "type": "HIGH",
+                    "height": 6,
+                    "timestamp": 1765811267,
+                    "utcOffset": -8
+                },
+                "current": {
+                    "type": "NORMAL",
+                    "height": 3.5,
+                    "timestamp": 1765823099,
+                    "utcOffset": -8
+                },
+                "next": {
+                    "type": "LOW",
+                    "height": 0.3,
+                    "timestamp": 1765836687,
+                    "utcOffset": -8
+                }
+            },
+            "subregionId": "58581a836630e24c44879010",
+            "subregionName": "San Francisco",
+            "thumbnail": "https://spot-thumbnails.cdn-surfline.com/spots/default/default_1500.jpg",
+            "slug": "DEPRECATED",
+            "rank": 15,
+            "hasLiveWind": true,
+            "timezone": "America/Los_Angeles",
+            "insightsCameraId": "607600df647e438e1f095a5b",
+            "forecastStatus": "active",
+            "humanReported": false
+        }
+    ],
+    "isGuestUser": false,
+    "settings": {
+        "date": {
+            "format": "MDY"
+        },
+        "feed": {
+            "localized": "US"
+        },
+        "feedFilters": {
+            "subregions": ""
+        },
+        "forecastFeedback": {
+            "ctaHiddenCount": 0,
+            "ctaHiddenTimestamp": null,
+            "ctaSnoozeUntilTimestamp": null
+        },
+        "recentlyVisited": {
+            "subregions": [
+                {
+                    "name": "Pacifica-San Mateo County",
+                    "_id": "5cc73566c30e4c0001096989"
+                }
+            ],
+            "spots": [
+                {
+                    "name": "Ocean Beach",
+                    "_id": "5842041f4e65fad6a770883f"
+                },
+                {
+                    "name": "South Ocean Beach",
+                    "_id": "5842041f4e65fad6a77087f9"
+                },
+                {
+                    "name": "Linda Mar",
+                    "_id": "5842041f4e65fad6a7708976"
+                },
+                {
+                    "name": "Rockaway",
+                    "_id": "5842041f4e65fad6a7708979"
+                },
+                {
+                    "name": "Waddell Creek",
+                    "_id": "5842041f4e65fad6a7708980"
+                },
+                {
+                    "name": "Uluwatu",
+                    "_id": "5842041f4e65fad6a7708b4b"
+                },
+                {
+                    "name": "Montara",
+                    "_id": "5842041f4e65fad6a7708974"
+                },
+                {
+                    "name": "Princeton Jetty",
+                    "_id": "5842041f4e65fad6a7708970"
+                },
+                {
+                    "name": "Pacifica",
+                    "_id": "5cbf8d85e7b15800014909e8"
+                },
+                {
+                    "name": "Sharp Park",
+                    "_id": "5842041f4e65fad6a770897c"
+                }
+            ]
+        },
+        "units": {
+            "surfHeight": "FT",
+            "swellHeight": "FT",
+            "temperature": "F",
+            "tideHeight": "FT",
+            "windSpeed": "KTS"
+        },
+        "earlyAccess": "off",
+        "isEarlyAccessAvailable": false,
+        "_id": "64d1722939f43100125404bb",
+        "user": "64d1722939f43100125404ba",
+        "__v": 0,
+        "boardTypes": [],
+        "bwUnitPreference": null,
+        "bwWindWaveModel": "LOLA",
+        "createdAt": "2023-08-07T22:37:29.068Z",
+        "homeForecast": null,
+        "homeRegions": [],
+        "homeSpot": null,
+        "isSwellChartCollapsed": true,
+        "onboarded": [],
+        "preferredForecastView": "GRAPH",
+        "preferredWaveChart": "SURF",
+        "ratingsTheme": "Traffic Light",
+        "receivePromotions": false,
+        "travelDistance": null,
+        "updatedAt": "2025-12-15T16:43:43.596Z"
+    },
+    "warnings": {
+        "message": "No payment alerts found.",
+        "alert": false
+    },
+    "location": {
+        "latitude": 37.61383,
+        "longitude": -122.48692,
+        "time_zone": "America/Los_Angeles"
+    },
+    "permissions": [],
+    "wasLoggedOut": false
+}

@@ -1,0 +1,353 @@
+{
+    "favorites": [
+        {
+            "_id": "5842041f4e65fad6a7708976",
+            "lat": 37.59881852720143,
+            "lon": -122.50463,
+            "name": "Linda Mar",
+            "subregionName": "Pacifica",
+            "cameras": [
+                {
+                    "_id": "64d28154296d74a9c8b25fae",
+                    "title": "SF - Taco Bell",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-tacobellpacifica/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-tacobellpacifica/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-tacobellpacifica/wc-tacobellpacifica",
+                    "alias": "wc-tacobellpacifica"
+                },
+                {
+                    "_id": "64d28113296d74a9c8b25e68",
+                    "title": "SF - The Creek",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-creekpacifica/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-creekpacifica/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-creekpacifica/wc-creekpacifica",
+                    "alias": "wc-creekpacifica"
+                },
+                {
+                    "_id": "5cc08dec706253b879bc444c",
+                    "title": "SF - Boat Docks",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-boatdockspacifica/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-boatdockspacifica/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-boatdockspacifica/wc-boatdockspacifica",
+                    "alias": "wc-boatdockspacifica"
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708974",
+            "lat": 37.54732,
+            "lon": -122.51612,
+            "name": "Montara",
+            "subregionName": "Half Moon Bay",
+            "cameras": []
+        },
+        {
+            "_id": "5842041f4e65fad6a7708970",
+            "lat": 37.49899,
+            "lon": -122.47099,
+            "name": "Princeton Jetty",
+            "subregionName": "Half Moon Bay",
+            "cameras": []
+        },
+        {
+            "_id": "5842041f4e65fad6a7708801",
+            "lat": 37.49173,
+            "lon": -122.50423,
+            "name": "Maverick's",
+            "subregionName": "Half Moon Bay",
+            "cameras": [
+                {
+                    "_id": "60957ad32272016445d45b2c",
+                    "title": "SF - Mavericks Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-mavericksov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-mavericksov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-mavericksov/wc-mavericksov",
+                    "alias": "wc-mavericksov"
+                },
+                {
+                    "_id": "58349c6de411dc743a5d52b2",
+                    "title": "SF - Maverick's",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-mavericks/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-mavericks/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-mavericks/wc-mavericks",
+                    "alias": "wc-mavericks"
+                }
+            ]
+        },
+        {
+            "_id": "5cbf8d85e7b15800014909e8",
+            "lat": 37.602434248190164,
+            "lon": -122.50096,
+            "name": "Linda Mar North",
+            "subregionName": "Pacifica",
+            "cameras": [
+                {
+                    "_id": "668ffb93eb2e0bf2616ece64",
+                    "title": "SF - Wander Inn",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-wanderinnpacifica/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-wanderinnpacifica/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-wanderinnpacifica/wc-wanderinnpacifica",
+                    "alias": "wc-wanderinnpacifica"
+                },
+                {
+                    "_id": "58349ea8e411dc743a5d52c7",
+                    "title": "SF - North End",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-northendpacifica/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-northendpacifica/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-northendpacifica/wc-northendpacifica",
+                    "alias": "wc-northendpacifica"
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708806",
+            "lat": 36.95918781542251,
+            "lon": -122.02489,
+            "name": "Cowells",
+            "subregionName": "Santa Cruz",
+            "cameras": [
+                {
+                    "_id": "583497a03421b20545c4b532",
+                    "title": "STC - Cowells Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-cowellsov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-cowellsov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-cowellsov/wc-cowellsov",
+                    "alias": "wc-cowellsov"
+                },
+                {
+                    "_id": "58349794e411dc743a5d527f",
+                    "title": "STC - Cowells",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-cowells/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-cowells/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-cowells/wc-cowells",
+                    "alias": "wc-cowells"
+                }
+            ]
+        },
+        {
+            "_id": "641c7e5395774e076bf4dd4c",
+            "lat": 36.964344,
+            "lon": -121.96017,
+            "name": "Privates",
+            "subregionName": "Santa Cruz",
+            "cameras": [
+                {
+                    "_id": "654d17812dae77d224e6b736",
+                    "title": "STC - Privates",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-privates/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-privates/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-privates/wc-privates",
+                    "alias": "wc-privates"
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a770880b",
+            "lat": 36.95782765000708,
+            "lon": -121.96729,
+            "name": "Jack's",
+            "subregionName": "Santa Cruz",
+            "cameras": [
+                {
+                    "_id": "5834946f3421b20545c4b51a",
+                    "title": "STC - Jack's",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-jacks/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-jacks/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-jacks/wc-jacks",
+                    "alias": "wc-jacks"
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708ddf",
+            "lat": 36.971492,
+            "lon": -121.9486,
+            "name": "Capitola",
+            "subregionName": "Santa Cruz",
+            "cameras": [
+                {
+                    "_id": "600db84b83602e171b044734",
+                    "title": "STC - Capitola Peak",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-capitolapeak/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-capitolapeak/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-capitolapeak/wc-capitolapeak",
+                    "alias": "wc-capitolapeak"
+                },
+                {
+                    "_id": "583496c63421b20545c4b529",
+                    "title": "STC - Capitola Jetty",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-capitolajetty/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-capitolajetty/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-capitolajetty/wc-capitolajetty",
+                    "alias": "wc-capitolajetty"
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a770896f",
+            "lat": 37.48293,
+            "lon": -122.45488,
+            "name": "Half Moon Bay",
+            "subregionName": "Half Moon Bay",
+            "cameras": [
+                {
+                    "_id": "66a14da5cac63efc51ae6788",
+                    "title": "SF - Half Moon Bay",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-halfmoonbay/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-halfmoonbay/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-halfmoonbay/wc-halfmoonbay",
+                    "alias": "wc-halfmoonbay"
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77087f9",
+            "lat": 37.741668,
+            "lon": -122.51038,
+            "name": "South Ocean Beach",
+            "subregionName": "San Francisco",
+            "cameras": [
+                {
+                    "_id": "5834a0c53421b20545c4b587",
+                    "title": "SF - Taraval",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-taraval/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-taraval/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-taraval/wc-taraval",
+                    "alias": "wc-taraval"
+                },
+                {
+                    "_id": "615dd986de7d8059b38a053f",
+                    "title": "SF - Vicente St.",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-vicente/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-vicente/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-vicente/wc-vicente",
+                    "alias": "wc-vicente"
+                }
+            ]
+        },
+        {
+            "_id": "5d9b68deab58860001c7359e",
+            "lat": 37.77524656957721,
+            "lon": -122.51312,
+            "name": "North Ocean Beach",
+            "subregionName": "San Francisco",
+            "cameras": [
+                {
+                    "_id": "5d9bd4c1aadd6d60def73b30",
+                    "title": "SF - North Ocean Beach",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-northoceanbeach/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-northoceanbeach/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-northoceanbeach/wc-northoceanbeach",
+                    "alias": "wc-northoceanbeach"
+                },
+                {
+                    "_id": "6092eb11b4f64ebcb03ddf8d",
+                    "title": "SF - Balboa St.",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-balboast/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-balboast/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-balboast/wc-balboast",
+                    "alias": "wc-balboast"
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708807",
+            "lat": 36.95468082526536,
+            "lon": -121.97234,
+            "name": "Pleasure Point",
+            "subregionName": "Santa Cruz",
+            "cameras": [
+                {
+                    "_id": "5cf0124c4f41df57b971a9a4",
+                    "title": "STC - First and Second Peak",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-pleasureptov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-pleasureptov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-pleasureptov/wc-pleasureptov",
+                    "alias": "wc-pleasureptov"
+                },
+                {
+                    "_id": "58349f2a3421b20545c4b56e",
+                    "title": "STC - Sewer Peak",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-pleasurept/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-pleasurept/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-pleasurept/wc-pleasurept",
+                    "alias": "wc-pleasurept"
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708805",
+            "lat": 36.95188851423011,
+            "lon": -122.02522,
+            "name": "Steamer Lane",
+            "subregionName": "Santa Cruz",
+            "cameras": [
+                {
+                    "_id": "63726f8a5cd4988578c5179b",
+                    "title": "STC - Steamer Lane Close-Up",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-steamercloseup/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-steamercloseup/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-steamercloseup/wc-steamercloseup",
+                    "alias": "wc-steamercloseup"
+                },
+                {
+                    "_id": "6176eb147ee6a18b0b1e68c3",
+                    "title": "STC - Steamer Lane",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-steamer/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-steamer/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-steamer/wc-steamer",
+                    "alias": "wc-steamer"
+                },
+                {
+                    "_id": "5834a0de3421b20545c4b58a",
+                    "title": "STC - Steamer Lane Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-steamerov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-steamerov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-steamerov/wc-steamerov",
+                    "alias": "wc-steamerov"
+                }
+            ]
+        },
+        {
+            "_id": "638e32a4f052ba4ed06d0e3e",
+            "lat": 37.75281,
+            "lon": -122.51014,
+            "name": "Central Ocean Beach",
+            "subregionName": "San Francisco",
+            "cameras": [
+                {
+                    "_id": "607600df647e438e1f095a5b",
+                    "title": "SF - Ocean Beach, SF",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-oceanbeachsf/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-oceanbeachsf/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-oceanbeachsf/wc-oceanbeachsf",
+                    "alias": "wc-oceanbeachsf"
+                },
+                {
+                    "_id": "58349e103421b20545c4b563",
+                    "title": "SF - Ocean Beach Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-oceanbeachov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-oceanbeachov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-oceanbeachov/wc-oceanbeachov",
+                    "alias": "wc-oceanbeachov"
+                },
+                {
+                    "_id": "58bde44e1f1c96410558243c",
+                    "title": "SF - Central Ocean Beach South",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-centralobsfsouth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-centralobsfsouth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-centralobsfsouth/wc-centralobsfsouth",
+                    "alias": "wc-centralobsfsouth"
+                },
+                {
+                    "_id": "58bde43d1f1c96410558243b",
+                    "title": "SF - Central Ocean Beach North",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-centralobsfnorth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-centralobsfnorth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-centralobsfnorth/wc-centralobsfnorth",
+                    "alias": "wc-centralobsfnorth"
+                }
+            ]
+        }
+    ]
+}
