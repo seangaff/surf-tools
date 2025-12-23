@@ -103,14 +103,23 @@ document.addEventListener('DOMContentLoaded', async () => {
         video.style.display = 'block';
 
         const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+        const isExtensionActive = document.body.getAttribute('data-surfline-extension-active') === 'true';
 
-        if (isMobile) {
-            console.log("Mobile detected: Using direct stream connection");
-            // Mobile devices (iOS/Android) often don't enforce Referer or are allowlisted
-            video.src = streamUrl;
-            video.addEventListener('loadedmetadata', function () {
-                video.play();
-            });
+        if (isMobile || isExtensionActive) {
+            const reason = isMobile ? "Mobile Device" : "Chrome Extension";
+            console.log(`${reason} detected: Using direct stream connection`);
+
+            // Direct playback logic
+            if (Hls.isSupported()) {
+                if (hls) hls.destroy();
+                hls = new Hls(); // No proxy loader!
+                hls.loadSource(streamUrl);
+                hls.attachMedia(video);
+                hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
+            } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+                video.src = streamUrl;
+                video.addEventListener('loadedmetadata', () => video.play());
+            }
             return;
         }
 
