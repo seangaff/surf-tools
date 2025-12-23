@@ -1,0 +1,33 @@
+{
+    "manifest_version": 3,
+    "name": "Surfline Referer Injector",
+    "version": "1.0",
+    "description": "Injects Referer header for Surfline streams to allow local playback.",
+    "permissions": [
+        "declarativeNetRequest",
+        "declarativeNetRequestWithHostAccess"
+    ],
+    "host_permissions": [
+        "https://*.cdn-surfline.com/*",
+        "http://localhost:8000/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "http://localhost:8000/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "declarative_net_request": {
+        "rule_resources": [
+            {
+                "id": "ruleset_1",
+                "enabled": true,
+                "path": "rules.json"
+            }
+        ]
+    }
+}
