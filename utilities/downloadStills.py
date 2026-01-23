@@ -73,11 +73,12 @@ def download_image(camData):
         
 
 def download_loop():
-    if is_daylight():
-        for cam in cam_urls:
-            download_image(cam)
-    else:
-        print("Not daylight, skipping download")
+    while True:
+        if is_daylight():
+            for cam in cam_urls:
+                download_image(cam)
+        else:
+            print("Not daylight, skipping download")
 
     time.sleep(INTERVAL_SECONDS)
 
