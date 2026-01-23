@@ -80,7 +80,7 @@ def download_loop():
         else:
             print("Not daylight, skipping download")
 
-    time.sleep(INTERVAL_SECONDS)
+        time.sleep(INTERVAL_SECONDS)
 
 if __name__ == "__main__":
     print(f"Starting periodic download for {SUBREGION}")
