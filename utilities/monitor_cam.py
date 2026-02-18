@@ -1,3 +1,5 @@
+# Script used to verify frequency of stills updates
+
 import requests
 import time
 from datetime import datetime

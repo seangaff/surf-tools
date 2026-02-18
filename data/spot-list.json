@@ -1,0 +1,52 @@
+{
+    "spot": "Linda Mar",
+    "surfline": [
+        {
+            "_id": "5842041f4e65fad6a7708976",
+            "lat": 37.59881852720143,
+            "lon": -122.50463,
+            "name": "Linda Mar",
+            "subregionName": "Pacifica"
+        },
+        {
+            "_id": "5cbf8d85e7b15800014909e8",
+            "lat": 37.602434248190164,
+            "lon": -122.50096,
+            "name": "Linda Mar North",
+            "subregionName": "Pacifica",
+            "cameras": [
+                {
+                    "_id": "668ffb93eb2e0bf2616ece64",
+                    "title": "SF - Wander Inn",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-wanderinnpacifica/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-wanderinnpacifica/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-wanderinnpacifica/wc-wanderinnpacifica",
+                    "alias": "wc-wanderinnpacifica"
+                },
+                {
+                    "_id": "58349ea8e411dc743a5d52c7",
+                    "title": "SF - North End",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-northendpacifica/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-northendpacifica/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-northendpacifica/wc-northendpacifica",
+                    "alias": "wc-northendpacifica"
+                }
+            ]
+        }
+    ],
+    "spitcast": [
+        {
+            "_id": 120,
+            "coast_order": "07-03",
+            "coordinates": [
+                -122.5030853194715,
+                37.59907859206418
+            ],
+            "county_id": 7,
+            "field_data_count": 16,
+            "spot_id_char": "linda-mar-pacifica-ca",
+            "spot_name": "Linda Mar",
+            "street_address": "4900-5218 Cabrillo Hwy, Pacifica, CA 94044, USA"
+        }
+    ]
+}

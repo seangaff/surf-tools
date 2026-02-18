@@ -1,0 +1,4216 @@
+[
+    {
+        "_id": 652,
+        "coast_order": "01-01",
+        "coordinates": [
+            -124.2144472484002,
+            41.86938356954192
+        ],
+        "county_id": 40,
+        "field_data_count": 0,
+        "spot_id_char": "smith-river-kellog-road-crescent-city-ca",
+        "spot_name": "Smith River Kellog Road",
+        "street_address": "900 Kellogg Rd, Crescent City, CA 95531, USA"
+    },
+    {
+        "_id": 653,
+        "coast_order": "01-02",
+        "coordinates": [
+            -124.2552149404516,
+            41.78684484657823
+        ],
+        "county_id": 40,
+        "field_data_count": 0,
+        "spot_id_char": "point-st-george-crescent-city-ca",
+        "spot_name": "Point St George",
+        "street_address": "4300 N Pebble Beach Dr, Crescent City, CA 95531, USA"
+    },
+    {
+        "_id": 654,
+        "coast_order": "01-03",
+        "coordinates": [
+            -124.2392204930023,
+            41.76951799906643
+        ],
+        "county_id": 40,
+        "field_data_count": 0,
+        "spot_id_char": "garths-reef-crescent-city-ca",
+        "spot_name": "Garths Reef",
+        "street_address": "893-999 N Pebble Beach Dr, Crescent City, CA 95531, USA"
+    },
+    {
+        "_id": 655,
+        "coast_order": "01-04",
+        "coordinates": [
+            -124.1816271141612,
+            41.74016141094163
+        ],
+        "county_id": 40,
+        "field_data_count": 0,
+        "spot_id_char": "whaler-island-crescent-city-ca",
+        "spot_name": "Whaler Island",
+        "street_address": "110 Anchor Way, Crescent City, CA 95531, USA"
+    },
+    {
+        "_id": 656,
+        "coast_order": "01-05",
+        "coordinates": [
+            -124.168107730491,
+            41.73788896161451
+        ],
+        "county_id": 40,
+        "field_data_count": 0,
+        "spot_id_char": "souht-beach-crescent-city-ca",
+        "spot_name": "South Beach",
+        "street_address": "1500 U.S. 101, Crescent City, CA 95531, USA"
+    },
+    {
+        "_id": 657,
+        "coast_order": "01-06",
+        "coordinates": [
+            -124.1455957740673,
+            41.70863752995348
+        ],
+        "county_id": 40,
+        "field_data_count": 0,
+        "spot_id_char": "enderts-beach-klamath-ca",
+        "spot_name": "Enderts Beach",
+        "street_address": "2201-2299 Enderts Beach Rd, Redwood National Park, Redwood, Klamath, CA 95548, USA"
+    },
+    {
+        "_id": 658,
+        "coast_order": "01-07",
+        "coordinates": [
+            -124.1023018923942,
+            41.60409233409618
+        ],
+        "county_id": 40,
+        "field_data_count": 0,
+        "spot_id_char": "wilson-creek-klamath-ca",
+        "spot_name": "Wilson Creek",
+        "street_address": "15020-15498 Redwood Hwy, Redwood, Redwood National Park, Klamath, CA 95548, USA"
+    },
+    {
+        "_id": 659,
+        "coast_order": "01-08",
+        "coordinates": [
+            -124.0857421824345,
+            41.54703458341988
+        ],
+        "county_id": 40,
+        "field_data_count": 0,
+        "spot_id_char": "klamath-rivermouth-klamath-ca",
+        "spot_name": "Klamath Rivermouth",
+        "street_address": "Patrick J Murphy Memorial Dr, Klamath, CA 95548, USA"
+    },
+    {
+        "_id": 660,
+        "coast_order": "02-01",
+        "coordinates": [
+            -124.0727754950131,
+            41.38390356173104
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "gold-bluffs-beach-orick-ca",
+        "spot_name": "Gold Bluffs Beach",
+        "street_address": "Gold Bluffs Beach, Redwood National Park, Redwood, Orick, CA 95555, USA"
+    },
+    {
+        "_id": 661,
+        "coast_order": "02-02",
+        "coordinates": [
+            -124.0968267672407,
+            41.27149481280587
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "freshwater-lagoon-trinidad-ca",
+        "spot_name": "Freshwater Lagoon",
+        "street_address": "U.S. 101, Redwood National Park, Redwood, Trinidad, CA 95570, USA"
+    },
+    {
+        "_id": 662,
+        "coast_order": "02-03",
+        "coordinates": [
+            -124.1623052534996,
+            41.13248951472039
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "patricks-point-trinidad-ca",
+        "spot_name": "Patricks Point",
+        "street_address": "Unnamed Rd, Trinidad, CA 95570, USA"
+    },
+    {
+        "_id": 663,
+        "coast_order": "02-04",
+        "coordinates": [
+            -124.1494131650617,
+            41.05990555028765
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "trinidad-state-beach-trinidad-ca",
+        "spot_name": "Trinidad State Beach",
+        "street_address": "516 Ewing St, Trinidad, CA 95570, USA"
+    },
+    {
+        "_id": 664,
+        "coast_order": "02-05",
+        "coordinates": [
+            -124.1263838291088,
+            41.04792736761932
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "camel-rock-trinidad-ca",
+        "spot_name": "Camel Rock",
+        "street_address": "1183-1237 Scenic Dr, Trinidad, CA 95570, USA"
+    },
+    {
+        "_id": 665,
+        "coast_order": "02-06",
+        "coordinates": [
+            -124.1212780701598,
+            41.04041784725714
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "moonstone-trinidad-ca",
+        "spot_name": "Moonstone",
+        "street_address": "Scenic Dr, Trinidad, CA 95570, USA"
+    },
+    {
+        "_id": 666,
+        "coast_order": "02-07",
+        "coordinates": [
+            -124.1170768809114,
+            41.02900295174778
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "little-river-state-beach-trinidad-ca",
+        "spot_name": "Little River State Beach",
+        "street_address": "325 Osurg Ln, Trinidad, CA 95570, USA"
+    },
+    {
+        "_id": 667,
+        "coast_order": "02-08",
+        "coordinates": [
+            -124.1282835019915,
+            40.96543336109954
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "mad-river-beach-mckinlyville-ca",
+        "spot_name": "Mad River Beach",
+        "street_address": "3244 Letz Ln, Mckinleyville, CA 95519, USA"
+    },
+    {
+        "_id": 668,
+        "coast_order": "02-09",
+        "coordinates": [
+            -124.2085307445489,
+            40.79991754280165
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "samoa-peninsula-samoa-ca",
+        "spot_name": "Samoa Peninsula",
+        "street_address": "Bay St, Samoa, CA 95564, USA"
+    },
+    {
+        "_id": 669,
+        "coast_order": "02-10",
+        "coordinates": [
+            -124.225849337131,
+            40.77313156766733
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "bunkers-samoa-ca",
+        "spot_name": "Bunkers",
+        "street_address": "95 New Navy Base Rd, Samoa, CA 95564, USA"
+    },
+    {
+        "_id": 670,
+        "coast_order": "02-11",
+        "coordinates": [
+            -124.2371225091838,
+            40.76913583020038
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "north-jetty-samoa-ca",
+        "spot_name": "North Jetty",
+        "street_address": "Lincoln Rd, Samoa, CA 95564, USA"
+    },
+    {
+        "_id": 671,
+        "coast_order": "02-12",
+        "coordinates": [
+            -124.2414548013954,
+            40.76906360606145
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "harbor-entrance-samoa-ca",
+        "spot_name": "Harbor Entrance",
+        "street_address": "Lincoln Rd, Samoa, CA 95564, USA"
+    },
+    {
+        "_id": 672,
+        "coast_order": "02-13",
+        "coordinates": [
+            -124.2457464202994,
+            40.76474127411608
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "south-jetty-somoa-ca",
+        "spot_name": "South Jetty",
+        "street_address": "S Jetty Rd, Samoa, CA 95564, USA"
+    },
+    {
+        "_id": 673,
+        "coast_order": "02-14",
+        "coordinates": [
+            -124.337076848425,
+            40.60093453902866
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "centerville-beach-ferndale-ca",
+        "spot_name": "Centerville Beach",
+        "street_address": "770 Russ Ln, Ferndale, CA 95536, USA"
+    },
+    {
+        "_id": 674,
+        "coast_order": "02-15",
+        "coordinates": [
+            -124.3630398225477,
+            40.35333169811158
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "cape-mendocino-ferndale-ca",
+        "spot_name": "Cape Mendocino",
+        "street_address": "Mattole Rd, Ferndale, CA 95536, USA"
+    },
+    {
+        "_id": 675,
+        "coast_order": "02-16",
+        "coordinates": [
+            -124.0757547164312,
+            40.02469903409791
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "deadmans-whitethorn-ca",
+        "spot_name": "Deadmans",
+        "street_address": "865 Lower Pacific Dr, Whitethorn, CA 95589, USA"
+    },
+    {
+        "_id": 676,
+        "coast_order": "02-17",
+        "coordinates": [
+            -124.0720505571327,
+            40.02116732237296
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "third-reef-whitethorn-ca",
+        "spot_name": "Third Reef",
+        "street_address": "62 Seal Ct, Whitethorn, CA 95589, USA"
+    },
+    {
+        "_id": 677,
+        "coast_order": "02-18",
+        "coordinates": [
+            -124.0662871231413,
+            40.02136773025008
+        ],
+        "county_id": 2,
+        "field_data_count": 0,
+        "spot_id_char": "no-pass-whitethorn-ca",
+        "spot_name": "No Pass",
+        "street_address": "62 Seal Ct, Whitethorn, CA 95589, USA"
+    },
+    {
+        "_id": 678,
+        "coast_order": "03-01",
+        "coordinates": [
+            -123.7857418990746,
+            39.65912294504096
+        ],
+        "county_id": 3,
+        "field_data_count": 0,
+        "spot_id_char": "dehaven-creek-westport-ca",
+        "spot_name": "DeHaven Creek",
+        "street_address": "39314-39406 Shoreline Hwy, Westport, CA 95488, USA"
+    },
+    {
+        "_id": 679,
+        "coast_order": "03-02",
+        "coordinates": [
+            -123.7846551215355,
+            39.6101054447273
+        ],
+        "county_id": 3,
+        "field_data_count": 0,
+        "spot_id_char": "chadbourne-gulch-blues-beach-westport-ca",
+        "spot_name": "Chadbourne Gulch Blues Beach",
+        "street_address": "36709-36711 Shoreline Hwy, Westport, CA 95488, USA"
+    },
+    {
+        "_id": 680,
+        "coast_order": "03-03",
+        "coordinates": [
+            -123.770668215915,
+            39.5634828753688
+        ],
+        "county_id": 3,
+        "field_data_count": 0,
+        "spot_id_char": "seaside-creek-beach-fort-bragg-ca",
+        "spot_name": "Seaside Creek Beach",
+        "street_address": "30290 N Hwy 1, Fort Bragg, CA 95437, USA"
+    },
+    {
+        "_id": 681,
+        "coast_order": "03-04",
+        "coordinates": [
+            -123.7913789808535,
+            39.49916844341007
+        ],
+        "county_id": 3,
+        "field_data_count": 0,
+        "spot_id_char": "ward-avenue-fort-bragg-ca",
+        "spot_name": "Ward Avenue",
+        "street_address": "25389-25809 Ward Ave, Fort Bragg, CA 95437, USA"
+    },
+    {
+        "_id": 682,
+        "coast_order": "03-05",
+        "coordinates": [
+            -123.8064186546377,
+            39.47238242192011
+        ],
+        "county_id": 3,
+        "field_data_count": 0,
+        "spot_id_char": "virgin-creek-fort-bragg-ca",
+        "spot_name": "Virgin Creek",
+        "street_address": "MacKerricher State Park Rd, Fort Bragg, CA 95437, USA"
+    },
+    {
+        "_id": 683,
+        "coast_order": "03-06",
+        "coordinates": [
+            -123.8175781480662,
+            39.36122024445874
+        ],
+        "county_id": 3,
+        "field_data_count": 0,
+        "spot_id_char": "caspar-creek-caspar-ca",
+        "spot_name": "Caspar Creek",
+        "street_address": "County Road 409, Caspar, CA 95420, USA"
+    },
+    {
+        "_id": 684,
+        "coast_order": "03-07",
+        "coordinates": [
+            -123.7979824378202,
+            39.30158156046602
+        ],
+        "county_id": 3,
+        "field_data_count": 0,
+        "spot_id_char": "big-rivermouth-elk-ca",
+        "spot_name": "Big Rivermouth",
+        "street_address": "10000 State 1, Elk, CA 95432, USA"
+    },
+    {
+        "_id": 685,
+        "coast_order": "03-08",
+        "coordinates": [
+            -123.7629601336068,
+            39.19110878755055
+        ],
+        "county_id": 3,
+        "field_data_count": 0,
+        "spot_id_char": "navarro-rivermouth-albion-ca",
+        "spot_name": "Navarro Rivermouth",
+        "street_address": "1020 State 1, Albion, CA 95410, USA"
+    },
+    {
+        "_id": 686,
+        "coast_order": "03-09",
+        "coordinates": [
+            -123.6967097723784,
+            39.00464292450229
+        ],
+        "county_id": 3,
+        "field_data_count": 0,
+        "spot_id_char": "manchester-state-beach-alder-creek-manchester-ca",
+        "spot_name": "Manchester State Beach Alder Creek",
+        "street_address": "17502 Alder Creek Beach Rd, Manchester, CA 95459, USA"
+    },
+    {
+        "_id": 687,
+        "coast_order": "03-10",
+        "coordinates": [
+            -123.7136648463088,
+            38.91451474492643
+        ],
+        "county_id": 3,
+        "field_data_count": 0,
+        "spot_id_char": "point-arena-point-arena-ca",
+        "spot_name": "Point Arena",
+        "street_address": "787-799 Port Rd, Point Arena, CA 95468, USA"
+    },
+    {
+        "_id": 688,
+        "coast_order": "03-11",
+        "coordinates": [
+            -123.6557633035471,
+            38.86630864537606
+        ],
+        "county_id": 3,
+        "field_data_count": 0,
+        "spot_id_char": "schooner-gulch-moat-creek-gualala-ca",
+        "spot_name": "Schooner Gulch Moat Creek",
+        "street_address": "28650 Coast Hwy, Gualala, CA 95445, USA"
+    },
+    {
+        "_id": 689,
+        "coast_order": "03-12",
+        "coordinates": [
+            -123.5338971344137,
+            38.76852183681328
+        ],
+        "county_id": 3,
+        "field_data_count": 0,
+        "spot_id_char": "gualala-rivermouth-gualala-ca",
+        "spot_name": "Gualala Rivermouth",
+        "street_address": "39010 Ocean Dr, Gualala, CA 95445, USA"
+    },
+    {
+        "_id": 105,
+        "coast_order": "04-01",
+        "coordinates": [
+            -123.4343167105767,
+            38.68314038005085
+        ],
+        "county_id": 4,
+        "field_data_count": 0,
+        "spot_id_char": "black-point-beach-annapolis-ca",
+        "spot_name": "Black Point Beach",
+        "street_address": "66 Black Point Reach, Annapolis, CA 95412, USA"
+    },
+    {
+        "_id": 690,
+        "coast_order": "04-02",
+        "coordinates": [
+            -123.3665369591898,
+            38.6117960057976
+        ],
+        "county_id": 4,
+        "field_data_count": 0,
+        "spot_id_char": "secrets-cazadero-ca",
+        "spot_name": "Secrets",
+        "street_address": "29300-29398 Coast Hwy, Cazadero, CA 95421, USA"
+    },
+    {
+        "_id": 691,
+        "coast_order": "04-03",
+        "coordinates": [
+            -123.2746222351737,
+            38.53249414365875
+        ],
+        "county_id": 4,
+        "field_data_count": 0,
+        "spot_id_char": "timber-cove-jenner-ca",
+        "spot_name": "Timber Cove",
+        "street_address": "21400-21498 Coast Hwy, Jenner, CA 95450, USA"
+    },
+    {
+        "_id": 692,
+        "coast_order": "04-04",
+        "coordinates": [
+            -123.2471903525999,
+            38.51132509144884
+        ],
+        "county_id": 4,
+        "field_data_count": 0,
+        "spot_id_char": "the-fort-jenner-ca",
+        "spot_name": "The Fort",
+        "street_address": "Fort Ross, Jenner, CA 95450, USA"
+    },
+    {
+        "_id": 693,
+        "coast_order": "04-05",
+        "coordinates": [
+            -123.2445259424552,
+            38.51080334904413
+        ],
+        "county_id": 4,
+        "field_data_count": 0,
+        "spot_id_char": "mystos-jenner-ca",
+        "spot_name": "Mystos",
+        "street_address": "Fort Ross, Jenner, CA 95450, USA"
+    },
+    {
+        "_id": 106,
+        "coast_order": "04-06",
+        "coordinates": [
+            -123.1320928893431,
+            38.4508605833631
+        ],
+        "county_id": 4,
+        "field_data_count": 1,
+        "spot_id_char": "russian-rivermouth-jenner-ca",
+        "spot_name": "Russian Rivermouth",
+        "street_address": "18156-18262 Shoreline Hwy, Jenner, CA 95450, USA"
+    },
+    {
+        "_id": 694,
+        "coast_order": "04-07",
+        "coordinates": [
+            -123.1264469919029,
+            38.43959300319968
+        ],
+        "county_id": 4,
+        "field_data_count": 1,
+        "spot_id_char": "goat-rock-jenner-ca",
+        "spot_name": "Goat Rock",
+        "street_address": "State Park Rd, Jenner, CA 95450, USA"
+    },
+    {
+        "_id": 107,
+        "coast_order": "04-08",
+        "coordinates": [
+            -123.0701937939567,
+            38.35161397966453
+        ],
+        "county_id": 4,
+        "field_data_count": 1,
+        "spot_id_char": "salmon-creek-bodega-bay-ca",
+        "spot_name": "Salmon Creek",
+        "street_address": "290 Bean Ave, Bodega Bay, CA 94923, USA"
+    },
+    {
+        "_id": 108,
+        "coast_order": "04-09",
+        "coordinates": [
+            -123.0428294861607,
+            38.31096984785684
+        ],
+        "county_id": 4,
+        "field_data_count": 0,
+        "spot_id_char": "doran-beach-bodege-bay-ca",
+        "spot_name": "Doran Beach",
+        "street_address": "15747-30971 Doran Beach Rd, Bodega Bay, CA 94923, USA"
+    },
+    {
+        "_id": 109,
+        "coast_order": "05-01",
+        "coordinates": [
+            -122.9722060745764,
+            38.25173671724974
+        ],
+        "county_id": 5,
+        "field_data_count": 16,
+        "spot_id_char": "dillon-beach-ca",
+        "spot_name": "Dillon Beach",
+        "street_address": "25 Tahiti Way, Dillon Beach, CA 94929, USA"
+    },
+    {
+        "_id": 695,
+        "coast_order": "05-02",
+        "coordinates": [
+            -122.9891549222258,
+            38.04876345362046
+        ],
+        "county_id": 5,
+        "field_data_count": 0,
+        "spot_id_char": "point-reyes-beach-inverness-ca",
+        "spot_name": "Point Reyes Beach",
+        "street_address": "Unnamed Rd, Point Reyes National Seashore, Inverness, CA 94937, USA"
+    },
+    {
+        "_id": 696,
+        "coast_order": "05-03",
+        "coordinates": [
+            -122.9400152805136,
+            38.02920077663929
+        ],
+        "county_id": 5,
+        "field_data_count": 0,
+        "spot_id_char": "drakes-estero-inverness-ca",
+        "spot_name": "Drakes Estero",
+        "street_address": "Sunset Beach Trail, Point Reyes National Seashore, Inverness, CA 94937, USA"
+    },
+    {
+        "_id": 592,
+        "coast_order": "05-04",
+        "coordinates": [
+            -122.6896534432284,
+            37.90118919774803
+        ],
+        "county_id": 5,
+        "field_data_count": 1,
+        "spot_id_char": "the-patch-bolinas-ca",
+        "spot_name": "The Patch",
+        "street_address": "8 Ocean Pkwy, Bolinas, CA 94924, USA"
+    },
+    {
+        "_id": 110,
+        "coast_order": "05-05",
+        "coordinates": [
+            -122.6815204402253,
+            37.90346451242883
+        ],
+        "county_id": 5,
+        "field_data_count": 1,
+        "spot_id_char": "bolinas-bolinas-ca",
+        "spot_name": "Bolinas",
+        "street_address": "79 Crescent Ave, Bolinas, CA 94924, USA"
+    },
+    {
+        "_id": 111,
+        "coast_order": "05-06",
+        "coordinates": [
+            -122.6391427879987,
+            37.89358651821565
+        ],
+        "county_id": 5,
+        "field_data_count": 16,
+        "spot_id_char": "stinson-beach-stinson-beach-ca",
+        "spot_name": "Stinson Beach",
+        "street_address": "18 Marine Way, Golden Gate National Recreation Area, Stinson Beach, CA, USA"
+    },
+    {
+        "_id": 112,
+        "coast_order": "05-07",
+        "coordinates": [
+            -122.5397845322041,
+            37.83130487999694
+        ],
+        "county_id": 5,
+        "field_data_count": 1,
+        "spot_id_char": "fort-cronkhite-mill-valley-ca",
+        "spot_name": "Fort Cronkhite",
+        "street_address": "Mitchell Rd, Mill Valley, CA 94941, USA"
+    },
+    {
+        "_id": 800,
+        "coast_order": "06-01",
+        "coordinates": [
+            -122.469909,
+            37.808306
+        ],
+        "county_id": 6,
+        "field_data_count": 1,
+        "spot_id_char": "crissy-field-san-francisco-ca",
+        "spot_name": "Crissy Field",
+        "street_address": "Presidio of San Francisco, 983 Marine Dr, San Francisco, CA 94129, USA"
+    },
+    {
+        "_id": 113,
+        "coast_order": "06-02",
+        "coordinates": [
+            -122.4762562938768,
+            37.8112808634946
+        ],
+        "county_id": 6,
+        "field_data_count": 16,
+        "spot_id_char": "fort-point-san-francisco-ca",
+        "spot_name": "Fort Point",
+        "street_address": "Marine Dr, Presidio of San Francisco, Fort Point National Historic Site, San Francisco, CA 94129, USA"
+    },
+    {
+        "_id": 649,
+        "coast_order": "06-03",
+        "coordinates": [
+            -122.4928411936139,
+            37.78773976851884
+        ],
+        "county_id": 6,
+        "field_data_count": 16,
+        "spot_id_char": "eagles-point-san-francisco-ca",
+        "spot_name": "Eagles Point",
+        "street_address": "880 El Camino Del Mar, San Francisco, CA 94121, USA"
+    },
+    {
+        "_id": 648,
+        "coast_order": "06-04",
+        "coordinates": [
+            -122.4944290343175,
+            37.7880313594865
+        ],
+        "county_id": 6,
+        "field_data_count": 16,
+        "spot_id_char": "deadmans-san-francisco-ca",
+        "spot_name": "Deadmans",
+        "street_address": "Lands End Trail, San Francisco, CA 94121, USA"
+    },
+    {
+        "_id": 697,
+        "coast_order": "06-05",
+        "coordinates": [
+            -122.5158257105333,
+            37.77748633115122
+        ],
+        "county_id": 6,
+        "field_data_count": 16,
+        "spot_id_char": "kellys-cove-san-francisco-ca",
+        "spot_name": "Ocean Beach Kellys Cove",
+        "street_address": "1096 Point Lobos, Golden Gate National Recreation Area, San Francisco, CA 94121, USA"
+    },
+    {
+        "_id": 114,
+        "coast_order": "06-06",
+        "coordinates": [
+            -122.5134765883138,
+            37.76825651179624
+        ],
+        "county_id": 6,
+        "field_data_count": 16,
+        "spot_id_char": "north-ocean-beach-san-francisco-ca",
+        "spot_name": "Ocean Beach VFW",
+        "street_address": "1000 Great Hwy, San Francisco, CA 94121, USA"
+    },
+    {
+        "_id": 117,
+        "coast_order": "06-07",
+        "coordinates": [
+            -122.5111052256233,
+            37.75462259230174
+        ],
+        "county_id": 6,
+        "field_data_count": 16,
+        "spot_id_char": "south-ocean-beach-san-francisco-ca",
+        "spot_name": "Ocean Beach Noriega",
+        "street_address": "1405-1451 Great Hwy, San Francisco, CA 94122, USA"
+    },
+    {
+        "_id": 801,
+        "coast_order": "06-08",
+        "coordinates": [
+            -122.508197,
+            37.734451
+        ],
+        "county_id": 6,
+        "field_data_count": 16,
+        "spot_id_char": "sloat-ocean-beach-san-francisco-ca",
+        "spot_name": "Ocean Beach Sloat",
+        "street_address": "2801 Great Hwy, San Francisco, CA 94132, USA"
+    },
+    {
+        "_id": 619,
+        "coast_order": "07-01",
+        "coordinates": [
+            -122.4944959843629,
+            37.63247221720781
+        ],
+        "county_id": 7,
+        "field_data_count": 0,
+        "spot_id_char": "sharp-park-pacifica-ca",
+        "spot_name": "Sharp Park",
+        "street_address": "2200-2322 Beach Blvd, Pacifica, CA 94044, USA"
+    },
+    {
+        "_id": 119,
+        "coast_order": "07-02",
+        "coordinates": [
+            -122.4986424829372,
+            37.6099753284639
+        ],
+        "county_id": 7,
+        "field_data_count": 1,
+        "spot_id_char": "rockaway-beach-pacifica-ca",
+        "spot_name": "Rockaway Beach",
+        "street_address": "100 Rockaway Beach Ave, Pacifica, CA 94044, USA"
+    },
+    {
+        "_id": 120,
+        "coast_order": "07-03",
+        "coordinates": [
+            -122.5030853194715,
+            37.59907859206418
+        ],
+        "county_id": 7,
+        "field_data_count": 16,
+        "spot_id_char": "linda-mar-pacifica-ca",
+        "spot_name": "Linda Mar",
+        "street_address": "4900-5218 Cabrillo Hwy, Pacifica, CA 94044, USA"
+    },
+    {
+        "_id": 698,
+        "coast_order": "07-04",
+        "coordinates": [
+            -122.5203291514914,
+            37.59492860680133
+        ],
+        "county_id": 7,
+        "field_data_count": 0,
+        "spot_id_char": "pedro-point-pacifica-ca",
+        "spot_name": "Pedro Point",
+        "street_address": "17 Shelter Cove, Pacifica, CA 94044, USA"
+    },
+    {
+        "_id": 121,
+        "coast_order": "07-05",
+        "coordinates": [
+            -122.5146397085612,
+            37.55160926013969
+        ],
+        "county_id": 7,
+        "field_data_count": 16,
+        "spot_id_char": "montara-montara-ca",
+        "spot_name": "Montara",
+        "street_address": "8150 Cabrillo Hwy, Montara, CA 94037, USA"
+    },
+    {
+        "_id": 122,
+        "coast_order": "07-06",
+        "coordinates": [
+            -122.5022524228539,
+            37.49165636548885
+        ],
+        "county_id": 7,
+        "facts": [
+            "Mavericks is primarily a right.  Surfers rarely go left."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "mavericks-half-moon-bay-ca",
+        "spot_name": "Mavericks",
+        "street_address": "9 Johnson Pier, Half Moon Bay, CA 94018, USA"
+    },
+    {
+        "_id": 123,
+        "coast_order": "07-07",
+        "coordinates": [
+            -122.4716653656277,
+            37.50069427235728
+        ],
+        "county_id": 7,
+        "field_data_count": 16,
+        "spot_id_char": "princeton-jetty-half-moon-bay-ca",
+        "spot_name": "Princeton Jetty",
+        "street_address": "3800-3998 Cabrillo Hwy N, Half Moon Bay, CA 94019, USA"
+    },
+    {
+        "_id": 124,
+        "coast_order": "07-08",
+        "coordinates": [
+            -122.4530953542053,
+            37.48073387204114
+        ],
+        "county_id": 7,
+        "field_data_count": 0,
+        "spot_id_char": "half-moon-bay-beach-half-moon-bay-ca",
+        "spot_name": "Half Moon Bay Beach",
+        "street_address": "Half Moon Bay Coastal Trail, Half Moon Bay, CA 94019, USA"
+    },
+    {
+        "_id": 699,
+        "coast_order": "07-09",
+        "coordinates": [
+            -122.4069147140709,
+            37.32227116721715
+        ],
+        "county_id": 7,
+        "field_data_count": 16,
+        "spot_id_char": "san-gregorio-state-beach-half-moon-bay-ca",
+        "spot_name": "San Gregorio State Beach",
+        "street_address": "20033 Cabrillo Hwy S, Half Moon Bay, CA 94019, USA"
+    },
+    {
+        "_id": 126,
+        "coast_order": "07-10",
+        "coordinates": [
+            -122.410118588468,
+            37.29934492669435
+        ],
+        "county_id": 7,
+        "field_data_count": 16,
+        "spot_id_char": "pomponio-state-beach-san-gregorio-ca",
+        "spot_name": "Pomponio State Beach",
+        "street_address": "19367 Cabrillo Hwy S, San Gregorio, CA 94074, USA"
+    },
+    {
+        "_id": 127,
+        "coast_order": "07-11",
+        "coordinates": [
+            -122.4114038882407,
+            37.27152529453154
+        ],
+        "county_id": 7,
+        "field_data_count": 16,
+        "spot_id_char": "pescadero-state-beach-san-gregorio-ca",
+        "spot_name": "Pescadero State Beach",
+        "street_address": "18047-18251 Cabrillo Hwy S, San Gregorio, CA 94074, USA"
+    },
+    {
+        "_id": 700,
+        "coast_order": "07-12",
+        "coordinates": [
+            -122.4142561181521,
+            37.25856657307122
+        ],
+        "county_id": 7,
+        "field_data_count": 1,
+        "spot_id_char": "pescadero-cove-pescadero-ca",
+        "spot_name": "Pescadero Cove",
+        "street_address": "Cabrillo Hwy, Pescadero, CA 94060, USA"
+    },
+    {
+        "_id": 701,
+        "coast_order": "07-13",
+        "coordinates": [
+            -122.3631308001734,
+            37.16302509342735
+        ],
+        "county_id": 7,
+        "field_data_count": 1,
+        "spot_id_char": "gazos-creek-pescadero-ca",
+        "spot_name": "Gazos Creek",
+        "street_address": "5700-5720 Cabrillo Hwy, Pescadero, CA 94060, USA"
+    },
+    {
+        "_id": 622,
+        "coast_order": "07-14",
+        "coordinates": [
+            -122.361703303915,
+            37.15196980257599
+        ],
+        "county_id": 7,
+        "field_data_count": 1,
+        "spot_id_char": "franklin-point-pescadero-ca",
+        "spot_name": "Franklin Point",
+        "street_address": "5400 Cabrillo Hwy, Pescadero, CA 94060, USA"
+    },
+    {
+        "_id": 118,
+        "coast_order": "07-15",
+        "coordinates": [
+            -122.3144829358251,
+            37.11763256378267
+        ],
+        "county_id": 7,
+        "field_data_count": 16,
+        "spot_id_char": "ano-nuevo-pescadero-ca",
+        "spot_name": "Ano Nuevo",
+        "street_address": "New Years Creek Rd, Pescadero, CA 94060, USA"
+    },
+    {
+        "_id": 593,
+        "coast_order": "08-01",
+        "coordinates": [
+            -122.2896309983957,
+            37.10437578582472
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "county-line-davenport-ca",
+        "spot_name": "County Line",
+        "street_address": "3641-3699 Cabrillo Hwy, Davenport, CA 95017, USA"
+    },
+    {
+        "_id": 129,
+        "coast_order": "08-02",
+        "coordinates": [
+            -122.2808743245171,
+            37.09662226732163
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "waddell-creek-davenport-ca",
+        "spot_name": "Waddell Creek",
+        "street_address": "3600 State Highway 1, Davenport, CA 95017, USA"
+    },
+    {
+        "_id": 600,
+        "coast_order": "08-03",
+        "coordinates": [
+            -122.2765857573174,
+            37.08835713180076
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "waddell-reefs-davenport-ca",
+        "spot_name": "Waddell Reefs",
+        "street_address": "3501-3601 Cabrillo Hwy, Davenport, CA 95017, USA"
+    },
+    {
+        "_id": 128,
+        "coast_order": "08-04",
+        "coordinates": [
+            -122.2336727663274,
+            37.04167059497804
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "scotts-creek-davenport-ca",
+        "spot_name": "Scotts Creek",
+        "street_address": "Cabrillo Hwy, Davenport, CA 95017, USA"
+    },
+    {
+        "_id": 621,
+        "coast_order": "08-05",
+        "coordinates": [
+            -122.2255121067336,
+            37.02860641199384
+        ],
+        "county_id": 1,
+        "field_data_count": 0,
+        "spot_id_char": "rims-reef-davenport-ca",
+        "spot_name": "Rims Reef",
+        "street_address": "Cabrillo Hwy, Davenport, CA 95017, USA"
+    },
+    {
+        "_id": 133,
+        "coast_order": "08-06",
+        "coordinates": [
+            -122.216233598759,
+            37.02135015084279
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "davenport-landing-davenport-ca",
+        "spot_name": "Davenport Landing",
+        "street_address": "325 Davenport Landing Rd, Davenport, CA 95017, USA"
+    },
+    {
+        "_id": 132,
+        "coast_order": "08-07",
+        "coordinates": [
+            -122.1553115289464,
+            36.98080544945326
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "laguna-creek-santa-cruz-ca",
+        "spot_name": "Laguna Creek",
+        "street_address": "Cabrillo Hwy, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 131,
+        "coast_order": "08-08",
+        "coordinates": [
+            -122.1268789119596,
+            36.9631290582128
+        ],
+        "county_id": 1,
+        "facts": [
+            "The wave is a right.",
+            "It is a flat sandstone point break.",
+            "The inside section is great for tube riding.",
+            "Best on high tide.",
+            "Best on medium sized days.  Not a great small or big waves.",
+            "It is very wind tolerant.",
+            "The crowd is pretty grumpy.",
+            "It is one of the best waves in the area.",
+            "Waves are usually fast down the line.",
+            "It is one of the more consistent waves in the area.",
+            "It is north of Santa Cruz, halfway to Davenport."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "four-mile-santa-cruz-ca",
+        "spot_name": "Four Mile",
+        "street_address": "3842-3898 Cabrillo Hwy, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 130,
+        "coast_order": "08-09",
+        "coordinates": [
+            -122.1185289127844,
+            36.96111361813115
+        ],
+        "county_id": 1,
+        "facts": [
+            "It requires a long walk from highway one through brussel sprout fields.",
+            "It is known for its friendly vibe, so do not bring attitude.  Plan to share.",
+            "The take off spot is incredibly shifty.  Expect finding the right position to be tricky.",
+            "It has a deep channel so it can handle very big winter swells.",
+            "The shape of the wave is excellent during summer south swells.",
+            "Legend has it that this is where Frosty Hesson saved Jay Moriarity from drowning as a child."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "three-mile-santa-cruz-ca",
+        "spot_name": "Three Mile",
+        "street_address": "3403-3499 Cabrillo Hwy, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 103,
+        "coast_order": "08-10",
+        "coordinates": [
+            -122.071213,
+            36.948505
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "secrets-santa-cruz-ca",
+        "spot_name": "Secrets",
+        "street_address": "100 McAllister Way, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 6,
+        "coast_order": "08-11",
+        "coordinates": [
+            -122.0610985303145,
+            36.94880399279453
+        ],
+        "county_id": 1,
+        "facts": [
+            "It is a sandstone slab reef point.",
+            "It is a right, not a left.",
+            "There are two main breaks; 'sidewalks' and 'marine labs'.",
+            "It is one of the best barrels in Santa Cruz.",
+            "It is very shallow.",
+            "It is an expert only surf spot."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "natural-bridges-santa-cruz-ca",
+        "spot_name": "Natural Bridges",
+        "street_address": "Horizon Dr, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 146,
+        "coast_order": "08-12",
+        "coordinates": [
+            -122.0510013993108,
+            36.9488870532301
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "stockton-avenue-santa-cruz-ca",
+        "spot_name": "Stockton Avenue",
+        "street_address": "2020 W Cliff Dr, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 145,
+        "coast_order": "08-13",
+        "coordinates": [
+            -122.0476440741294,
+            36.94901894269358
+        ],
+        "county_id": 1,
+        "facts": [
+            "It is a punchy right best for intermediate to advanced surfers.",
+            "The bathymetry is difficult to read offering rewards and frustration",
+            "It does not break without a big winter swell",
+            "It has a deep channel and can handle big waves",
+            "The inside section can offer a great barrel",
+            "It is a sandstone reef"
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "swift-street-santa-cruz-ca",
+        "spot_name": "Swift Street",
+        "street_address": "1612 W Cliff Dr, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 10,
+        "coast_order": "08-14",
+        "coordinates": [
+            -122.0454552095049,
+            36.94971531741057
+        ],
+        "county_id": 1,
+        "facts": [
+            "It is a sandstone reef point break.",
+            "It is a right hand wave.  It is not a left.",
+            "It is more consistent than neighboring Mitchells Cove and Swift St.",
+            "It really goes off on big swells and low tides.",
+            "The take off can be very heavy offering barrels.",
+            "It can be racy, requiring the surfer to drive hard down the line to avoid closeouts.",
+            "It is primarily a winter wave, but offers small waves year round.",
+            "Wave style prefers a shortboard."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "getchell-santa-cruz-ca",
+        "spot_name": "Getchell",
+        "street_address": "1414 W Cliff Dr, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 144,
+        "coast_order": "08-15",
+        "coordinates": [
+            -122.0420138483801,
+            36.95148941660567
+        ],
+        "county_id": 1,
+        "facts": [
+            "It is a right point break, ending at a sandy beach cove.",
+            "It requires big winter swells in order to break.",
+            "It is infrequently surfable but high quality when it is.",
+            "It offers long clean rights that sometimes barrel.",
+            "It is suited for intermediate to advanced surfers.",
+            "It rarely gets over head high.",
+            "Hazards include strong currents due to only breaking on large swells; also the rip rap piled on the drainage pipe that juts out through the lineup."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "mitchells-cove-santa-cruz-ca",
+        "spot_name": "Mitchells Cove",
+        "street_address": "1206 W Cliff Dr, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 802,
+        "coast_order": "08-16",
+        "coordinates": [
+            -122.027733,
+            36.951099
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "its-beach-santa-cruz-ca",
+        "spot_name": "Its Beach",
+        "street_address": "700 W Cliff Dr, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 2,
+        "coast_order": "08-17",
+        "coordinates": [
+            -122.0259610960292,
+            36.95109229195622
+        ],
+        "county_id": 1,
+        "field_data_count": 0,
+        "spot_id_char": "steamer-lane-santa-cruz-ca",
+        "spot_name": "Steamer Lane",
+        "street_address": "701 W Cliff Dr, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 803,
+        "coast_order": "08-18",
+        "coordinates": [
+            -122.0259610960292,
+            36.95109229195622
+        ],
+        "county_id": 1,
+        "facts": [
+            "The Slot is a peak that is part of Steamer Lane.",
+            "The Slot and The Point are very similar peaks.  They are somewhat interchangable, though The Point is sitting beyond the cliff while The Slot is sitting next to the cliff.",
+            "This is a serious wave for experienced surfers.",
+            "The cliff and Table Rock are hazard to take seriously.",
+            "It is a right point break that has a sandstone bottom and breaks against the cliff under the lighthouse.",
+            "It is a very consistent wave, breaking almost all year."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "steamer-lane-the-slot-santa-cruz-ca",
+        "spot_name": "Steamer Lane: The Slot",
+        "street_address": "701 W Cliff Dr, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 804,
+        "coast_order": "08-19",
+        "coordinates": [
+            -122.0259610960292,
+            36.95109229195622
+        ],
+        "county_id": 1,
+        "facts": [
+            "Steamer Lane is one of the most consistent waves in California, surfable nearly every day of the year.",
+            "Steamer Lane is a point break, on a sand stone reef.",
+            "Middle Peak breaks away from the cliff and offers both a right and left.",
+            "Middle Peak is a surf spot within Steamer Lane.",
+            "Middle Peak can handle a very big swell.",
+            "Middle Peak is best for experienced surfers.",
+            "Middle Peak waves are extremely thick and powerful.",
+            "Middle Peak waves are like a heavy wall of water.",
+            "Middle Peak can connect through to Indicator, offering very good long rides.",
+            "When Middle Peak does not connect through to Indicator, rights can be very short; not much more than a heavy takeoff.",
+            "Though infrequent, lefts can barrel."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "steamer-lane-middle-peak-santa-cruz-ca",
+        "spot_name": "Steamer Lane: Middle Peak",
+        "street_address": "701 W Cliff Dr, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 805,
+        "coast_order": "08-20",
+        "coordinates": [
+            -122.0259610960292,
+            36.95109229195622
+        ],
+        "county_id": 1,
+        "facts": [
+            "It is located between Steamer Lane and Cowells.",
+            "It is the next transition for learning Westside surfers, once graduated from Cowells.",
+            "It is great for intermediate surfers.",
+            "It is the 'set' indicator when surfing Cowells.",
+            "It is an excellent winter wave sometimes connecting from Middle Peak",
+            "It goes dormant in the summer.",
+            "It is generally considerably smaller than middle peak, but provides excellent shape.",
+            "It is a sandstone point break",
+            "It can be very crowded."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "steamer-lane-indicator-santa-cruz-ca",
+        "spot_name": "Indicator",
+        "street_address": "701 W Cliff Dr, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 3,
+        "coast_order": "08-21",
+        "coordinates": [
+            -122.024563155438,
+            36.95808081143832
+        ],
+        "county_id": 1,
+        "facts": [
+            "It is mostly a right, but can offer lefts.",
+            "When it breaks, it is usually under waist high.",
+            "It does break year-round, but favors the winter.",
+            "It is best in wet years, when sand accumulates most.",
+            "It is very wind protected.",
+            "It is very tide sensitive, often requiring a negative tide to break.",
+            "It is great for beginners and can also be excellent for advanced longboarders.",
+            "It gets very crowded, but the vibe is usually friendly."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "cowells-santa-cruz-ca",
+        "spot_name": "Cowells",
+        "street_address": "506 W Cliff Dr, Westside Santa Cruz, CA 95060, USA"
+    },
+    {
+        "_id": 143,
+        "coast_order": "08-22",
+        "coordinates": [
+            -122.0125552448013,
+            36.96265343830994
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "the-rivermouth-santa-cruz-ca",
+        "spot_name": "San Lorenzo Rivermouth",
+        "street_address": "1156 E Cliff Dr, Westside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 142,
+        "coast_order": "08-23",
+        "coordinates": [
+            -122.0016539066977,
+            36.96046244886972
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "santa-cruz-harbor-santa-cruz-ca",
+        "spot_name": "Santa Cruz Harbor",
+        "street_address": "2222 E Cliff Dr, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 141,
+        "coast_order": "08-24",
+        "coordinates": [
+            -122.0009638553883,
+            36.96168086357659
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "murph-bar-santa-cruz-ca",
+        "spot_name": "Murph Bar",
+        "street_address": "2222 E Cliff Dr, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 9,
+        "coast_order": "08-25",
+        "coordinates": [
+            -121.9933217873383,
+            36.95867710542517
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "blacks-santa-cruz-ca",
+        "spot_name": "Blacks",
+        "street_address": "100 Geoffroy Ln, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 140,
+        "coast_order": "08-26",
+        "coordinates": [
+            -121.9900357372874,
+            36.95956135639942
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "sunny-cove-santa-cruz-ca",
+        "spot_name": "Sunny Cove",
+        "street_address": "240 Geoffroy Dr, Eastside Santa Cruz, CA 95062, US"
+    },
+    {
+        "_id": 8,
+        "coast_order": "08-27",
+        "coordinates": [
+            -121.9888602809464,
+            36.95961188669104
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "santa-marias-santa-cruz-ca",
+        "spot_name": "Santa Marias",
+        "street_address": "100 Sunny Cove Dr, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 7,
+        "coast_order": "08-28",
+        "coordinates": [
+            -121.981436679289,
+            36.95675246771928
+        ],
+        "county_id": 1,
+        "facts": [
+            "It is a quick punchy wave, mostly suitable for shortboarding.",
+            "Though it breaks off a sandy beach, the wave actually begins breaking on a sandstone reef.",
+            "There is a north and south bowl, and both can offer lefts and rights.",
+            "It is fairly regularly surfable, but less regularly good.",
+            "Rides are usually short, since it breaks close to the beach."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "26th-ave-santa-cruz-ca",
+        "spot_name": "26th Avenue",
+        "street_address": "22628 E Cliff Dr, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 138,
+        "coast_order": "08-29",
+        "coordinates": [
+            -121.9771177941946,
+            36.95363973377391
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "little-windansea-santa-cruz-ca",
+        "spot_name": "Little Windansea",
+        "street_address": "2866 S Palisades Ave, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 137,
+        "coast_order": "08-30",
+        "coordinates": [
+            -121.9747670315677,
+            36.95375503691886
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "rockview-santa-cruz-ca",
+        "spot_name": "Rockview",
+        "street_address": "18 Rockview Dr, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 5,
+        "coast_order": "08-31",
+        "coordinates": [
+            -121.9728250343757,
+            36.95322492615838
+        ],
+        "county_id": 1,
+        "facts": [
+            "It is a sandstone reef at the top of Pleasure Point",
+            "It is a right and left though the right is more surfed",
+            "The left can be a steep barreling take off that quickly goes fat.",
+            "The right can offer a barrel on the takeoff.",
+            "The right sometimes goes fat in deep water after takeoff.  Other times it connects through the inside section call the Pixie Bowl, offering a long walled up ride.",
+            "It is best for intermediate to advanced surfers.",
+            "It is quite consistent but best during winter.",
+            "Lore is that the wave is the result of an old sewer pipe, thus the name."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "sewer-peak-santa-cruz-ca",
+        "spot_name": "Sewer Peak",
+        "street_address": "3006 Pleasure Point Dr, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 1,
+        "coast_order": "08-32",
+        "coordinates": [
+            -121.9716900628907,
+            36.95408762204531
+        ],
+        "county_id": 1,
+        "facts": [
+            "It is a consistent clean long right.",
+            "There are two peaks, 1st peak and 2nd peak.",
+            "1st peak is favored among shortboarders offering a bigger and racier right, and sometimes a barreling novelty left.",
+            "2nd peak is favored among experienced longboarders.  It is the rare longboard spot that is not also a beginner spot.",
+            "It is a wave for intermediate to advanced surfers.  Ettiquite matters.",
+            "It is a sandstone reef point",
+            "It is surfable year-round, but bigger in the winter.",
+            "It gets very crowded.",
+            "It is the main event for eastside surfers.",
+            "Though still apropos, the name Pleasure Point refers to the area's prohibition era speakeasies."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "pleasure-point-santa-cruz-ca",
+        "spot_name": "Pleasure Point",
+        "street_address": "3030 Pleasure Point Dr, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 4,
+        "coast_order": "08-33",
+        "coordinates": [
+            -121.9690033240836,
+            36.95739375025615
+        ],
+        "county_id": 1,
+        "facts": [
+            "The alternate name 'Jacks' is in reference to the late Jack O'neill who lived in the house on the cliff above the break.",
+            "Jacks is the common name among newcomers, but old timers still call it 38th",
+            "It is a smooth sandstone reef break.",
+            "There is no lifeguard on duty.",
+            "It is beginner friendly",
+            "It is a favorite for longboarders"
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "38th-ave-santa-cruz-ca",
+        "spot_name": "38th Avenue",
+        "street_address": "23610 E Cliff Dr, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 147,
+        "coast_order": "08-34",
+        "coordinates": [
+            -121.9652116182096,
+            36.95911112063955
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "the-hook-santa-cruz-ca",
+        "spot_name": "The Hook",
+        "street_address": "23920 E Cliff Dr, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 148,
+        "coast_order": "08-35",
+        "coordinates": [
+            -121.9625490088431,
+            36.96077320823937
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "sharks-cove-santa-cruz-ca",
+        "spot_name": "Sharks Cove",
+        "street_address": "4140 Opal Cliff Dr, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 102,
+        "coast_order": "08-36",
+        "coordinates": [
+            -121.960523,
+            36.965161
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "privates-beach-santa-cruz-ca",
+        "spot_name": "Privates Beach",
+        "street_address": "4524 Opal Cliff Dr, Eastside Santa Cruz, CA 95062, USA"
+    },
+    {
+        "_id": 149,
+        "coast_order": "08-37",
+        "coordinates": [
+            -121.9491667605599,
+            36.97123470573281
+        ],
+        "county_id": 1,
+        "facts": [
+            "It has two jetties, 'first' and 'second' jetty.",
+            "First jetty is a perfect little tubing right that's rarely big enough for anyone but kids.  But when there's a very big swell, it can get incredible.",
+            "Second jetty is the more commonly surfed wave, with both a left and right.  It surfs similarly to Queens in Waikiki.",
+            "It's a consistent wave, breaking year-round.  But it only gets above waist high in the winter.",
+            "It is suitable for learners, boogie boards and experienced longboarders."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "capitola-jetty-capitola-ca",
+        "spot_name": "Capitola Jetties",
+        "street_address": "110 Monterey Ave, Capitola, CA 95010, USA"
+    },
+    {
+        "_id": 150,
+        "coast_order": "08-38",
+        "coordinates": [
+            -121.8641499350201,
+            36.93120019321253
+        ],
+        "county_id": 1,
+        "facts": [
+            "It is a long sandy beach break.",
+            "It is both a left and right.",
+            "Waves are usually not as top to bottom as nearby Moss Landing.",
+            "There is often an outside wave that breaks, reforms, then breaks again on the inside.",
+            "It is infrequently good but is a less crowded alternative to suring in town.",
+            "There is often a decent left toward the south near Oceanview Drive.",
+            "When the sun is out and the wind is off, it can make for a great beach day."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "manresa-watsonville-ca",
+        "spot_name": "Manresa",
+        "street_address": "1443 San Andreas Rd, Aptos, CA 95076, USA"
+    },
+    {
+        "_id": 136,
+        "coast_order": "08-39",
+        "coordinates": [
+            -121.8404648962798,
+            36.89567103399774
+        ],
+        "county_id": 1,
+        "field_data_count": 16,
+        "spot_id_char": "sunset-beach-watsonville-ca",
+        "spot_name": "Sunset Beach",
+        "street_address": "10 Sunset Dr, Aptos, CA 95076, USA"
+    },
+    {
+        "_id": 702,
+        "coast_order": "09-01",
+        "coordinates": [
+            -121.8034703105583,
+            36.83572311474718
+        ],
+        "county_id": 8,
+        "field_data_count": 1,
+        "spot_id_char": "zmudowski-state-beach-moss-landing-ca",
+        "spot_name": "Zmudowski State Beach",
+        "street_address": "Zmudowski Beach State Park, Moss Landing, CA 95039, USA"
+    },
+    {
+        "_id": 161,
+        "coast_order": "09-02",
+        "coordinates": [
+            -121.7907983616766,
+            36.80999206452437
+        ],
+        "county_id": 8,
+        "facts": [
+            "It is north of the harbor entrance.",
+            "It is a heavy beach break.",
+            "It is a winter wave.",
+            "It offers lefts and rights and very good hollow barrels.",
+            "It is for experienced surfers only and is dangerous on bigger days.",
+            "It is best in the middle of the beach, and smaller near the north jetty of the harbor mouth."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "moss-landing-moss-landing-ca",
+        "spot_name": "Moss Landing State Beach",
+        "street_address": "Jetty Rd, Moss Landing, CA 95039, USA"
+    },
+    {
+        "_id": 703,
+        "coast_order": "09-03",
+        "coordinates": [
+            -121.7983225119755,
+            36.77616765717745
+        ],
+        "county_id": 8,
+        "field_data_count": 1,
+        "spot_id_char": "salinas-river-state-beach-castroville-ca",
+        "spot_name": "Salinas River State Beach",
+        "street_address": "102 Monterey Dunes Way, Castroville, CA 95012, USA"
+    },
+    {
+        "_id": 160,
+        "coast_order": "09-04",
+        "coordinates": [
+            -121.8141846065641,
+            36.68997232840498
+        ],
+        "county_id": 8,
+        "field_data_count": 16,
+        "spot_id_char": "marina-state-beach-marina-ca",
+        "spot_name": "Marina State Beach",
+        "street_address": "Cabrillo Hwy, Marina, CA 93933, USA"
+    },
+    {
+        "_id": 159,
+        "coast_order": "09-05",
+        "coordinates": [
+            -121.8690401611585,
+            36.60733598674283
+        ],
+        "county_id": 8,
+        "field_data_count": 16,
+        "spot_id_char": "del-monte-beach-monterey-ca",
+        "spot_name": "Del Monte Beach",
+        "street_address": "1 Surf Way, Monterey, CA 93940, USA"
+    },
+    {
+        "_id": 158,
+        "coast_order": "09-06",
+        "coordinates": [
+            -121.9148594651332,
+            36.62605389852865
+        ],
+        "county_id": 8,
+        "field_data_count": 1,
+        "spot_id_char": "lovers-point-pacific-grove-ca",
+        "spot_name": "Lovers Point",
+        "street_address": "625 Ocean View Blvd, Pacific Grove, CA 93950, USA"
+    },
+    {
+        "_id": 156,
+        "coast_order": "09-07",
+        "coordinates": [
+            -121.943455356667,
+            36.62005005953767
+        ],
+        "county_id": 8,
+        "field_data_count": 1,
+        "spot_id_char": "asilomar-state-beach-pacific-grove-ca",
+        "spot_name": "Asilomar State Beach",
+        "street_address": "1800-1952 Sunset Dr, Pacific Grove, CA 93950, USA"
+    },
+    {
+        "_id": 154,
+        "coast_order": "09-08",
+        "coordinates": [
+            -121.9298336429776,
+            36.54856155311237
+        ],
+        "county_id": 8,
+        "field_data_count": 16,
+        "spot_id_char": "carmel-beach-pebble-beach-ca",
+        "spot_name": "Carmel Beach",
+        "street_address": "750 Scenic Rd, Pebble Beach, CA 93953, USA"
+    },
+    {
+        "_id": 153,
+        "coast_order": "09-09",
+        "coordinates": [
+            -121.8591275249395,
+            36.27927929197821
+        ],
+        "county_id": 8,
+        "field_data_count": 1,
+        "spot_id_char": "andrew-molera-big-sur-ca",
+        "spot_name": "Andrew Molera",
+        "street_address": "Beach Trail, Big Sur, CA 93920, USA"
+    },
+    {
+        "_id": 101,
+        "coast_order": "09-10",
+        "coordinates": [
+            -121.7401,
+            36.206694
+        ],
+        "county_id": 8,
+        "field_data_count": 1,
+        "spot_id_char": "fullers-big-sur-ca",
+        "spot_name": "Fullers",
+        "street_address": "Grimes Canyon, Big Sur, CA 93920, USA"
+    },
+    {
+        "_id": 100,
+        "coast_order": "09-11",
+        "coordinates": [
+            -121.474786,
+            35.933152
+        ],
+        "county_id": 8,
+        "field_data_count": 1,
+        "spot_id_char": "pacific-valley-big-sur-ca",
+        "spot_name": "Pacific Valley",
+        "street_address": "Pacific Valley Bluff Trail, Big Sur, CA 93920, USA"
+    },
+    {
+        "_id": 152,
+        "coast_order": "09-12",
+        "coordinates": [
+            -121.4699661759945,
+            35.9235264509848
+        ],
+        "county_id": 8,
+        "field_data_count": 16,
+        "spot_id_char": "sand-dollar-big-sur-ca",
+        "spot_name": "Sand Dollar",
+        "street_address": "69232 Cabrillo Hwy, Los Padres National Forest, Big Sur, CA 93920, USA"
+    },
+    {
+        "_id": 151,
+        "coast_order": "09-13",
+        "coordinates": [
+            -121.4680190664497,
+            35.9096339109506
+        ],
+        "county_id": 8,
+        "field_data_count": 1,
+        "spot_id_char": "willow-creek-big-sur-ca",
+        "spot_name": "Willow Creek",
+        "street_address": "69232 Cabrillo Hwy, Los Padres National Forest, Big Sur, CA 93920, USA"
+    },
+    {
+        "_id": 167,
+        "coast_order": "10-01",
+        "coordinates": [
+            -121.32606704534,
+            35.76567413753583
+        ],
+        "county_id": 9,
+        "field_data_count": 1,
+        "spot_id_char": "san-carpoforo-creek-san-simeon-ca",
+        "spot_name": "San Carpoforo Creek",
+        "street_address": "Cabrillo Hwy, San Simeon, CA 93452, USA"
+    },
+    {
+        "_id": 704,
+        "coast_order": "10-02",
+        "coordinates": [
+            -121.2858320198145,
+            35.67230069739541
+        ],
+        "county_id": 9,
+        "field_data_count": 1,
+        "spot_id_char": "lighthouse-san-simeon-ca",
+        "spot_name": "Lighthouse",
+        "street_address": "Cabrillo Hwy, San Simeon, CA 93452, USA"
+    },
+    {
+        "_id": 705,
+        "coast_order": "10-03",
+        "coordinates": [
+            -121.2196910142155,
+            35.65067809639292
+        ],
+        "county_id": 9,
+        "field_data_count": 1,
+        "spot_id_char": "arroyo-laguna-san-simeon-ca",
+        "spot_name": "Arroyo Laguna",
+        "street_address": "Cabrillo Hwy, San Simeon, CA 93452, US"
+    },
+    {
+        "_id": 642,
+        "coast_order": "10-04",
+        "coordinates": [
+            -121.1507812975773,
+            35.61557149982524
+        ],
+        "county_id": 9,
+        "field_data_count": 1,
+        "spot_id_char": "pico-creek-san-simeon-ca",
+        "spot_name": "Pico Creek",
+        "street_address": "Cabrillo Hwy, San Simeon, CA 93452, USA"
+    },
+    {
+        "_id": 166,
+        "coast_order": "10-05",
+        "coordinates": [
+            -121.1300263321841,
+            35.59746454576705
+        ],
+        "county_id": 9,
+        "field_data_count": 1,
+        "spot_id_char": "san-simeon-creek-cambria-ca",
+        "spot_name": "San Simeon Creek",
+        "street_address": "8125 Lone Palm Dr, Cambria, CA 93428, USA"
+    },
+    {
+        "_id": 706,
+        "coast_order": "10-06",
+        "coordinates": [
+            -121.1207944426381,
+            35.58151723968145
+        ],
+        "county_id": 9,
+        "field_data_count": 1,
+        "spot_id_char": "exotics-cambria-ca",
+        "spot_name": "Exotics",
+        "street_address": "State Park, Cambria, CA 93428, USA"
+    },
+    {
+        "_id": 707,
+        "coast_order": "10-07",
+        "coordinates": [
+            -121.1137941613911,
+            35.5729344500042
+        ],
+        "county_id": 9,
+        "field_data_count": 1,
+        "spot_id_char": "leffingwell-landing-cambria-ca",
+        "spot_name": "Leffingwell Landing",
+        "street_address": "Moonstone Beach Boardwalk, Cambria, CA 93428, USA"
+    },
+    {
+        "_id": 165,
+        "coast_order": "10-08",
+        "coordinates": [
+            -121.111257786495,
+            35.56757684811132
+        ],
+        "county_id": 9,
+        "field_data_count": 1,
+        "spot_id_char": "moonstone-cambria-ca",
+        "spot_name": "Moonstone",
+        "street_address": "York St, Cambria, CA 93428, USA"
+    },
+    {
+        "_id": 164,
+        "coast_order": "10-09",
+        "coordinates": [
+            -120.9065505218038,
+            35.44757083650135
+        ],
+        "county_id": 9,
+        "field_data_count": 16,
+        "spot_id_char": "cayucos-pier-cayucos-ca",
+        "spot_name": "Cayucos Pier",
+        "street_address": "158 Ocean Front Ln, Cayucos, CA 93430, USA"
+    },
+    {
+        "_id": 599,
+        "coast_order": "10-10",
+        "coordinates": [
+            -120.8823626922527,
+            35.42543065759954
+        ],
+        "county_id": 9,
+        "field_data_count": 16,
+        "spot_id_char": "studio-drive-cayucos-ca",
+        "spot_name": "Studio Drive",
+        "street_address": "3222 Studio Dr, Cayucos, CA 93430, USA"
+    },
+    {
+        "_id": 163,
+        "coast_order": "10-11",
+        "coordinates": [
+            -120.8671142375541,
+            35.37338529142052
+        ],
+        "county_id": 9,
+        "field_data_count": 16,
+        "spot_id_char": "morro-rock-morro-bay-ca",
+        "spot_name": "Morro Rock",
+        "street_address": "Coleman Dr, Morro Bay, CA 93442, USA"
+    },
+    {
+        "_id": 708,
+        "coast_order": "10-12",
+        "coordinates": [
+            -120.8838719410017,
+            35.28921247836109
+        ],
+        "county_id": 9,
+        "field_data_count": 1,
+        "spot_id_char": "hazard-canyon-los-osos-ca",
+        "spot_name": "Hazard Canyon",
+        "street_address": "Pecho Valley Rd, Los Osos, CA 93402, USA"
+    },
+    {
+        "_id": 709,
+        "coast_order": "10-13",
+        "coordinates": [
+            -120.8897331242529,
+            35.27508353614606
+        ],
+        "county_id": 9,
+        "field_data_count": 1,
+        "spot_id_char": "spooners-cove-los-osos-ca",
+        "spot_name": "Spooners Cove",
+        "street_address": "Pecho Valley Rd, Los Osos, CA 93402, USA"
+    },
+    {
+        "_id": 710,
+        "coast_order": "10-14",
+        "coordinates": [
+            -120.7157583455736,
+            35.17463796627206
+        ],
+        "county_id": 9,
+        "field_data_count": 0,
+        "spot_id_char": "saint-annes-san-luis-obispo-ca",
+        "spot_name": "Saint Annes",
+        "street_address": "Cave Landing Trail, San Luis Obispo, CA 93401, USA"
+    },
+    {
+        "_id": 162,
+        "coast_order": "10-15",
+        "coordinates": [
+            -120.6449984438748,
+            35.1381862847044
+        ],
+        "county_id": 9,
+        "field_data_count": 16,
+        "spot_id_char": "pismo-beach-pier-pismo-beach-ca",
+        "spot_name": "Pismo Beach Pier",
+        "street_address": "Pismo Beach Pier, Pismo Beach, CA 93449, USA"
+    },
+    {
+        "_id": 711,
+        "coast_order": "11-01",
+        "coordinates": [
+            -120.6513811469147,
+            34.97162474279955
+        ],
+        "county_id": 10,
+        "field_data_count": 0,
+        "spot_id_char": "santa-maria-rivermouth-guadalupe-ca",
+        "spot_name": "Santa Maria Rivermouth",
+        "street_address": "Unnamed Rd, Guadalupe, CA 93434, USA"
+    },
+    {
+        "_id": 712,
+        "coast_order": "11-02",
+        "coordinates": [
+            -120.6064779656859,
+            34.68291399021184
+        ],
+        "county_id": 10,
+        "field_data_count": 0,
+        "spot_id_char": "surf-beach-lompoc-ca",
+        "spot_name": "Surf Beach",
+        "street_address": "Lasalle Canyon Rd, Lompoc, CA 93436, USA"
+    },
+    {
+        "_id": 185,
+        "coast_order": "11-03",
+        "coordinates": [
+            -120.5029053172048,
+            34.51018425498963
+        ],
+        "county_id": 10,
+        "field_data_count": 16,
+        "spot_id_char": "jalama-lompoc-ca",
+        "spot_name": "Jalama",
+        "street_address": "62-68 Jalama Beach Rd, Jalama, CA 93436, USA"
+    },
+    {
+        "_id": 713,
+        "coast_order": "11-04",
+        "coordinates": [
+            -120.10097747039,
+            34.463609035485
+        ],
+        "county_id": 10,
+        "field_data_count": 0,
+        "spot_id_char": "tajiguas-goleta-ca",
+        "spot_name": "Tajiguas",
+        "street_address": "El Camino Real, Goleta, CA 93117, USA"
+    },
+    {
+        "_id": 620,
+        "coast_order": "11-05",
+        "coordinates": [
+            -120.0733136585041,
+            34.46072785902711
+        ],
+        "county_id": 10,
+        "field_data_count": 16,
+        "spot_id_char": "refugio-goleta-ca",
+        "spot_name": "Refugio",
+        "street_address": "El Camino Real, Goleta, CA 93117, USA"
+    },
+    {
+        "_id": 714,
+        "coast_order": "11-06",
+        "coordinates": [
+            -120.0549701700031,
+            34.46121196590614
+        ],
+        "county_id": 10,
+        "field_data_count": 1,
+        "spot_id_char": "beavers-goleta-ca",
+        "spot_name": "Beavers",
+        "street_address": "El Camino Real, Goleta, CA 93117, USA"
+    },
+    {
+        "_id": 183,
+        "coast_order": "11-07",
+        "coordinates": [
+            -120.0212070373179,
+            34.45657352025107
+        ],
+        "county_id": 10,
+        "field_data_count": 1,
+        "spot_id_char": "el-capitan-goleta-ca",
+        "spot_name": "El Capitan",
+        "street_address": "El Capitan State Beach Rd, Goleta, CA 93117, USA"
+    },
+    {
+        "_id": 182,
+        "coast_order": "11-08",
+        "coordinates": [
+            -119.8821432693011,
+            34.40907914092691
+        ],
+        "county_id": 10,
+        "field_data_count": 16,
+        "spot_id_char": "sands-isla-vista-ca",
+        "spot_name": "Sands",
+        "street_address": "Slough Rd, University of California Santa Barbara, Isla Vista, CA 93117, USA"
+    },
+    {
+        "_id": 181,
+        "coast_order": "11-09",
+        "coordinates": [
+            -119.8777636727983,
+            34.4060390017938
+        ],
+        "county_id": 10,
+        "field_data_count": 16,
+        "spot_id_char": "devereux-isla-vista-ca",
+        "spot_name": "Devereux",
+        "street_address": "Slough Rd, University of California Santa Barbara, Isla Vista, CA 93117, USA"
+    },
+    {
+        "_id": 715,
+        "coast_order": "11-10",
+        "coordinates": [
+            -119.8587366027393,
+            34.40892467687235
+        ],
+        "county_id": 10,
+        "field_data_count": 0,
+        "spot_id_char": "pescaderos-goleta-ca",
+        "spot_name": "Pescaderos",
+        "street_address": "6599 Del Playa Dr, Isla Vista, CA 93117, USA"
+    },
+    {
+        "_id": 180,
+        "coast_order": "11-11",
+        "coordinates": [
+            -119.8457388845952,
+            34.40450469380203
+        ],
+        "county_id": 10,
+        "field_data_count": 1,
+        "spot_id_char": "depressions-isla-vista-ca",
+        "spot_name": "Depressions",
+        "street_address": "Lagoon Rd, University of California Santa Barbara, Isla Vista, CA 93117, USA"
+    },
+    {
+        "_id": 179,
+        "coast_order": "11-12",
+        "coordinates": [
+            -119.8425963704844,
+            34.40487888923785
+        ],
+        "county_id": 10,
+        "field_data_count": 16,
+        "spot_id_char": "campus-point-isla-vista-ca",
+        "spot_name": "Campus Point",
+        "street_address": "Lagoon Rd, Isla Vista, CA 93117, USA"
+    },
+    {
+        "_id": 178,
+        "coast_order": "11-13",
+        "coordinates": [
+            -119.841586187545,
+            34.40686019942058
+        ],
+        "county_id": 10,
+        "field_data_count": 16,
+        "spot_id_char": "poles-isla-vista-ca",
+        "spot_name": "Poles",
+        "street_address": "Lagoon Rd, University of California Santa Barbara, Isla Vista, CA 93117, USA"
+    },
+    {
+        "_id": 641,
+        "coast_order": "11-14",
+        "coordinates": [
+            -119.7441022872135,
+            34.40232162874124
+        ],
+        "county_id": 10,
+        "field_data_count": 1,
+        "spot_id_char": "the-pit-santa-barbara-ca",
+        "spot_name": "The Pit",
+        "street_address": "2981 Cliff Dr, Santa Barbara, CA 93109, USA"
+    },
+    {
+        "_id": 177,
+        "coast_order": "11-15",
+        "coordinates": [
+            -119.7020898699724,
+            34.39796888078584
+        ],
+        "county_id": 10,
+        "field_data_count": 16,
+        "spot_id_char": "leadbetter-santa-barbara-ca",
+        "spot_name": "Leadbetter",
+        "street_address": "1201-1215 Shoreline Dr, Santa Barbara, CA 93109, USA"
+    },
+    {
+        "_id": 176,
+        "coast_order": "11-16",
+        "coordinates": [
+            -119.6881734281268,
+            34.406077738542
+        ],
+        "county_id": 10,
+        "field_data_count": 16,
+        "spot_id_char": "sandspit-santa-barbara-ca",
+        "spot_name": "Sandspit",
+        "street_address": "401 Shoreline Dr, Santa Barbara, CA 93109, USA"
+    },
+    {
+        "_id": 174,
+        "coast_order": "11-17",
+        "coordinates": [
+            -119.6372312179363,
+            34.41542525745738
+        ],
+        "county_id": 10,
+        "field_data_count": 0,
+        "spot_id_char": "hammonds-santa-barbara-ca",
+        "spot_name": "Hammonds",
+        "street_address": "12 Seaview Dr, Santa Barbara, CA 93108, US"
+    },
+    {
+        "_id": 173,
+        "coast_order": "11-18",
+        "coordinates": [
+            -119.6319848243787,
+            34.41793349244588
+        ],
+        "county_id": 10,
+        "field_data_count": 1,
+        "spot_id_char": "miramar-santa-barbara-ca",
+        "spot_name": "Miramar",
+        "street_address": "1483 Edgecliff Ln, Santa Barbara, CA 93108, USA"
+    },
+    {
+        "_id": 171,
+        "coast_order": "11-19",
+        "coordinates": [
+            -119.5526026282026,
+            34.40848450657416
+        ],
+        "county_id": 10,
+        "field_data_count": 1,
+        "spot_id_char": "santa-claus-lane-carpinteria-ca",
+        "spot_name": "Santa Claus Lane",
+        "street_address": "3611 Padaro Ln, Carpinteria, CA 93013, USA"
+    },
+    {
+        "_id": 169,
+        "coast_order": "11-20",
+        "coordinates": [
+            -119.5255324487533,
+            34.39312512016294
+        ],
+        "county_id": 10,
+        "field_data_count": 16,
+        "spot_id_char": "carpinteria-beach-carpinteria-ca",
+        "spot_name": "Carpinteria Beach",
+        "street_address": "101 Linden Ave, Carpinteria, CA 93013, USA"
+    },
+    {
+        "_id": 168,
+        "coast_order": "11-21",
+        "coordinates": [
+            -119.5142470711864,
+            34.38718243614022
+        ],
+        "county_id": 10,
+        "field_data_count": 16,
+        "spot_id_char": "tar-pits-carpinteria-ca",
+        "spot_name": "Tar Pits",
+        "street_address": "Carpinteria Bluffs Trail, Carpinteria, CA 93013, USA"
+    },
+    {
+        "_id": 198,
+        "coast_order": "11-22",
+        "coordinates": [
+            -119.4779929046033,
+            34.37256542974805
+        ],
+        "county_id": 10,
+        "field_data_count": 16,
+        "spot_id_char": "rincon-carpinteria-ca",
+        "spot_name": "Rincon",
+        "street_address": "172 Rincon Point Rd, Carpinteria, CA 93013, USA"
+    },
+    {
+        "_id": 197,
+        "coast_order": "12-01",
+        "coordinates": [
+            -119.4599428547951,
+            34.37310576910677
+        ],
+        "county_id": 11,
+        "field_data_count": 1,
+        "spot_id_char": "la-conchita-ventura-ca",
+        "spot_name": "La Conchita",
+        "street_address": "6690-6698 El Camino Real, Ventura, CA 93001, USA"
+    },
+    {
+        "_id": 196,
+        "coast_order": "12-02",
+        "coordinates": [
+            -119.4424173124075,
+            34.35512517829076
+        ],
+        "county_id": 11,
+        "field_data_count": 1,
+        "spot_id_char": "little-rincon-ventura-ca",
+        "spot_name": "Little Rincon",
+        "street_address": "6201-6271 Richfield Pier, Ventura, CA 93001, USA"
+    },
+    {
+        "_id": 195,
+        "coast_order": "12-03",
+        "coordinates": [
+            -119.4117541976936,
+            34.33708440569973
+        ],
+        "county_id": 11,
+        "field_data_count": 16,
+        "spot_id_char": "hobsons-ventura-ca",
+        "spot_name": "Hobson",
+        "street_address": "5638-5844 Old Rincon Hwy, Ventura, CA 93001, USA"
+    },
+    {
+        "_id": 194,
+        "coast_order": "12-04",
+        "coordinates": [
+            -119.3994946387295,
+            34.32873002597324
+        ],
+        "county_id": 11,
+        "field_data_count": 16,
+        "spot_id_char": "faria-ventura-ca",
+        "spot_name": "Faria",
+        "street_address": "4848-5242 Old Rincon Hwy, Ventura, CA 93001, USA"
+    },
+    {
+        "_id": 640,
+        "coast_order": "12-05",
+        "coordinates": [
+            -119.3898560875502,
+            34.31776493448878
+        ],
+        "county_id": 11,
+        "field_data_count": 1,
+        "spot_id_char": "pitas-ventura-ca",
+        "spot_name": "Pitas",
+        "street_address": "4286 Faria Rd, Ventura, CA 93001, USA"
+    },
+    {
+        "_id": 193,
+        "coast_order": "12-06",
+        "coordinates": [
+            -119.3773753582565,
+            34.31917670993862
+        ],
+        "county_id": 11,
+        "field_data_count": 16,
+        "spot_id_char": "mondos-ventura-ca",
+        "spot_name": "Mondos",
+        "street_address": "3704 Old Rincon Hwy, Ventura, CA 93001, USA"
+    },
+    {
+        "_id": 192,
+        "coast_order": "12-07",
+        "coordinates": [
+            -119.3601154315883,
+            34.30929775163889
+        ],
+        "county_id": 11,
+        "field_data_count": 1,
+        "spot_id_char": "solimar-ventura-ca",
+        "spot_name": "Solimar",
+        "street_address": "2948 Solimar Beach Dr, Ventura, CA 93001, USA"
+    },
+    {
+        "_id": 191,
+        "coast_order": "12-08",
+        "coordinates": [
+            -119.3398784210307,
+            34.29233748749491
+        ],
+        "county_id": 11,
+        "field_data_count": 16,
+        "spot_id_char": "emma-wood-ventura-ca",
+        "spot_name": "Emma Wood",
+        "street_address": "State Beach Access Rd, Ventura, CA 93001, USA"
+    },
+    {
+        "_id": 639,
+        "coast_order": "12-09",
+        "coordinates": [
+            -119.3391521452549,
+            34.29070431855448
+        ],
+        "county_id": 11,
+        "field_data_count": 1,
+        "spot_id_char": "ventura-overhead-ventura-ca",
+        "spot_name": "Ventura Overhead",
+        "street_address": "State Beach Access Rd, Ventura, CA 93001, USA"
+    },
+    {
+        "_id": 190,
+        "coast_order": "12-10",
+        "coordinates": [
+            -119.3001508388765,
+            34.27306986930488
+        ],
+        "county_id": 11,
+        "facts": [
+            "It is a long right; and not a left.",
+            "It is best in the winter.",
+            "It can be shortboarded on bigger/better days, but the soft shape of the wave better suits a longboard most of the time and when it's smaller.",
+            "It can be a long ride, but it is not particularly critical or top-to-bottom.",
+            "It is suitable for a wide range of skill levels, based on conditions.",
+            "It can handle a big swell, where riding a step-up or gun would be suitable.",
+            "It is a cobblestone and sand point.",
+            "It is popular and can be very busy."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "c-street-ventura-ca",
+        "spot_name": "C Street",
+        "street_address": "Ventura Promenade, Ventura, CA 93001, USA"
+    },
+    {
+        "_id": 716,
+        "coast_order": "12-11",
+        "coordinates": [
+            -119.2797171405323,
+            34.26735647772568
+        ],
+        "county_id": 11,
+        "field_data_count": 0,
+        "spot_id_char": "san-buenaventura-state-beach-ventura-ca",
+        "spot_name": "San Buenaventura State Beach",
+        "street_address": "1099 San Pedro St, Ventura, CA 93001, USA"
+    },
+    {
+        "_id": 189,
+        "coast_order": "12-12",
+        "coordinates": [
+            -119.2691704464693,
+            34.24406108836918
+        ],
+        "county_id": 11,
+        "field_data_count": 16,
+        "spot_id_char": "south-jetty-ventura-ca",
+        "spot_name": "South Jetty",
+        "street_address": "1806-1836 Spinnaker Dr, Ventura, CA 93001, USA"
+    },
+    {
+        "_id": 188,
+        "coast_order": "12-13",
+        "coordinates": [
+            -119.2663057962956,
+            34.22951577687875
+        ],
+        "county_id": 11,
+        "field_data_count": 0,
+        "spot_id_char": "santa-clara-rivermouth-ventura-ca",
+        "spot_name": "Santa Clara Rivermouth",
+        "street_address": "Unnamed Rd, Oxnard, CA 93036, USA"
+    },
+    {
+        "_id": 187,
+        "coast_order": "12-14",
+        "coordinates": [
+            -119.257734704306,
+            34.21236885040005
+        ],
+        "county_id": 11,
+        "field_data_count": 0,
+        "spot_id_char": "mcgrath-state-beach-oxnard-ca",
+        "spot_name": "McGrath State Beach",
+        "street_address": "205 Harbor Blvd, Oxnard, CA 93035, USA"
+    },
+    {
+        "_id": 717,
+        "coast_order": "12-15",
+        "coordinates": [
+            -119.2242236779785,
+            34.15557351815922
+        ],
+        "county_id": 11,
+        "field_data_count": 1,
+        "spot_id_char": "silver-strand-oxnard-ca",
+        "spot_name": "Silver Strand",
+        "street_address": "2145 Ocean Dr, Oxnard, CA 93035, USA"
+    },
+    {
+        "_id": 718,
+        "coast_order": "12-16",
+        "coordinates": [
+            -119.1966011225911,
+            34.14157044797146
+        ],
+        "county_id": 11,
+        "field_data_count": 1,
+        "spot_id_char": "port-hueneme-beach-park-port-hueneme-ca",
+        "spot_name": "Port Hueneme Beach Park",
+        "street_address": "Port Huenene Fishing Pier, Oxnard, CA 93041, USA"
+    },
+    {
+        "_id": 719,
+        "coast_order": "12-17",
+        "coordinates": [
+            -119.1852079616088,
+            34.13566638525892
+        ],
+        "county_id": 11,
+        "field_data_count": 0,
+        "spot_id_char": "ormand-beach-oxnard-ca",
+        "spot_name": "Ormand Beach",
+        "street_address": "6298 Perkins Rd, Oxnard, CA 93033, USA"
+    },
+    {
+        "_id": 186,
+        "coast_order": "12-18",
+        "coordinates": [
+            -119.1072715825548,
+            34.09515477798779
+        ],
+        "county_id": 11,
+        "field_data_count": 0,
+        "spot_id_char": "point-mugu-ca",
+        "spot_name": "Point Mugu",
+        "street_address": "20th St, NAS Point Mugu, CA 93042, USA"
+    },
+    {
+        "_id": 207,
+        "coast_order": "13-01",
+        "coordinates": [
+            -118.9640255003194,
+            34.05206067247789
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "county-line-malibu-ca",
+        "spot_name": "County Line",
+        "street_address": "42400-44000 Hwy 1, Santa Monica Mountains National Recreation Area, Malibu, CA 90265, USA"
+    },
+    {
+        "_id": 638,
+        "coast_order": "13-02",
+        "coordinates": [
+            -118.9343235963207,
+            34.04349045348215
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "leo-carrillo-malibu-ca",
+        "spot_name": "Leo Carrillo",
+        "street_address": "35000 Pacific Coast Hwy, Santa Monica Mountains National Recreation Area, Malibu, CA 90265, USA"
+    },
+    {
+        "_id": 720,
+        "coast_order": "13-03",
+        "coordinates": [
+            -118.9168999329918,
+            34.04285110551507
+        ],
+        "county_id": 12,
+        "field_data_count": 1,
+        "spot_id_char": "zero-malibu-ca",
+        "spot_name": "Zero",
+        "street_address": "Nicholas Beach Rd, Santa Monica Mountains National Recreation Area, Malibu, CA 90265, USA"
+    },
+    {
+        "_id": 721,
+        "coast_order": "13-04",
+        "coordinates": [
+            -118.8611824726196,
+            34.03433174410338
+        ],
+        "county_id": 12,
+        "field_data_count": 0,
+        "spot_id_char": "trancas-point-malibu-ca",
+        "spot_name": "Trancas Point",
+        "street_address": "6515 Point Lechuza Dr, Santa Monica Mountains National Recreation Area, Malibu, CA 90265, USA"
+    },
+    {
+        "_id": 206,
+        "coast_order": "13-05",
+        "coordinates": [
+            -118.8303773801784,
+            34.01902597455428
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "zuma-beach-malibu-ca",
+        "spot_name": "Zuma Beach",
+        "street_address": "Zuma Beach Access Rd, Santa Monica Mountains National Recreation Area, Malibu, CA 90265, USA"
+    },
+    {
+        "_id": 637,
+        "coast_order": "13-06",
+        "coordinates": [
+            -118.8083780106363,
+            34.00111336043925
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "point-dume-malibu-ca",
+        "spot_name": "Point Dume",
+        "street_address": "7299 Westward Beach Rd, Santa Monica Mountains National Recreation Area, Malibu, CA 90265, USA"
+    },
+    {
+        "_id": 636,
+        "coast_order": "13-07",
+        "coordinates": [
+            -118.7555735304975,
+            34.02594433365814
+        ],
+        "county_id": 12,
+        "field_data_count": 0,
+        "spot_id_char": "latigo-canyon-malibu-ca",
+        "spot_name": "Latigo Canyon",
+        "street_address": "26770 Latigo Shore Dr, Malibu, CA 90265, USA"
+    },
+    {
+        "_id": 205,
+        "coast_order": "13-08",
+        "coordinates": [
+            -118.6778152767141,
+            34.03302182979562
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "malibu-malibu-ca",
+        "spot_name": "Malibu",
+        "street_address": "23200 Pacific Coast Hwy, Malibu, CA 90265, USA"
+    },
+    {
+        "_id": 722,
+        "coast_order": "13-09",
+        "coordinates": [
+            -118.6087015348736,
+            34.03628678327178
+        ],
+        "county_id": 12,
+        "field_data_count": 0,
+        "spot_id_char": "big-rock-malibu-ca",
+        "spot_name": "Big Rock",
+        "street_address": "19926 Pacific Coast Hwy, Santa Monica Mountains National Recreation Area, Malibu, CA 90265, USA"
+    },
+    {
+        "_id": 388,
+        "coast_order": "13-10",
+        "coordinates": [
+            -118.5832137275658,
+            34.03721938742399
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "topanga-malibu-ca",
+        "spot_name": "Topanga",
+        "street_address": "18808 Topanga Beach Dr, Santa Monica Mountains National Recreation Area, Malibu, CA 90265, USA"
+    },
+    {
+        "_id": 635,
+        "coast_order": "13-11",
+        "coordinates": [
+            -118.5756079633999,
+            34.03936412938852
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "chart-house-topanga-ca",
+        "spot_name": "Chart House",
+        "street_address": "18412 Pacific Coast Hwy, Santa Monica Mountains National Recreation Area, Topanga, CA 90265, USA"
+    },
+    {
+        "_id": 387,
+        "coast_order": "13-12",
+        "coordinates": [
+            -118.5551262771518,
+            34.03709471468836
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "sunset-pacific-palisades-ca",
+        "spot_name": "Sunset",
+        "street_address": "17300 Pacific Coast Hwy, Santa Monica Mountains National Recreation Area, Pacific Palisades, CA 90272, USA"
+    },
+    {
+        "_id": 723,
+        "coast_order": "13-13",
+        "coordinates": [
+            -118.5464991955614,
+            34.03846711116608
+        ],
+        "county_id": 12,
+        "field_data_count": 0,
+        "spot_id_char": "santa-monica-jetties-pacific-palisades-ca",
+        "spot_name": "Santa Monica Jetties",
+        "street_address": "16800 Pacific Coast Hwy, Santa Monica Mountains National Recreation Area, Pacific Palisades, CA 90272, USA"
+    },
+    {
+        "_id": 724,
+        "coast_order": "13-14",
+        "coordinates": [
+            -118.498652238675,
+            34.00764971040174
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "santa-monica-municipal-pier-santa-monica-ca",
+        "spot_name": "Santa Monica Municipal Pier",
+        "street_address": "Santa Monica Pier, Santa Monica, CA 90401, USA"
+    },
+    {
+        "_id": 725,
+        "coast_order": "13-15",
+        "coordinates": [
+            -118.4940809896584,
+            34.00407158714122
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "bay-street-santa-monica-ca",
+        "spot_name": "Bay Street",
+        "street_address": "Bike Path, Santa Monica Mountains National Recreation Area, Santa Monica, CA 90401, USA"
+    },
+    {
+        "_id": 726,
+        "coast_order": "13-16",
+        "coordinates": [
+            -118.4834347611491,
+            33.99320554305135
+        ],
+        "county_id": 12,
+        "field_data_count": 0,
+        "spot_id_char": "rose-avenue-venice-ca",
+        "spot_name": "Rose Avenue",
+        "street_address": "1 Rose Ave, Venice, CA 90291, USA"
+    },
+    {
+        "_id": 204,
+        "coast_order": "13-17",
+        "coordinates": [
+            -118.4742634651619,
+            33.98316127078371
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "venice-venice-ca",
+        "spot_name": "Venice",
+        "street_address": "2000-2098 Ocean Front Walk, Venice, CA 90291, USA"
+    },
+    {
+        "_id": 727,
+        "coast_order": "13-18",
+        "coordinates": [
+            -118.4562189432081,
+            33.96038710258032
+        ],
+        "county_id": 12,
+        "field_data_count": 0,
+        "spot_id_char": "toes-over-playa-del-rey-ca",
+        "spot_name": "Toes Overs",
+        "street_address": "6201-6299 Ocean Front Walk, Playa Del Rey, CA 90293, USA"
+    },
+    {
+        "_id": 728,
+        "coast_order": "13-19",
+        "coordinates": [
+            -118.455056395013,
+            33.95991562721676
+        ],
+        "county_id": 12,
+        "field_data_count": 0,
+        "spot_id_char": "ballona-creek-playa-del-rey-ca",
+        "spot_name": "Ballona Creek",
+        "street_address": "2 64th Ave, Playa Del Rey, CA 90293, USA"
+    },
+    {
+        "_id": 729,
+        "coast_order": "13-20",
+        "coordinates": [
+            -118.4434464988428,
+            33.94010079775174
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "dockweiler-playa-del-rey-ca",
+        "spot_name": "Dockweiler",
+        "street_address": "7699-7745 S Marine Ave, Playa Del Rey, CA 90293, USA"
+    },
+    {
+        "_id": 730,
+        "coast_order": "13-21",
+        "coordinates": [
+            -118.4304988573489,
+            33.91627476249145
+        ],
+        "county_id": 12,
+        "field_data_count": 0,
+        "spot_id_char": "new-jetty-los-angeles-ca",
+        "spot_name": "New Jetty",
+        "street_address": "12623 Vista Del Mar, Los Angeles, CA 90293, USA"
+    },
+    {
+        "_id": 402,
+        "coast_order": "13-22",
+        "coordinates": [
+            -118.4220839567824,
+            33.89974270434262
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "el-porto-manhattan-beach-ca",
+        "spot_name": "El Porto",
+        "street_address": "Marvin Braude Bike Trail, Manhattan Beach, CA 90266, USA"
+    },
+    {
+        "_id": 203,
+        "coast_order": "13-23",
+        "coordinates": [
+            -118.4138307775285,
+            33.88386643743257
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "manhattan-beach-manhattan-beach-ca",
+        "spot_name": "Manhattan Beach",
+        "street_address": "Manhattan Beach Pier, Manhattan Beach, CA 90266, USA"
+    },
+    {
+        "_id": 202,
+        "coast_order": "13-24",
+        "coordinates": [
+            -118.4034127774129,
+            33.86160652911514
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "hermosa-hermosa-beach-ca",
+        "spot_name": "Hermosa",
+        "street_address": "8 Pier Ave, Hermosa Beach, CA 90254, USA"
+    },
+    {
+        "_id": 201,
+        "coast_order": "13-25",
+        "coordinates": [
+            -118.4019851018966,
+            33.84917891453757
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "redondo-breakwater-redondo-beach-ca",
+        "spot_name": "Redondo Breakwater",
+        "street_address": "280 Yacht Club Way, Redondo Beach, CA 90277, USA"
+    },
+    {
+        "_id": 732,
+        "coast_order": "13-27",
+        "coordinates": [
+            -118.3919152431706,
+            33.83200873689634
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "topaz-jetty-redondo-beach-ca",
+        "spot_name": "Topaz Jetty",
+        "street_address": "707 Esplanade, Redondo Beach, CA 90277, USA"
+    },
+    {
+        "_id": 200,
+        "coast_order": "13-28",
+        "coordinates": [
+            -118.39290949975,
+            33.81111239543542
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "torrance-beach-redondo-beach-ca",
+        "spot_name": "Torrance Beach",
+        "street_address": "417 Paseo De La Playa, Redondo Beach, CA 90277, USA"
+    },
+    {
+        "_id": 733,
+        "coast_order": "13-29",
+        "coordinates": [
+            -118.3970201453732,
+            33.8030731247222
+        ],
+        "county_id": 12,
+        "field_data_count": 1,
+        "spot_id_char": "rat-shit-palos-verdes-estates-ca",
+        "spot_name": "Rat Shit",
+        "street_address": "Malaga Cove Trail, Palos Verdes Estates, CA 90274, USA"
+    },
+    {
+        "_id": 396,
+        "coast_order": "13-30",
+        "coordinates": [
+            -118.4034431936948,
+            33.80097773003244
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "haggartys-palos-verdes-estates-ca",
+        "spot_name": "Haggertys",
+        "street_address": "Blufftop Trail, Palos Verdes Estates, CA 90274, USA"
+    },
+    {
+        "_id": 633,
+        "coast_order": "13-31",
+        "coordinates": [
+            -118.4078221407595,
+            33.7928292845627
+        ],
+        "county_id": 12,
+        "field_data_count": 16,
+        "spot_id_char": "palos-verdes-cove-palos-verdes-estates-ca",
+        "spot_name": "Palos Verdes Cove",
+        "street_address": "Rocky Shore, Palos Verdes Estates, CA 90274, USA"
+    },
+    {
+        "_id": 734,
+        "coast_order": "13-32",
+        "coordinates": [
+            -118.4220548564988,
+            33.78405444195085
+        ],
+        "county_id": 12,
+        "field_data_count": 0,
+        "spot_id_char": "indicator-palo-verdes-estates-ca",
+        "spot_name": "Indicator",
+        "street_address": "Rocky Shore, Palos Verdes Estates, CA 90274, USA"
+    },
+    {
+        "_id": 199,
+        "coast_order": "13-33",
+        "coordinates": [
+            -118.4274108823028,
+            33.7720015780674
+        ],
+        "county_id": 12,
+        "field_data_count": 1,
+        "spot_id_char": "lunada-bay-palos-verdes-estates-ca",
+        "spot_name": "Lunada Bay",
+        "street_address": "Rocky Shore, Palos Verdes Estates, CA 90274, USA"
+    },
+    {
+        "_id": 735,
+        "coast_order": "13-34",
+        "coordinates": [
+            -118.3768878104818,
+            33.73769649214287
+        ],
+        "county_id": 12,
+        "field_data_count": 1,
+        "spot_id_char": "abalone-cove-beach-rancho-palo-verdes-ca",
+        "spot_name": "Abalone Cove Beach",
+        "street_address": "Portuguese Point Trail, Rancho Palos Verdes, CA 90275, USA"
+    },
+    {
+        "_id": 736,
+        "coast_order": "13-35",
+        "coordinates": [
+            -118.3278500000078,
+            33.71974100035697
+        ],
+        "county_id": 12,
+        "field_data_count": 1,
+        "spot_id_char": "royal-palms-state-beach-san-pedro-ca",
+        "spot_name": "Royal Palms State Beach",
+        "street_address": "2267 Warmouth St, San Pedro, CA 90732, USA"
+    },
+    {
+        "_id": 632,
+        "coast_order": "13-36",
+        "coordinates": [
+            -118.2839499848816,
+            33.70801182897299
+        ],
+        "county_id": 12,
+        "field_data_count": 1,
+        "spot_id_char": "cabrillo-beach-san-pedro-ca",
+        "spot_name": "Cabrillo Beach",
+        "street_address": "3906 Bluff Pl, San Pedro, CA 90731, USA"
+    },
+    {
+        "_id": 737,
+        "coast_order": "13-37",
+        "coordinates": [
+            -118.1224840903618,
+            33.74691608010197
+        ],
+        "county_id": 12,
+        "field_data_count": 1,
+        "spot_id_char": "64th-place-long-beach-ca",
+        "spot_name": "64th Place",
+        "street_address": "6465-6621 E Seaside Walk, Long Beach, CA 90803, USA"
+    },
+    {
+        "_id": 738,
+        "coast_order": "13-38",
+        "coordinates": [
+            -118.1181552985309,
+            33.74430007341873
+        ],
+        "county_id": 12,
+        "field_data_count": 1,
+        "spot_id_char": "72nd-place-long-beach-ca",
+        "spot_name": "72nd Place",
+        "street_address": "72nd Pl, Long Beach, CA 90803, USA"
+    },
+    {
+        "_id": 739,
+        "coast_order": "14-01",
+        "coordinates": [
+            -118.1157733298928,
+            33.73956160018886
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "san-gabriel-rivermouth-seal-beach-ca",
+        "spot_name": "San Gabriel Rivermouth",
+        "street_address": "15 1st St, Seal Beach, CA 90740, USA"
+    },
+    {
+        "_id": 740,
+        "coast_order": "14-02",
+        "coordinates": [
+            -118.1106520764267,
+            33.73895495076405
+        ],
+        "county_id": 13,
+        "field_data_count": 1,
+        "spot_id_char": "7th-street-seal-beach-ca",
+        "spot_name": "7th Street",
+        "street_address": "1 6th St, Seal Beach, CA 90740, USA"
+    },
+    {
+        "_id": 222,
+        "coast_order": "14-03",
+        "coordinates": [
+            -118.1078747535007,
+            33.73771902859338
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "seal-beach-pier-seal-beach-ca",
+        "spot_name": "Seal Beach Pier",
+        "street_address": "Seal Beach Municipal Pier, Seal Beach, CA 90740, USA"
+    },
+    {
+        "_id": 601,
+        "coast_order": "14-04",
+        "coordinates": [
+            -118.1033218199791,
+            33.73682833824478
+        ],
+        "county_id": 13,
+        "field_data_count": 1,
+        "spot_id_char": "13th-street-seal-beach-ca",
+        "spot_name": "13th Street",
+        "street_address": "1217 Seal Way, Seal Beach, CA 90740, USA"
+    },
+    {
+        "_id": 741,
+        "coast_order": "14-05",
+        "coordinates": [
+            -118.1015971818255,
+            33.73602255134904
+        ],
+        "county_id": 13,
+        "field_data_count": 1,
+        "spot_id_char": "dolphin-avenue-seal-beach-ca",
+        "spot_name": "Dolphin Avenue",
+        "street_address": "1517 Seal Way, Seal Beach, CA 90740, USA"
+    },
+    {
+        "_id": 602,
+        "coast_order": "14-06",
+        "coordinates": [
+            -118.0908085660303,
+            33.72848580464282
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "surfside-jetty-north-coast-ca",
+        "spot_name": "Surfside Jetty",
+        "street_address": "44 Surfside Ave, Huntington Beach, CA 92663, USA"
+    },
+    {
+        "_id": 603,
+        "coast_order": "14-07",
+        "coordinates": [
+            -118.0802261736895,
+            33.72315771853458
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "anderson-st-north-coast-ca",
+        "spot_name": "Anderson St",
+        "street_address": "3 Surfside Ave, Huntington Beach, CA 92663, USA"
+    },
+    {
+        "_id": 604,
+        "coast_order": "14-08",
+        "coordinates": [
+            -118.0403658241339,
+            33.68539215930445
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "bolsa-chica-huntington-beach-ca",
+        "spot_name": "Bolsa Chica",
+        "street_address": "Huntington Beach Bike Trail, Huntington Beach, CA 92649, USA"
+    },
+    {
+        "_id": 220,
+        "coast_order": "14-09",
+        "coordinates": [
+            -118.01901000164,
+            33.66615620581521
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "goldenwest-huntington-beach-ca",
+        "spot_name": "Goldenwest",
+        "street_address": "Huntington Beach Bike Trail, Huntington Beach, CA 92648, USA"
+    },
+    {
+        "_id": 605,
+        "coast_order": "14-10",
+        "coordinates": [
+            -118.0140490339561,
+            33.66394528126585
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "17th-street-huntington-beach-ca",
+        "spot_name": "17th Street",
+        "street_address": "Huntington Beach Bike Trail, Huntington Beach, CA 92648, USA"
+    },
+    {
+        "_id": 221,
+        "coast_order": "14-11",
+        "coordinates": [
+            -118.0050433408805,
+            33.65521398159275
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "huntington-pier-huntington-beach-ca",
+        "spot_name": "Huntington Pier",
+        "street_address": "1 Main St, Huntington Beach, CA 92648, USA"
+    },
+    {
+        "_id": 643,
+        "coast_order": "14-12",
+        "coordinates": [
+            -117.9932214212635,
+            33.64851655408741
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "huntington-beach-huntington-beach-ca",
+        "spot_name": "Huntington State Beach",
+        "street_address": "Huntington Beach Bike Trail, Huntington Beach, CA 92646, USA"
+    },
+    {
+        "_id": 606,
+        "coast_order": "14-13",
+        "coordinates": [
+            -117.9591291105893,
+            33.62806652764193
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "santa-ana-river-jetties-newport-beach-ca",
+        "spot_name": "Santa Ana River Jetties",
+        "street_address": "1 Summit St, Newport Beach, CA 92663, USA"
+    },
+    {
+        "_id": 219,
+        "coast_order": "14-14",
+        "coordinates": [
+            -117.9487673760861,
+            33.62290558073348
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "56th-street-newport-beach-ca",
+        "spot_name": "56th Street",
+        "street_address": "5899-5801 W Oceanfront, Newport Beach, CA 92663, USA"
+    },
+    {
+        "_id": 607,
+        "coast_order": "14-15",
+        "coordinates": [
+            -117.9388114221126,
+            33.61722759248739
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "40th-street-newport-beach-ca",
+        "spot_name": "40th Street",
+        "street_address": "3900-4098 W Oceanfront, Newport Beach, CA 92663, USA"
+    },
+    {
+        "_id": 608,
+        "coast_order": "14-16",
+        "coordinates": [
+            -117.9369576533262,
+            33.61531903458457
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "36th-street-newport-beach-ca",
+        "spot_name": "36th Street",
+        "street_address": "101 36th St, Newport Beach, CA 92663, USA"
+    },
+    {
+        "_id": 651,
+        "coast_order": "14-17",
+        "coordinates": [
+            -117.933626701894,
+            33.61095831182542
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "blackies-newport-beach-ca",
+        "spot_name": "Blackies",
+        "street_address": "2714 W Oceanfront, Newport Beach, CA 92663, USA"
+    },
+    {
+        "_id": 609,
+        "coast_order": "14-18",
+        "coordinates": [
+            -117.9307384511544,
+            33.60664692004247
+        ],
+        "county_id": 13,
+        "field_data_count": 1,
+        "spot_id_char": "newport-pier-newport-beach-ca",
+        "spot_name": "Newport Pier",
+        "street_address": "1 Newport Pier, Newport Beach, CA, USA"
+    },
+    {
+        "_id": 218,
+        "coast_order": "14-19",
+        "coordinates": [
+            -117.9253477173645,
+            33.60462670888214
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "newport-point-newport-beach-ca",
+        "spot_name": "Newport Point",
+        "street_address": "Newport Balboa Bike Trail, Newport Beach, CA 92663, USA"
+    },
+    {
+        "_id": 217,
+        "coast_order": "14-20",
+        "coordinates": [
+            -117.8823429704075,
+            33.59338993866989
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "the-wedge-newport-beach-ca",
+        "spot_name": "The Wedge",
+        "street_address": "2172 E Oceanfront, Newport Beach, CA 92661, USA"
+    },
+    {
+        "_id": 216,
+        "coast_order": "14-21",
+        "coordinates": [
+            -117.8770239986105,
+            33.5920726330199
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "corona-del-mar-ca",
+        "spot_name": "Corona Del Mar",
+        "street_address": "3011-3099 E Shore Ave, Corona Del Mar, CA 92625, USA"
+    },
+    {
+        "_id": 742,
+        "coast_order": "14-22",
+        "coordinates": [
+            -117.8217083792319,
+            33.55930284211604
+        ],
+        "county_id": 13,
+        "field_data_count": 1,
+        "spot_id_char": "moro-beach-laguna-beach-ca",
+        "spot_name": "Moro Beach",
+        "street_address": "9250-9318 N Coast Hwy, Laguna Beach, CA 92651, USA"
+    },
+    {
+        "_id": 610,
+        "coast_order": "14-23",
+        "coordinates": [
+            -117.7915999692588,
+            33.54202199861413
+        ],
+        "county_id": 13,
+        "field_data_count": 1,
+        "spot_id_char": "rockpile-laguna-beach-ca",
+        "spot_name": "Rockpile",
+        "street_address": "401-499 Cliff Dr, Laguna Beach, CA 92651, USA"
+    },
+    {
+        "_id": 611,
+        "coast_order": "14-24",
+        "coordinates": [
+            -117.77989898682,
+            33.53526630018146
+        ],
+        "county_id": 13,
+        "field_data_count": 1,
+        "spot_id_char": "thalia-laguna-beach-ca",
+        "spot_name": "Thalia",
+        "street_address": "101-117 Thalia St, Laguna Beach, CA 92651, USA"
+    },
+    {
+        "_id": 215,
+        "coast_order": "14-25",
+        "coordinates": [
+            -117.7779907890295,
+            33.53232333796107
+        ],
+        "county_id": 13,
+        "field_data_count": 1,
+        "spot_id_char": "brooks-street-laguna-beach-ca",
+        "spot_name": "Brooks Street",
+        "street_address": "101 Brooks St, Laguna Beach, CA 92651, USA"
+    },
+    {
+        "_id": 743,
+        "coast_order": "14-26",
+        "coordinates": [
+            -117.7725102823698,
+            33.52802334180323
+        ],
+        "county_id": 13,
+        "field_data_count": 1,
+        "spot_id_char": "agate-laguna-beach-ca",
+        "spot_name": "Agate",
+        "street_address": "1771 Ocean Way, Laguna Beach, CA 92651, USA"
+    },
+    {
+        "_id": 214,
+        "coast_order": "14-27",
+        "coordinates": [
+            -117.7233023880989,
+            33.47466504514782
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "salt-creek-dana-point-ca",
+        "spot_name": "Salt Creek",
+        "street_address": "39 Ritz Cove Dr, Dana Point, CA 92629, USA"
+    },
+    {
+        "_id": 213,
+        "coast_order": "14-28",
+        "coordinates": [
+            -117.6886485710755,
+            33.46033085820538
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "doheny-dana-point-ca",
+        "spot_name": "Doheny",
+        "street_address": "34671 Puerto Pl, Dana Point, CA 92629, USA"
+    },
+    {
+        "_id": 744,
+        "coast_order": "14-29",
+        "coordinates": [
+            -117.6644023745431,
+            33.45205970379561
+        ],
+        "county_id": 13,
+        "field_data_count": 1,
+        "spot_id_char": "poche-dana-point-ca",
+        "spot_name": "Poche",
+        "street_address": "35101 Beach Rd, Dana Point, CA 92624, USA"
+    },
+    {
+        "_id": 745,
+        "coast_order": "14-30",
+        "coordinates": [
+            -117.6289762885628,
+            33.42713486226824
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "204s-san-clemente-ca",
+        "spot_name": "204s",
+        "street_address": "San Clemente Pedestrian Beach Trail, San Clemente, CA 92672, USA"
+    },
+    {
+        "_id": 212,
+        "coast_order": "14-31",
+        "coordinates": [
+            -117.6212676741133,
+            33.41973194288649
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "san-clemente-pier-san-clemente-ca",
+        "spot_name": "San Clemente Pier",
+        "street_address": "San Clemente Pedestrian Beach Trail, San Clemente, CA 92672, USA"
+    },
+    {
+        "_id": 211,
+        "coast_order": "14-32",
+        "coordinates": [
+            -117.618142936175,
+            33.41596558240347
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "t-street-san-clemente-ca",
+        "spot_name": "T Street",
+        "street_address": "San Clemente Pedestrian Beach Trail, San Clemente, CA 92672, USA"
+    },
+    {
+        "_id": 391,
+        "coast_order": "14-33",
+        "coordinates": [
+            -117.6130013911603,
+            33.41064330626746
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "lasuen-san-clemente-ca",
+        "spot_name": "Lasuen",
+        "street_address": "San Clemente Pedestrian Beach Trail, San Clemente, CA 92672, USA"
+    },
+    {
+        "_id": 644,
+        "coast_order": "14-34",
+        "coordinates": [
+            -117.6096503058218,
+            33.40698370572502
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "riviera-san-clemente-ca",
+        "spot_name": "Riviera",
+        "street_address": "San Clemente Pedestrian Beach Trail, San Clemente, CA 92672, USA"
+    },
+    {
+        "_id": 645,
+        "coast_order": "14-35",
+        "coordinates": [
+            -117.6073102678367,
+            33.40480836264544
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "calafia-san-clemente-ca",
+        "spot_name": "Calafia",
+        "street_address": "San Clemente Pedestrian Beach Trail, San Clemente, CA 92672, USA"
+    },
+    {
+        "_id": 392,
+        "coast_order": "14-36",
+        "coordinates": [
+            -117.6061996160215,
+            33.40297996814307
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "state-park-san-clemente-ca",
+        "spot_name": "San Clemente State Beach",
+        "street_address": "225 Avenida Califia, San Clemente, CA 92672, USA"
+    },
+    {
+        "_id": 210,
+        "coast_order": "14-37",
+        "coordinates": [
+            -117.6008792819534,
+            33.39597534909761
+        ],
+        "county_id": 13,
+        "facts": [
+            "It is a punchy beach break",
+            "It is rarely surfable, but can be an amazing barrel when it works.",
+            "Rarely surfed by anyone but the Cypress Shores private community; and is a long hike for all others.",
+            "Recent sand loss and added riprap have impacted the wave quality."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "north-gate-san-clemente-ca",
+        "spot_name": "North Gate",
+        "street_address": "399 Avenida De Las Palmera, San Clemente, CA 92672, USA"
+    },
+    {
+        "_id": 209,
+        "coast_order": "14-38",
+        "coordinates": [
+            -117.5987721491924,
+            33.39061299257676
+        ],
+        "county_id": 13,
+        "facts": [
+            "It is a left and a right, but primarily a left.",
+            "It is a mostly sand bottom point break.",
+            "It is directly in front of Richard Nixon's 'West Coast White House'.",
+            "Recent sand loss and new riprap have impacted the wave quality.",
+            "Access is difficult unless you live in the adjacent private community.",
+            "Access from the trestles trail or from Califia.  Both are a hike."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "cottons-point-san-clemente-ca",
+        "spot_name": "Cottons Point",
+        "street_address": "4120 Calle Isabella, San Clemente, CA 92672, USA"
+    },
+    {
+        "_id": 623,
+        "coast_order": "14-39",
+        "coordinates": [
+            -117.5944511240262,
+            33.3844763013776
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "upper-trestles-san-clemente-ca",
+        "spot_name": "Upper Trestles",
+        "street_address": "4130 Calle Isabella, San Clemente, CA 92672, USA"
+    },
+    {
+        "_id": 208,
+        "coast_order": "14-40",
+        "coordinates": [
+            -117.5888397460814,
+            33.38211695507326
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "lower-trestles-san-clemente-ca",
+        "spot_name": "Lower Trestles",
+        "street_address": "Old Pacific Hwy, San Clemente, CA 92058, USA"
+    },
+    {
+        "_id": 625,
+        "coast_order": "14-41",
+        "coordinates": [
+            -117.5790343398904,
+            33.38011455475179
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "church-san-clemente-ca",
+        "spot_name": "Church",
+        "street_address": "Beach Club Rd, San Clemente, CA 92672, USA"
+    },
+    {
+        "_id": 239,
+        "coast_order": "14-42",
+        "coordinates": [
+            -117.5691291993784,
+            33.37360546620393
+        ],
+        "county_id": 13,
+        "facts": [
+            "It is consistent year-round, but best in summer months.",
+            "It is a cobblestone reef.",
+            "The wave has options for serious longboaders, beginners, and SUPs.",
+            "This spot has several breaks, each suitable for different skill levels.  The Point, Old Man's and Dog Patch.",
+            "The 'Waikiki of California', it is one of the most iconic waves in California and has been surfed since the 1930s.",
+            "Expect it to be busy on weekends and holidays, with a long wait at the entrance.",
+            "The Point is for serious longboaders.",
+            "Old Man's is for beginners.",
+            "Dog Patch is for SUPs."
+        ],
+        "field_data_count": 16,
+        "spot_id_char": "san-onofre-san-clemente-ca",
+        "spot_name": "San Onofre",
+        "street_address": "Beach Club Rd, San Clemente, CA 92672, USA"
+    },
+    {
+        "_id": 614,
+        "coast_order": "14-43",
+        "coordinates": [
+            -117.5449775514087,
+            33.36170650862447
+        ],
+        "county_id": 13,
+        "field_data_count": 16,
+        "spot_id_char": "trails-san-clemente-ca",
+        "spot_name": "Trails",
+        "street_address": "San Clemente, CA, USA"
+    },
+    {
+        "_id": 238,
+        "coast_order": "15-01",
+        "coordinates": [
+            -117.3959770213895,
+            33.20422852759
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "oceanside-harbor-oceanside-ca",
+        "spot_name": "Oceanside Harbor",
+        "street_address": "1206-1342 N Pacific St, Oceanside, CA, USA"
+    },
+    {
+        "_id": 594,
+        "coast_order": "15-02",
+        "coordinates": [
+            -117.3871878580306,
+            33.19338704616089
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "oceanside-pier-oceanside-ca",
+        "spot_name": "Oceanside Pier",
+        "street_address": "Oceanside Pier, Oceanside, CA, USA"
+    },
+    {
+        "_id": 628,
+        "coast_order": "15-03",
+        "coordinates": [
+            -117.37826775154,
+            33.18560497984529
+        ],
+        "county_id": 14,
+        "field_data_count": 0,
+        "spot_id_char": "wisconsin-oceanside-ca",
+        "spot_name": "Wisconsin",
+        "street_address": "405-799 The Strand S, Oceanside, CA 92054, USA"
+    },
+    {
+        "_id": 629,
+        "coast_order": "15-04",
+        "coordinates": [
+            -117.3666572301789,
+            33.1727141797096
+        ],
+        "county_id": 14,
+        "field_data_count": 1,
+        "spot_id_char": "cassidy-oceanside-ca",
+        "spot_name": "Cassidy",
+        "street_address": "2 Cassidy St, Oceanside, CA 92054, USA"
+    },
+    {
+        "_id": 237,
+        "coast_order": "15-05",
+        "coordinates": [
+            -117.3467966641187,
+            33.14732039517696
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "tamarack-carlsbad-ca",
+        "spot_name": "Tamarack",
+        "street_address": "3851-3877 Carlsbad Blvd, Carlsbad, CA 92008, USA"
+    },
+    {
+        "_id": 596,
+        "coast_order": "15-06",
+        "coordinates": [
+            -117.344584923286,
+            33.1440071379831
+        ],
+        "county_id": 14,
+        "field_data_count": 1,
+        "spot_id_char": "warm-water-jetty-carlsbad-ca",
+        "spot_name": "Warm Water Jetty",
+        "street_address": "4101-4353 Carlsbad Blvd, Carlsbad, CA 92008, USA"
+    },
+    {
+        "_id": 597,
+        "coast_order": "15-07",
+        "coordinates": [
+            -117.3361948822189,
+            33.1287625038052
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "terra-mar-carlsbad-ca",
+        "spot_name": "Terra Mar",
+        "street_address": "5257 Shore Dr, Carlsbad, CA 92008, USA"
+    },
+    {
+        "_id": 630,
+        "coast_order": "15-08",
+        "coordinates": [
+            -117.3199860617356,
+            33.10077725856549
+        ],
+        "county_id": 14,
+        "field_data_count": 1,
+        "spot_id_char": "campground-carlsbad-ca",
+        "spot_name": "Campground",
+        "street_address": "Poinsettia Ln, Carlsbad, CA 92008, USA"
+    },
+    {
+        "_id": 236,
+        "coast_order": "15-09",
+        "coordinates": [
+            -117.314238172042,
+            33.08703466528135
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "ponto-carlsbad-ca",
+        "spot_name": "Ponto",
+        "street_address": "9901 Carlsbad Blvd, Carlsbad, CA 92008, USA"
+    },
+    {
+        "_id": 400,
+        "coast_order": "15-10",
+        "coordinates": [
+            -117.310721142163,
+            33.07548446739567
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "grandview-encinitas-ca",
+        "spot_name": "Grandview",
+        "street_address": "1666-1668 Neptune Ave, Encinitas, CA 92024, USA"
+    },
+    {
+        "_id": 235,
+        "coast_order": "15-11",
+        "coordinates": [
+            -117.3055500790094,
+            33.06357021203468
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "beacons-encinitas-ca",
+        "spot_name": "Beacons",
+        "street_address": "838 Neptune Ave, Encinitas, CA 92024, USA"
+    },
+    {
+        "_id": 746,
+        "coast_order": "15-12",
+        "coordinates": [
+            -117.3021096501646,
+            33.05579379693121
+        ],
+        "county_id": 14,
+        "field_data_count": 0,
+        "spot_id_char": "stone-steps-encinitas-ca",
+        "spot_name": "Stone Steps",
+        "street_address": "432 Neptune Ave, Encinitas, CA 92024, USA"
+    },
+    {
+        "_id": 747,
+        "coast_order": "15-13",
+        "coordinates": [
+            -117.2992460678035,
+            33.0477231488252
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "moonlight-beach-encinitas-ca",
+        "spot_name": "Moonlight Beach",
+        "street_address": "252 5th St, Encinitas, CA 92024, USA"
+    },
+    {
+        "_id": 401,
+        "coast_order": "15-14",
+        "coordinates": [
+            -117.2982038691907,
+            33.04544227410393
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "d-street-encinitas-ca",
+        "spot_name": "D Street",
+        "street_address": "498 W D St, Encinitas, CA 92024, USA"
+    },
+    {
+        "_id": 234,
+        "coast_order": "15-15",
+        "coordinates": [
+            -117.2957502535422,
+            33.03442293101347
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "swamis-encinitas-ca",
+        "spot_name": "Swamis",
+        "street_address": "1200-1498 Crest St, Encinitas, CA 92024, USA"
+    },
+    {
+        "_id": 233,
+        "coast_order": "15-16",
+        "coordinates": [
+            -117.2880169584566,
+            33.02560677714643
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "pipes-cardiff-ca",
+        "spot_name": "Pipes",
+        "street_address": "S Coast Highway 101, Cardiff, CA 92007, USA"
+    },
+    {
+        "_id": 232,
+        "coast_order": "15-17",
+        "coordinates": [
+            -117.283273919829,
+            33.01541991675105
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "cardiff-reef-cardiff-ca",
+        "spot_name": "Cardiff Reef",
+        "street_address": "2182-2242 S Coast Highway 101, Cardiff, CA 92007, USA"
+    },
+    {
+        "_id": 748,
+        "coast_order": "15-18",
+        "coordinates": [
+            -117.2806657882797,
+            33.01094301639863
+        ],
+        "county_id": 14,
+        "field_data_count": 0,
+        "spot_id_char": "sandbox-cardiff-ca",
+        "spot_name": "Sandbox",
+        "street_address": "2302-2312 S Coast Highway 101, Cardiff, CA 92007, USA"
+    },
+    {
+        "_id": 749,
+        "coast_order": "15-19",
+        "coordinates": [
+            -117.2793974249951,
+            33.00603328137771
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "georges-cardiff-ca",
+        "spot_name": "Georges",
+        "street_address": "2314-2488 S Coast Highway 101, Cardiff, CA 92007, USA"
+    },
+    {
+        "_id": 231,
+        "coast_order": "15-20",
+        "coordinates": [
+            -117.2796420074124,
+            33.00033702988816
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "seaside-reef-solana-beach-ca",
+        "spot_name": "Seaside Reef",
+        "street_address": "645 W Circle Dr, Solana Beach, CA 92075, USA"
+    },
+    {
+        "_id": 750,
+        "coast_order": "15-21",
+        "coordinates": [
+            -117.2755301434951,
+            32.9910990473816
+        ],
+        "county_id": 14,
+        "field_data_count": 0,
+        "spot_id_char": "pillbox-solana-beach-ca",
+        "spot_name": "Pillbox",
+        "street_address": "139 Pacific Ave, Solana Beach, CA 92075, USA"
+    },
+    {
+        "_id": 751,
+        "coast_order": "15-22",
+        "coordinates": [
+            -117.2721052291127,
+            32.97479804874148
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "del-mar-rivermouth-del-mar-ca",
+        "spot_name": "Del Mar Rivermouth",
+        "street_address": "3010 Sandy Ln, Del Mar, CA 92014, USA"
+    },
+    {
+        "_id": 752,
+        "coast_order": "15-23",
+        "coordinates": [
+            -117.2699920318156,
+            32.96678115934679
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "del-mar-beach-del-mar-ca",
+        "spot_name": "Del Mar Beach",
+        "street_address": "100 21st St, Del Mar, CA 92014, USA"
+    },
+    {
+        "_id": 230,
+        "coast_order": "15-24",
+        "coordinates": [
+            -117.2691753574579,
+            32.95866232586716
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "15th-street-del-mar-ca",
+        "spot_name": "15th Street",
+        "street_address": "1420 Ocean Ave, Del Mar, CA 92014, USA"
+    },
+    {
+        "_id": 753,
+        "coast_order": "15-25",
+        "coordinates": [
+            -117.2654975329353,
+            32.94873669749639
+        ],
+        "county_id": 14,
+        "field_data_count": 0,
+        "spot_id_char": "south-del-mar-ca",
+        "spot_name": "South Del Mar",
+        "street_address": "117 6th St, Del Mar, CA 92014, USA"
+    },
+    {
+        "_id": 754,
+        "coast_order": "15-26",
+        "coordinates": [
+            -117.2617407404518,
+            32.93310208353217
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "torrey-pines-state-beach-la-jolla-ca",
+        "spot_name": "Torrey Pines State Beach",
+        "street_address": "N Torrey Pines Rd, La Jolla, CA 92037, USA"
+    },
+    {
+        "_id": 229,
+        "coast_order": "15-27",
+        "coordinates": [
+            -117.2574779327986,
+            32.88872776198521
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "blacks-beach-la-jolla-ca",
+        "spot_name": "Blacks Beach",
+        "street_address": "9828 La Jolla Farms Rd, La Jolla, CA 92037, USA"
+    },
+    {
+        "_id": 228,
+        "coast_order": "15-28",
+        "coordinates": [
+            -117.2562736520856,
+            32.8665985093327
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "scripps-pier-la-jolla-ca",
+        "spot_name": "Scripps Pier",
+        "street_address": "Kennel Way, University of California San Diego, La Jolla, CA 92037, USA"
+    },
+    {
+        "_id": 755,
+        "coast_order": "15-29",
+        "coordinates": [
+            -117.2730818429806,
+            32.85146751805613
+        ],
+        "county_id": 14,
+        "field_data_count": 0,
+        "spot_id_char": "la-jolla-cove-san-diego-ca",
+        "spot_name": "La Jolla Cove",
+        "street_address": "1160 Coast Blvd, La Jolla, CA 92037, USA"
+    },
+    {
+        "_id": 756,
+        "coast_order": "15-30",
+        "coordinates": [
+            -117.2825528890551,
+            32.83879292191246
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "horseshoe-la-jolla-ca",
+        "spot_name": "Horseshoe",
+        "street_address": "202 Coast Blvd, La Jolla, CA 92037, USA"
+    },
+    {
+        "_id": 757,
+        "coast_order": "15-31",
+        "coordinates": [
+            -117.2824956602703,
+            32.83400669282712
+        ],
+        "county_id": 14,
+        "field_data_count": 0,
+        "spot_id_char": "little-point-la-jolla-ca",
+        "spot_name": "Little Point",
+        "street_address": "101-199 Fern Glen, La Jolla, CA 92037, USA"
+    },
+    {
+        "_id": 758,
+        "coast_order": "15-32",
+        "coordinates": [
+            -117.2827774679985,
+            32.83218522519806
+        ],
+        "county_id": 14,
+        "field_data_count": 0,
+        "spot_id_char": "simmons-reef-la-jolla-ca",
+        "spot_name": "Simmons Reef",
+        "street_address": "7099 Neptune Pl, La Jolla, CA 92037, USA"
+    },
+    {
+        "_id": 227,
+        "coast_order": "15-33",
+        "coordinates": [
+            -117.2820435395789,
+            32.82966532137208
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "windansea-la-jolla-ca",
+        "spot_name": "Windansea",
+        "street_address": "6770-6798 Neptune Pl, La Jolla, CA 92037, USA"
+    },
+    {
+        "_id": 759,
+        "coast_order": "15-34",
+        "coordinates": [
+            -117.2810405686735,
+            32.82390560038768
+        ],
+        "county_id": 14,
+        "field_data_count": 1,
+        "spot_id_char": "big-rock-la-jolla-ca",
+        "spot_name": "Big Rock",
+        "street_address": "6340 Camino De La Costa, La Jolla, CA 92037, USA"
+    },
+    {
+        "_id": 398,
+        "coast_order": "15-35",
+        "coordinates": [
+            -117.2738442945035,
+            32.81342404990851
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "bird-rock-la-jolla-ca",
+        "spot_name": "Bird Rock",
+        "street_address": "5676 Dolphin Pl, La Jolla, CA 92037, USA"
+    },
+    {
+        "_id": 760,
+        "coast_order": "15-36",
+        "coordinates": [
+            -117.2704551908626,
+            32.81174703666179
+        ],
+        "county_id": 14,
+        "field_data_count": 0,
+        "spot_id_char": "rockpile-la-jolla-ca",
+        "spot_name": "Rockpile",
+        "street_address": "5508 Calumet Ave, La Jolla, CA 92037, USA"
+    },
+    {
+        "_id": 399,
+        "coast_order": "15-37",
+        "coordinates": [
+            -117.2659989723968,
+            32.80694591751527
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "tourmaline-san-diego-ca",
+        "spot_name": "Tourmaline",
+        "street_address": "403 Sea Ridge Dr, San Diego, CA 92037, USA"
+    },
+    {
+        "_id": 226,
+        "coast_order": "15-38",
+        "coordinates": [
+            -117.2596029503458,
+            32.79702950543552
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "pacific-beach-san-diego-ca",
+        "spot_name": "Pacific Beach",
+        "street_address": "600 Tourmaline St, San Diego, CA 92037, USA"
+    },
+    {
+        "_id": 397,
+        "coast_order": "15-39",
+        "coordinates": [
+            -117.2543264821912,
+            32.77792900748604
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "mission-beach-san-diego-ca",
+        "spot_name": "Mission Beach",
+        "street_address": "3420-3498 Ocean Front Walk, San Diego, CA 92109, USA"
+    },
+    {
+        "_id": 761,
+        "coast_order": "15-40",
+        "coordinates": [
+            -117.2552831042027,
+            32.75960314330076
+        ],
+        "county_id": 14,
+        "field_data_count": 0,
+        "spot_id_char": "dog-beach-san-diego-ca",
+        "spot_name": "Dog Beach",
+        "street_address": "2667 Strand Way, San Diego, CA 92109, USA"
+    },
+    {
+        "_id": 762,
+        "coast_order": "15-41",
+        "coordinates": [
+            -117.2556990676614,
+            32.75532220479215
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "ocean-beach-jetty-san-diego-ca",
+        "spot_name": "Ocean Beach Jetty",
+        "street_address": "Ocean Beach Bike Path, San Diego, CA 92107, USA"
+    },
+    {
+        "_id": 225,
+        "coast_order": "15-42",
+        "coordinates": [
+            -117.2553418849109,
+            32.74915185196409
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "ocean-beach-pier-san-diego-ca",
+        "spot_name": "Ocean Beach Pier",
+        "street_address": "1900-1938 Abbott St, San Diego, CA 92107, USA"
+    },
+    {
+        "_id": 224,
+        "coast_order": "15-43",
+        "coordinates": [
+            -117.2571632713268,
+            32.71899890471818
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "sunset-cliffs-san-diego-ca",
+        "spot_name": "Sunset Cliffs",
+        "street_address": "4501-4599 Ladera St, San Diego, CA 92107, USA"
+    },
+    {
+        "_id": 598,
+        "coast_order": "15-44",
+        "coordinates": [
+            -117.1855218469544,
+            32.68246240029379
+        ],
+        "county_id": 14,
+        "field_data_count": 0,
+        "spot_id_char": "coronado-ca",
+        "spot_name": "Coronado",
+        "street_address": "900-998 Ocean Blvd, Coronado, CA 92118, USA"
+    },
+    {
+        "_id": 223,
+        "coast_order": "15-45",
+        "coordinates": [
+            -117.1346007967761,
+            32.577928810608
+        ],
+        "county_id": 14,
+        "field_data_count": 16,
+        "spot_id_char": "imperial-beach-ca",
+        "spot_name": "Imperial Beach",
+        "street_address": "1-15 Elkwood Ave, Imperial Beach, CA 91932, USA"
+    }
+]

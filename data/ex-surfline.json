@@ -1,0 +1,1803 @@
+{
+  "associated": {
+    "units": {
+      "temperature": "F",
+      "tideHeight": "FT",
+      "swellHeight": "FT",
+      "waveHeight": "FT",
+      "windSpeed": "KTS",
+      "pressure": "MB"
+    },
+    "utcOffset": -8,
+    "location": {
+      "lon": -122.50463,
+      "lat": 37.5988185272014
+    },
+    "forecastLocation": {
+      "lon": -122.505,
+      "lat": 37.5979
+    },
+    "offshoreLocation": {
+      "lon": -122.75,
+      "lat": 37.5
+    },
+    "runInitializationTimestamp": 1770897600
+  },
+  "data": {
+    "wave": [
+      {
+        "timestamp": 1770883200,
+        "probability": 96.6666666666667,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.34514,
+            "max": 2.3622
+          },
+          "optimalScore": 0
+        },
+        "power": 320.81389,
+        "swells": [
+          {
+            "height": 3.54469,
+            "period": 6,
+            "impact": 0.2276,
+            "power": 19.09966,
+            "direction": 226.79999,
+            "directionMin": 213.637785,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.2313,
+            "period": 10,
+            "impact": 0.5694,
+            "power": 298.34917,
+            "direction": 291.54242,
+            "directionMin": 281.046435,
+            "optimalScore": 1
+          },
+          {
+            "height": 0.59593,
+            "period": 15,
+            "impact": 0.0275,
+            "power": 0.38058,
+            "direction": 190.45197,
+            "directionMin": 185.202555,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.69078,
+            "period": 18,
+            "impact": 0.0817,
+            "power": 2.30338,
+            "direction": 208.84454,
+            "directionMin": 202.94431,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.32851,
+            "period": 19,
+            "impact": 0.0938,
+            "power": 0.6811,
+            "direction": 275.12897,
+            "directionMin": 268.252535,
+            "optimalScore": 0
+          },
+          {
+            "height": 3.49665,
+            "period": 5,
+            "impact": 0,
+            "power": 0,
+            "direction": 157.94324,
+            "directionMin": 146.095485,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770886800,
+        "probability": 96.6666666666667,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.31234,
+            "max": 2.3294
+          },
+          "optimalScore": 0
+        },
+        "power": 352.21515,
+        "swells": [
+          {
+            "height": 4.6331,
+            "period": 6,
+            "impact": 0.0983,
+            "power": 12.56606,
+            "direction": 189.05969,
+            "directionMin": 169.10173,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.225,
+            "period": 10,
+            "impact": 0.6545,
+            "power": 335.03735,
+            "direction": 291.36957,
+            "directionMin": 280.747005,
+            "optimalScore": 1
+          },
+          {
+            "height": 0.62156,
+            "period": 15,
+            "impact": 0.0329,
+            "power": 0.49376,
+            "direction": 191.6944,
+            "directionMin": 186.03055,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.73238,
+            "period": 18,
+            "impact": 0.0987,
+            "power": 3.10803,
+            "direction": 209.01709,
+            "directionMin": 203.136935,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.3667,
+            "period": 19,
+            "impact": 0.1156,
+            "power": 1.00995,
+            "direction": 275.80353,
+            "directionMin": 269.163775,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770890400,
+        "probability": 96.6666666666667,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.27953,
+            "max": 2.26378
+          },
+          "optimalScore": 0
+        },
+        "power": 302.10546,
+        "swells": [
+          {
+            "height": 4.37867,
+            "period": 6,
+            "impact": 0.0891,
+            "power": 10.26431,
+            "direction": 190.21106,
+            "directionMin": 169.906905,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.09403,
+            "period": 10,
+            "impact": 0.5991,
+            "power": 286.47064,
+            "direction": 292.5592,
+            "directionMin": 282.353895,
+            "optimalScore": 1
+          },
+          {
+            "height": 0.62595,
+            "period": 15,
+            "impact": 0.031,
+            "power": 0.47011,
+            "direction": 191.7417,
+            "directionMin": 186.05686,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.75938,
+            "period": 18,
+            "impact": 0.0954,
+            "power": 3.22338,
+            "direction": 209.12085,
+            "directionMin": 203.012055,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.39974,
+            "period": 18,
+            "impact": 0.1133,
+            "power": 1.0898,
+            "direction": 278.02527,
+            "directionMin": 271.871635,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.5021,
+            "period": 13,
+            "impact": 0.0721,
+            "power": 0.58722,
+            "direction": 221.28058,
+            "directionMin": 217.09817,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770894000,
+        "probability": 63.3333333333333,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.24672,
+            "max": 2.23097
+          },
+          "optimalScore": 0
+        },
+        "power": 434.3757,
+        "swells": [
+          {
+            "height": 6.16053,
+            "period": 10,
+            "impact": 0.5817,
+            "power": 415.43677,
+            "direction": 252.56415,
+            "directionMin": 226.736315,
+            "optimalScore": 0
+          },
+          {
+            "height": 2.08904,
+            "period": 9,
+            "impact": 0.2309,
+            "power": 14.29086,
+            "direction": 320.26428,
+            "directionMin": 316.754795,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.49045,
+            "period": 15,
+            "impact": 0.0144,
+            "power": 0.13399,
+            "direction": 184.08276,
+            "directionMin": 179.96745,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.77575,
+            "period": 18,
+            "impact": 0.0874,
+            "power": 3.08095,
+            "direction": 208.63342,
+            "directionMin": 202.79034,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.72352,
+            "period": 13,
+            "impact": 0.0856,
+            "power": 1.43313,
+            "direction": 218.9743,
+            "directionMin": 212.26802,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770897600,
+        "probability": 63.3333333333333,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.24672,
+            "max": 2.23097
+          },
+          "optimalScore": 0
+        },
+        "power": 204.52037,
+        "swells": [
+          {
+            "height": 4.45476,
+            "period": 10,
+            "impact": 0.4611,
+            "power": 171.6911,
+            "direction": 288.28247,
+            "directionMin": 279.52436,
+            "optimalScore": 1
+          },
+          {
+            "height": 2.14209,
+            "period": 9,
+            "impact": 0.2202,
+            "power": 14.34053,
+            "direction": 320.37354,
+            "directionMin": 316.851035,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.5834,
+            "period": 14,
+            "impact": 0.0246,
+            "power": 0.31755,
+            "direction": 188.7951,
+            "directionMin": 183.79278,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.7648,
+            "period": 18,
+            "impact": 0.0808,
+            "power": 2.77909,
+            "direction": 207.82709,
+            "directionMin": 202.053205,
+            "optimalScore": 0
+          },
+          {
+            "height": 3.91913,
+            "period": 6,
+            "impact": 0.145,
+            "power": 14.63043,
+            "direction": 203.91949,
+            "directionMin": 182.483645,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.58743,
+            "period": 13,
+            "impact": 0.0683,
+            "power": 0.76167,
+            "direction": 218.48169,
+            "directionMin": 213.88016,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770901200,
+        "probability": 63.3333333333333,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.24672,
+            "max": 2.23097
+          },
+          "optimalScore": 0
+        },
+        "power": 268.72174,
+        "swells": [
+          {
+            "height": 4.93271,
+            "period": 10,
+            "impact": 0.5562,
+            "power": 251.90874,
+            "direction": 292.06146,
+            "directionMin": 282.025935,
+            "optimalScore": 1
+          },
+          {
+            "height": 1.05325,
+            "period": 9,
+            "impact": 0.1406,
+            "power": 2.33547,
+            "direction": 320,
+            "directionMin": 319.99011,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.76614,
+            "period": 18,
+            "impact": 0.0908,
+            "power": 3.13465,
+            "direction": 207.84552,
+            "directionMin": 201.94259,
+            "optimalScore": 0
+          },
+          {
+            "height": 3.49268,
+            "period": 6,
+            "impact": 0.1218,
+            "power": 8.71545,
+            "direction": 198.1106,
+            "directionMin": 178.66867,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.93871,
+            "period": 13,
+            "impact": 0.0906,
+            "power": 2.62743,
+            "direction": 208.75635,
+            "directionMin": 199.11905,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770904800,
+        "probability": 76.6666666666667,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.21391,
+            "max": 2.23097
+          },
+          "optimalScore": 0
+        },
+        "power": 276.24652,
+        "swells": [
+          {
+            "height": 4.96434,
+            "period": 10,
+            "impact": 0.5694,
+            "power": 261.44816,
+            "direction": 291.71783,
+            "directionMin": 281.4758,
+            "optimalScore": 1
+          },
+          {
+            "height": 1.04885,
+            "period": 9,
+            "impact": 0.1428,
+            "power": 2.35222,
+            "direction": 320,
+            "directionMin": 320,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.79685,
+            "period": 18,
+            "impact": 0.0952,
+            "power": 3.53613,
+            "direction": 207.91003,
+            "directionMin": 202.13945,
+            "optimalScore": 0
+          },
+          {
+            "height": 3.2147,
+            "period": 6,
+            "impact": 0.1161,
+            "power": 6.93017,
+            "direction": 199.63605,
+            "directionMin": 181.273115,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.88412,
+            "period": 13,
+            "impact": 0.0765,
+            "power": 1.97984,
+            "direction": 204.0614,
+            "directionMin": 195.555685,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770908400,
+        "probability": 76.6666666666667,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.24672,
+            "max": 2.23097
+          },
+          "optimalScore": 0
+        },
+        "power": 373.80123,
+        "swells": [
+          {
+            "height": 0.57625,
+            "period": 18,
+            "impact": 0.1275,
+            "power": 2.40311,
+            "direction": 282.03809,
+            "directionMin": 276.081315,
+            "optimalScore": 0
+          },
+          {
+            "height": 1.03707,
+            "period": 9,
+            "impact": 0.1293,
+            "power": 2.08231,
+            "direction": 320,
+            "directionMin": 320,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.80285,
+            "period": 10,
+            "impact": 0.5794,
+            "power": 363.41109,
+            "direction": 274.73199,
+            "directionMin": 253.464755,
+            "optimalScore": 1
+          },
+          {
+            "height": 0.85646,
+            "period": 18,
+            "impact": 0.0919,
+            "power": 3.91585,
+            "direction": 207.97784,
+            "directionMin": 202.43267,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.92021,
+            "period": 13,
+            "impact": 0.0719,
+            "power": 1.98887,
+            "direction": 205.63403,
+            "directionMin": 196.905475,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770912000,
+        "probability": 76.6666666666667,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.24672,
+            "max": 2.26378
+          },
+          "optimalScore": 0
+        },
+        "power": 370.67551,
+        "swells": [
+          {
+            "height": 0.58845,
+            "period": 18,
+            "impact": 0.131,
+            "power": 2.57212,
+            "direction": 283.53906,
+            "directionMin": 278.052375,
+            "optimalScore": 0
+          },
+          {
+            "height": 1.02146,
+            "period": 9,
+            "impact": 0.1293,
+            "power": 2.02003,
+            "direction": 320,
+            "directionMin": 320,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.75361,
+            "period": 10,
+            "impact": 0.5831,
+            "power": 359.75514,
+            "direction": 276.91803,
+            "directionMin": 256.75693,
+            "optimalScore": 1
+          },
+          {
+            "height": 0.93074,
+            "period": 18,
+            "impact": 0.0991,
+            "power": 4.96242,
+            "direction": 208.14862,
+            "directionMin": 202.732385,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.85177,
+            "period": 13,
+            "impact": 0.0575,
+            "power": 1.3658,
+            "direction": 200.70398,
+            "directionMin": 193.35926,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770915600,
+        "probability": 96.6666666666667,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.27953,
+            "max": 2.26378
+          },
+          "optimalScore": 0
+        },
+        "power": 289.88555,
+        "swells": [
+          {
+            "height": 0.60394,
+            "period": 18,
+            "impact": 0.1393,
+            "power": 2.86228,
+            "direction": 284.58044,
+            "directionMin": 279.015435,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.17274,
+            "period": 10,
+            "impact": 0.5613,
+            "power": 274.503,
+            "direction": 292.7486,
+            "directionMin": 282.257215,
+            "optimalScore": 1
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.97211,
+            "period": 18,
+            "impact": 0.1071,
+            "power": 5.84064,
+            "direction": 208.12378,
+            "directionMin": 202.874,
+            "optimalScore": 0
+          },
+          {
+            "height": 2.64203,
+            "period": 6,
+            "impact": 0.1316,
+            "power": 5.20569,
+            "direction": 208.70636,
+            "directionMin": 190.9813,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.86358,
+            "period": 13,
+            "impact": 0.0606,
+            "power": 1.47394,
+            "direction": 200.5379,
+            "directionMin": 193.23208,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770919200,
+        "probability": 96.6666666666667,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.27953,
+            "max": 2.29659
+          },
+          "optimalScore": 0
+        },
+        "power": 416.1932,
+        "swells": [
+          {
+            "height": 0.6024,
+            "period": 17,
+            "impact": 0.1513,
+            "power": 3.05491,
+            "direction": 285.62512,
+            "directionMin": 280.09018,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.45315,
+            "period": 5,
+            "impact": 0,
+            "power": 0,
+            "direction": 160.66382,
+            "directionMin": 156.873335,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.77139,
+            "period": 10,
+            "impact": 0.6658,
+            "power": 405.22191,
+            "direction": 282.17804,
+            "directionMin": 264.16685,
+            "optimalScore": 1
+          },
+          {
+            "height": 0.96608,
+            "period": 18,
+            "impact": 0.1164,
+            "power": 6.27442,
+            "direction": 208.14526,
+            "directionMin": 202.83736,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.87051,
+            "period": 13,
+            "impact": 0.0666,
+            "power": 1.64196,
+            "direction": 199.90735,
+            "directionMin": 192.66637,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770922800,
+        "probability": 96.6666666666667,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.27953,
+            "max": 2.29659
+          },
+          "optimalScore": 0
+        },
+        "power": 307.57423,
+        "swells": [
+          {
+            "height": 0.6228,
+            "period": 17,
+            "impact": 0.1408,
+            "power": 2.89928,
+            "direction": 285.39398,
+            "directionMin": 279.668265,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.29367,
+            "period": 10,
+            "impact": 0.5752,
+            "power": 294.32893,
+            "direction": 292.38141,
+            "directionMin": 281.919035,
+            "optimalScore": 1
+          },
+          {
+            "height": 0.94872,
+            "period": 18,
+            "impact": 0.1055,
+            "power": 5.49209,
+            "direction": 208.83862,
+            "directionMin": 202.61444,
+            "optimalScore": 0
+          },
+          {
+            "height": 2.29957,
+            "period": 5,
+            "impact": 0.1167,
+            "power": 3.29491,
+            "direction": 208.35211,
+            "directionMin": 191.760695,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.88123,
+            "period": 13,
+            "impact": 0.0618,
+            "power": 1.55902,
+            "direction": 199.47205,
+            "directionMin": 192.23708,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770926400,
+        "probability": 100,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.27953,
+            "max": 2.29659
+          },
+          "optimalScore": 0
+        },
+        "power": 410.71376,
+        "swells": [
+          {
+            "height": 0.66047,
+            "period": 17,
+            "impact": 0.1574,
+            "power": 3.46085,
+            "direction": 285.29291,
+            "directionMin": 279.518595,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.75509,
+            "period": 10,
+            "impact": 0.6618,
+            "power": 399.59351,
+            "direction": 284.10815,
+            "directionMin": 267.061085,
+            "optimalScore": 1
+          },
+          {
+            "height": 0.95755,
+            "period": 18,
+            "impact": 0.1152,
+            "power": 6.08611,
+            "direction": 208.71008,
+            "directionMin": 202.218825,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.85928,
+            "period": 13,
+            "impact": 0.0656,
+            "power": 1.57329,
+            "direction": 198.55798,
+            "directionMin": 191.0269,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770930000,
+        "probability": 100,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.31234,
+            "max": 2.29659
+          },
+          "optimalScore": 0
+        },
+        "power": 407.74732,
+        "swells": [
+          {
+            "height": 0.75325,
+            "period": 16,
+            "impact": 0.1735,
+            "power": 4.86337,
+            "direction": 283.39435,
+            "directionMin": 276.88263,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.73517,
+            "period": 10,
+            "impact": 0.6605,
+            "power": 395.80448,
+            "direction": 285.08026,
+            "directionMin": 268.62208,
+            "optimalScore": 1
+          },
+          {
+            "height": 0.94344,
+            "period": 18,
+            "impact": 0.1139,
+            "power": 5.84213,
+            "direction": 207.77228,
+            "directionMin": 201.9913,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.85643,
+            "period": 13,
+            "impact": 0.0521,
+            "power": 1.23734,
+            "direction": 197.03937,
+            "directionMin": 189.597115,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770933600,
+        "probability": 100,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.31234,
+            "max": 2.29659
+          },
+          "optimalScore": 0
+        },
+        "power": 399.30092,
+        "swells": [
+          {
+            "height": 0.8439,
+            "period": 16,
+            "impact": 0.1863,
+            "power": 6.459,
+            "direction": 283.711,
+            "directionMin": 277.543565,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.71266,
+            "period": 10,
+            "impact": 0.6492,
+            "power": 385.76199,
+            "direction": 286.00305,
+            "directionMin": 270.09793,
+            "optimalScore": 1
+          },
+          {
+            "height": 0.95026,
+            "period": 18,
+            "impact": 0.1127,
+            "power": 5.82036,
+            "direction": 208.09503,
+            "directionMin": 201.80555,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.86624,
+            "period": 13,
+            "impact": 0.0518,
+            "power": 1.25957,
+            "direction": 196.61536,
+            "directionMin": 189.13197,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770937200,
+        "probability": 56.6666666666667,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.31234,
+            "max": 2.3294
+          },
+          "optimalScore": 0
+        },
+        "power": 382.86525,
+        "swells": [
+          {
+            "height": 1.04793,
+            "period": 16,
+            "impact": 0.2131,
+            "power": 11.08156,
+            "direction": 283.63489,
+            "directionMin": 277.825495,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.66257,
+            "period": 10,
+            "impact": 0.6247,
+            "power": 364.3791,
+            "direction": 286.93481,
+            "directionMin": 271.50982,
+            "optimalScore": 1
+          },
+          {
+            "height": 0.99331,
+            "period": 18,
+            "impact": 0.1124,
+            "power": 6.21616,
+            "direction": 208.35938,
+            "directionMin": 201.53496,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.8583,
+            "period": 13,
+            "impact": 0.0498,
+            "power": 1.18843,
+            "direction": 196.23688,
+            "directionMin": 188.673885,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770940800,
+        "probability": 56.6666666666667,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.31234,
+            "max": 2.3294
+          },
+          "optimalScore": 0
+        },
+        "power": 346.05376,
+        "swells": [
+          {
+            "height": 1.14406,
+            "period": 16,
+            "impact": 0.2091,
+            "power": 12.87473,
+            "direction": 284.40289,
+            "directionMin": 279.084575,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.17516,
+            "period": 24,
+            "impact": 0.0708,
+            "power": 0.21968,
+            "direction": 277.06714,
+            "directionMin": 271.191725,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.61572,
+            "period": 10,
+            "impact": 0.5686,
+            "power": 325.73481,
+            "direction": 287.81311,
+            "directionMin": 272.86988,
+            "optimalScore": 1
+          },
+          {
+            "height": 1.03451,
+            "period": 17,
+            "impact": 0.1052,
+            "power": 6.07992,
+            "direction": 209.57397,
+            "directionMin": 202.336575,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.87346,
+            "period": 13,
+            "impact": 0.0463,
+            "power": 1.14462,
+            "direction": 195.453,
+            "directionMin": 187.80156,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770944400,
+        "probability": 56.6666666666667,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.31234,
+            "max": 2.29659
+          },
+          "optimalScore": 0
+        },
+        "power": 333.85998,
+        "swells": [
+          {
+            "height": 1.33068,
+            "period": 16,
+            "impact": 0.2282,
+            "power": 18.74091,
+            "direction": 285.17596,
+            "directionMin": 279.422325,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.21102,
+            "period": 24,
+            "impact": 0.0755,
+            "power": 0.33858,
+            "direction": 277.27509,
+            "directionMin": 271.505375,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.56667,
+            "period": 10,
+            "impact": 0.547,
+            "power": 307.43771,
+            "direction": 289.14966,
+            "directionMin": 274.5363,
+            "optimalScore": 1
+          },
+          {
+            "height": 1.07959,
+            "period": 17,
+            "impact": 0.1038,
+            "power": 6.1839,
+            "direction": 209.5614,
+            "directionMin": 202.845075,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.88717,
+            "period": 13,
+            "impact": 0.0454,
+            "power": 1.15888,
+            "direction": 195.14008,
+            "directionMin": 187.47253,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770948000,
+        "probability": 100,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.27953,
+            "max": 2.29659
+          },
+          "optimalScore": 0
+        },
+        "power": 335.75977,
+        "swells": [
+          {
+            "height": 1.37549,
+            "period": 16,
+            "impact": 0.2291,
+            "power": 19.96468,
+            "direction": 284.98859,
+            "directionMin": 279.08939,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.25955,
+            "period": 23,
+            "impact": 0.0829,
+            "power": 0.55644,
+            "direction": 278.02539,
+            "directionMin": 272.502965,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.60971,
+            "period": 10,
+            "impact": 0.5383,
+            "power": 307.10015,
+            "direction": 291.09412,
+            "directionMin": 276.651465,
+            "optimalScore": 1
+          },
+          {
+            "height": 1.16575,
+            "period": 16,
+            "impact": 0.107,
+            "power": 7.15131,
+            "direction": 209.90594,
+            "directionMin": 203.280835,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.8461,
+            "period": 13,
+            "impact": 0.0427,
+            "power": 0.98719,
+            "direction": 192.62402,
+            "directionMin": 185.327835,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770951600,
+        "probability": 100,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.27953,
+            "max": 2.26378
+          },
+          "optimalScore": 0
+        },
+        "power": 335.78926,
+        "swells": [
+          {
+            "height": 1.39626,
+            "period": 16,
+            "impact": 0.2263,
+            "power": 20.22535,
+            "direction": 286.33649,
+            "directionMin": 281.06914,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.32287,
+            "period": 23,
+            "impact": 0.092,
+            "power": 0.9353,
+            "direction": 277.33221,
+            "directionMin": 271.593005,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.65115,
+            "period": 10,
+            "impact": 0.5263,
+            "power": 304.74588,
+            "direction": 293.3266,
+            "directionMin": 279.068605,
+            "optimalScore": 1
+          },
+          {
+            "height": 1.2752,
+            "period": 16,
+            "impact": 0.1118,
+            "power": 8.76551,
+            "direction": 212.28259,
+            "directionMin": 204.434355,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.89104,
+            "period": 13,
+            "impact": 0.0435,
+            "power": 1.11722,
+            "direction": 194.17328,
+            "directionMin": 186.386465,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770955200,
+        "probability": 100,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.24672,
+            "max": 2.26378
+          },
+          "optimalScore": 0
+        },
+        "power": 334.69206,
+        "swells": [
+          {
+            "height": 1.46453,
+            "period": 16,
+            "impact": 0.2255,
+            "power": 21.65804,
+            "direction": 286.3949,
+            "directionMin": 280.893915,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.43711,
+            "period": 22,
+            "impact": 0.1061,
+            "power": 1.80003,
+            "direction": 277.95685,
+            "directionMin": 272.07577,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.68396,
+            "period": 10,
+            "impact": 0.5098,
+            "power": 299.06001,
+            "direction": 294.81866,
+            "directionMin": 280.77308,
+            "optimalScore": 1
+          },
+          {
+            "height": 1.36342,
+            "period": 16,
+            "impact": 0.1278,
+            "power": 11.37027,
+            "direction": 213.08264,
+            "directionMin": 205.218015,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.89318,
+            "period": 13,
+            "impact": 0.0309,
+            "power": 0.80371,
+            "direction": 191.46637,
+            "directionMin": 184.818325,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770958800,
+        "probability": 100,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.27953,
+            "max": 2.26378
+          },
+          "optimalScore": 0
+        },
+        "power": 216.91941,
+        "swells": [
+          {
+            "height": 1.48035,
+            "period": 15,
+            "impact": 0.1892,
+            "power": 18.15129,
+            "direction": 286.578,
+            "directionMin": 281.06704,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.57385,
+            "period": 22,
+            "impact": 0.1069,
+            "power": 2.99928,
+            "direction": 278.04834,
+            "directionMin": 271.98775,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.00643,
+            "period": 10,
+            "impact": 0.3915,
+            "power": 178.61163,
+            "direction": 291.12036,
+            "directionMin": 278.874205,
+            "optimalScore": 1
+          },
+          {
+            "height": 1.41227,
+            "period": 16,
+            "impact": 0.1099,
+            "power": 10.45449,
+            "direction": 212.52173,
+            "directionMin": 204.59941,
+            "optimalScore": 0
+          },
+          {
+            "height": 2.91329,
+            "period": 5,
+            "impact": 0.1657,
+            "power": 5.64429,
+            "direction": 312.82019,
+            "directionMin": 299.239485,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.93789,
+            "period": 13,
+            "impact": 0.0367,
+            "power": 1.05843,
+            "direction": 193.69836,
+            "directionMin": 186.163375,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770962400,
+        "probability": null,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.34514,
+            "max": 2.3294
+          },
+          "optimalScore": 0
+        },
+        "power": 356.80092,
+        "swells": [
+          {
+            "height": 1.4961,
+            "period": 15,
+            "impact": 0.2161,
+            "power": 20.49531,
+            "direction": 286.56049,
+            "directionMin": 281.134005,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.68868,
+            "period": 21,
+            "impact": 0.1397,
+            "power": 5.58293,
+            "direction": 277.93561,
+            "directionMin": 271.934675,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.91047,
+            "period": 10,
+            "impact": 0.4972,
+            "power": 317.36244,
+            "direction": 297.5061,
+            "directionMin": 284.39437,
+            "optimalScore": 1
+          },
+          {
+            "height": 1.50364,
+            "period": 16,
+            "impact": 0.1172,
+            "power": 12.56066,
+            "direction": 212.19867,
+            "directionMin": 204.379105,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.3624,
+            "period": 5,
+            "impact": 0,
+            "power": 0,
+            "direction": 164.11615,
+            "directionMin": 160.072935,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.91096,
+            "period": 13,
+            "impact": 0.0299,
+            "power": 0.79958,
+            "direction": 191.98755,
+            "directionMin": 184.668205,
+            "optimalScore": 0
+          }
+        ]
+      },
+      {
+        "timestamp": 1770966000,
+        "probability": null,
+        "utcOffset": -8,
+        "surf": {
+          "min": 1,
+          "max": 2,
+          "plus": false,
+          "humanRelation": "Knee to thigh",
+          "raw": {
+            "min": 1.37795,
+            "max": 2.39501
+          },
+          "optimalScore": 0
+        },
+        "power": 368.55784,
+        "swells": [
+          {
+            "height": 1.61319,
+            "period": 15,
+            "impact": 0.2235,
+            "power": 23.98632,
+            "direction": 285.75122,
+            "directionMin": 279.694865,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.79242,
+            "period": 21,
+            "impact": 0.1524,
+            "power": 8.02274,
+            "direction": 278.33136,
+            "directionMin": 272.392045,
+            "optimalScore": 0
+          },
+          {
+            "height": 5.9854,
+            "period": 10,
+            "impact": 0.4921,
+            "power": 323.77642,
+            "direction": 297.63531,
+            "directionMin": 284.228905,
+            "optimalScore": 1
+          },
+          {
+            "height": 1.50732,
+            "period": 16,
+            "impact": 0.115,
+            "power": 12.37531,
+            "direction": 209.92578,
+            "directionMin": 203.326575,
+            "optimalScore": 0
+          },
+          {
+            "height": 0,
+            "period": 0,
+            "impact": 0,
+            "power": 0,
+            "direction": 0,
+            "directionMin": 0,
+            "optimalScore": 0
+          },
+          {
+            "height": 0.84711,
+            "period": 13,
+            "impact": 0.017,
+            "power": 0.39705,
+            "direction": 186.84528,
+            "directionMin": 181.420445,
+            "optimalScore": 0
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "data": [],
+    "violations": [
+      {
+        "code": 4001,
+        "message": "User does not have optional permission:sl_core-16day-forecast",
+        "permission": {
+          "name": "sl_core-16day-forecast",
+          "required": false
+        }
+      },
+      {
+        "code": 4001,
+        "message": "User does not have optional permission:sl_live-wind",
+        "permission": {
+          "name": "sl_live-wind",
+          "required": false
+        }
+      }
+    ]
+  }
+}
