@@ -9,12 +9,14 @@
     ],
     "host_permissions": [
         "https://*.cdn-surfline.com/*",
-        "http://localhost:8000/*"
+        "http://localhost:8000/*",
+        "*://*.github.io/*"
     ],
     "content_scripts": [
         {
             "matches": [
-                "http://localhost:8000/*"
+                "http://localhost:8000/*",
+                "*://*.github.io/*"
             ],
             "js": [
                 "content.js"
