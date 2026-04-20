@@ -1,18 +1,16 @@
 # surf-tools
 
+Growing list of tools to view and analyze surf conditions.
 
-## Condition Alerting
+## [Bay Area Cam Viewer:](https://seangaff.github.io/surf-tools/github-pages/index.html) 
 
-Notify when conditions match critera from your list of favorite spots.
+Directly view Surfline cam streams. Works on iOS in Safari and can be added to the home screen for easy access.
 
-## Conditions-Ranker
+For Chrome based browers, you can install the unpacked extension found [here](https://github.com/seangaff/surf-tools/releases/download/v1.0/extension.zip) to view streams. (Non mobile browsers require a redirect header attached to the request.)
 
-System for users to rate conditions at a given time and spot. Data is aggergated and used to rate quality of future conditions.
-
-## Data Aggregator
-
-Aggregates surf conditions and predictions from various sources
-
-## Image Viewer
-
-View current and historical images from surf cams around the world. Get images for a specific date and time and matching wave conditions.
+1. Download and unpack `extension.zip`.
+2.  Open Chrome/Edge.
+3.  Go to `chrome://extensions`.
+4.  Enable **Developer Mode** (toggle in top right).
+5.  Click **Load Unpacked**.
+6.  Select the `extension` folder.

@@ -6,3 +6,4 @@ html5lib
 beautifulsoup4
 ultralytics
 psycopg2
+inference-sdk
