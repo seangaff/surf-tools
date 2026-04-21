@@ -5,5 +5,4 @@ pandas
 html5lib
 beautifulsoup4
 ultralytics
-psycopg2
-inference-sdk
+psycopg2-binary
