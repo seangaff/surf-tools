@@ -348,6 +348,90 @@
                     "alias": "wc-centralobsfnorth"
                 }
             ]
+        },
+        {
+            "_id": "5e5033c97818a8bcb2976f75",
+            "lat": 19.602998314865218,
+            "lon": -155.97515,
+            "name": "Lyman's",
+            "subregionName": "Kona Hawaii",
+            "cameras": [
+                {
+                    "_id": "5e5f4962f3642a5340957668",
+                    "title": "HI - Lyman's",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/hi-lymans/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/hi-lymans/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/hi-lymans/hi-lymans",
+                    "alias": "hi-lymans"
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708e19",
+            "lat": 19.581,
+            "lon": -155.969,
+            "name": "Kahalu'u Bay",
+            "subregionName": "Kona Hawaii",
+            "cameras": [
+                {
+                    "_id": "5e5d5cc5d41a653d0c2d2138",
+                    "title": "HI - Kahalu'u Bay Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/hi-kahaluubayov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/hi-kahaluubayov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/hi-kahaluubayov/hi-kahaluubayov",
+                    "alias": "hi-kahaluubayov"
+                },
+                {
+                    "_id": "58349b693421b20545c4b548",
+                    "title": "HI - Kahalu'u Bay",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/hi-kahaluubay/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/hi-kahaluubay/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/hi-kahaluubay/hi-kahaluubay",
+                    "alias": "hi-kahaluubay"
+                }
+            ]
+        },
+        {
+            "_id": "5e5034d3e3517f024160d922",
+            "lat": 19.628229345976486,
+            "lon": -155.98827,
+            "name": "Honl's",
+            "subregionName": "Kona Hawaii",
+            "cameras": [
+                {
+                    "_id": "5e4eb5e5613f58ab2ea250f6",
+                    "title": "HI - Honl's",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/hi-honls/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/hi-honls/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/hi-honls/hi-honls",
+                    "alias": "hi-honls"
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a770889d",
+            "lat": 19.606,
+            "lon": -155.978,
+            "name": "Banyans",
+            "subregionName": "Kona Hawaii",
+            "cameras": [
+                {
+                    "_id": "58349618e411dc743a5d526d",
+                    "title": "HI - Banyans",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/hi-banyans/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/hi-banyans/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/hi-banyans/hi-banyans",
+                    "alias": "hi-banyans"
+                },
+                {
+                    "_id": "5e5f44fd7007512e9076ed65",
+                    "title": "HI - Banyans Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/hi-banyansov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/hi-banyansov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/hi-banyansov/hi-banyansov",
+                    "alias": "hi-banyansov"
+                }
+            ]
         }
     ]
 }
