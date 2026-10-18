@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Surfline Stream Viewer</title>
-    <link rel="stylesheet" href="style.css?v=2">
+    <link rel="stylesheet" href="style.css?v=5">
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 
@@ -13,7 +13,13 @@
     <div class="app-container">
         <aside class="sidebar">
             <div class="sidebar-header">
-                <h2>Surf Spots</h2>
+                <div class="header-row">
+                    <h2>Surf Cams</h2>
+                    <span id="cam-count" class="cam-count"></span>
+                </div>
+                <input id="spot-search" class="search" type="search" placeholder="Search spots or cams" autocomplete="off">
+                <div id="source-filters" class="filter-row"></div>
+                <p id="load-note" class="load-note" hidden></p>
             </div>
             <div id="spot-list" class="spot-list">
                 <!-- Spots injected here -->
@@ -33,7 +39,7 @@
             </div>
         </main>
     </div>
-    <script src="app.js?v=2"></script>
+    <script src="app.js?v=5"></script>
 </body>
 
 </html>

@@ -17,10 +17,13 @@ def load_cookies(filepath):
     if not os.path.exists(filepath):
         print(f"Warning: {filepath} not found. Request will be unauthenticated (likely 0 favorites).")
         return cookies
-    
+
+    try:
+        with open(filepath, encoding="utf-8") as handle:
+            for line in handle:
                 if line.startswith('#') or not line.strip():
                     continue
-                
+
                 # Check for raw cookie header format (key=val; key2=val2)
                 if ';' in line:
                     raw_cookies = line.split(';')
@@ -34,12 +37,12 @@ def load_cookies(filepath):
                 parts = line.strip().split('\t')
                 if len(parts) >= 7:
                     cookies[parts[5]] = parts[6]
-                elif '=' in line: # Fallback for simple key=value lines
+                elif '=' in line:  # Fallback for simple key=value lines
                     key, val = line.strip().split('=', 1)
                     cookies[key.strip()] = val.strip()
     except Exception as e:
         print(f"Error reading cookies: {e}")
-    
+
     return cookies
 
 def extract_favorites():

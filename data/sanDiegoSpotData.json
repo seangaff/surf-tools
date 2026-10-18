@@ -1,0 +1,1156 @@
+{
+    "region": "San Diego",
+    "geonameId": 5391832,
+    "spots": [
+        {
+            "_id": "5842041f4e65fad6a7708887",
+            "lat": 33.38445596302903,
+            "lon": -117.59445,
+            "name": "Upper Trestles",
+            "subregionId": "58581a836630e24c4487900a",
+            "subregionName": "South Orange County",
+            "cameras": [
+                {
+                    "_id": "5834a1ab3421b20545c4b598",
+                    "title": "OC - Upper Trestles",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-upperstrestles/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-upperstrestles/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-upperstrestles/wc-upperstrestles",
+                    "alias": "wc-upperstrestles",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a770888a",
+            "lat": 33.38143999849023,
+            "lon": -117.58843,
+            "name": "Lower Trestles",
+            "subregionId": "58581a836630e24c4487900a",
+            "subregionName": "South Orange County",
+            "cameras": [
+                {
+                    "_id": "666315f35e31ca0e236ad967",
+                    "title": "OC - Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-lowersov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-lowersov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-lowersov/wc-lowersov",
+                    "alias": "wc-lowersov",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "58a37530c9d273fd4f581beb",
+                    "title": "OC - Action Cam",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-lowers/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-lowers/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-lowers/wc-lowers",
+                    "alias": "wc-lowers",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a770888b",
+            "lat": 33.379622288757,
+            "lon": -117.57894,
+            "name": "Church",
+            "subregionId": "58581a836630e24c4487900a",
+            "subregionName": "South Orange County",
+            "cameras": [
+                {
+                    "_id": "599b3a435a46a5d8045a0cf6",
+                    "title": "OC - Church",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-church/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-church/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-church/wc-church",
+                    "alias": "wc-church",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "637eb58bbdeceb1ab64680f1",
+                    "title": "OC - Church Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-churchov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-churchov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-churchov/wc-churchov",
+                    "alias": "wc-churchov",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "584204204e65fad6a77099d4",
+            "lat": 33.3726134926491,
+            "lon": -117.56579,
+            "name": "San Onofre State Beach",
+            "subregionId": "58581a836630e24c4487900a",
+            "subregionName": "South Orange County",
+            "cameras": [
+                {
+                    "_id": "5834a005e411dc743a5d52de",
+                    "title": "OC - The Point",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-thepointsanonofre/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-thepointsanonofre/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-thepointsanonofre/wc-thepointsanonofre",
+                    "alias": "wc-thepointsanonofre",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "66cf5d709b93331df08b7cd4",
+                    "title": "OC - The Point Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-thepointov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-thepointov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-thepointov/wc-thepointov",
+                    "alias": "wc-thepointov",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "58349e583421b20545c4b567",
+                    "title": "OC - Old Man's",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-oldmansanonofre/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-oldmansanonofre/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-oldmansanonofre/wc-oldmansanonofre",
+                    "alias": "wc-oldmansanonofre",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "62aa4950c97e5b64e14421e4",
+                    "title": "OC - Dogpatch",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-dogpatch/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-dogpatch/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-dogpatch/wc-dogpatch",
+                    "alias": "wc-dogpatch",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "5a8308ac909ccb000f3510f4",
+                    "title": "OC - Parking Line",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-sanostatekiosk/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-sanostatekiosk/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-sanostatekiosk/wc-sanostatekiosk",
+                    "alias": "wc-sanostatekiosk",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "5b52156fbb0ff50019664a21",
+                    "title": "OC - Beach Entrance",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-sanostateline/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-sanostateline/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-sanostateline/wc-sanostateline",
+                    "alias": "wc-sanostateline",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708832",
+            "lat": 33.202391008646,
+            "lon": -117.39475,
+            "name": "Oceanside Harbor",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "58349e3ae411dc743a5d52c3",
+                    "title": "SD - Oceanside Harbor, North Jetty",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-osideharbornjetty/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-osideharbornjetty/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-osideharbornjetty/wc-osideharbornjetty",
+                    "alias": "wc-osideharbornjetty",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "6166121702b3701f2b785919",
+                    "title": "SD - Oceanside Harbor",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-osideharbor/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-osideharbor/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-osideharbor/wc-osideharbor",
+                    "alias": "wc-osideharbor",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "5bedd5ef73e2db033c225d78",
+                    "title": "SD - Oceanside Harbor, South Jetty",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-osideharborsjetty/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-osideharborsjetty/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-osideharborsjetty/wc-osideharborsjetty",
+                    "alias": "wc-osideharborsjetty",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708835",
+            "lat": 33.19453,
+            "lon": -117.38632,
+            "name": "Oceanside Pier Northside",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "58349e42e411dc743a5d52c4",
+                    "title": "SD - Northside Pier Bowl",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-oceansidepierns/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-oceansidepierns/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-oceansidepierns/wc-oceansidepierns",
+                    "alias": "wc-oceansidepierns",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "60a2f4a5223e1500a125ce5e",
+                    "title": "SD - Northside Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-osidepiernsov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-osidepiernsov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-osidepiernsov/wc-osidepiernsov",
+                    "alias": "wc-osidepiernsov",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "60a2f272145c3bd06b9b71b7",
+                    "title": "SD - Southside Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-osidepierssov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-osidepierssov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-osidepierssov/wc-osidepierssov",
+                    "alias": "wc-osidepierssov",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "6a91a7b5fa7606043429d89d",
+            "lat": 33.19282,
+            "lon": -117.38515,
+            "name": "Oceanside Pier Southside",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "58349e4a3421b20545c4b566",
+                    "title": "SD - Southside Pier Bowl",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-oceansidepierss/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-oceansidepierss/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-oceansidepierss/wc-oceansidepierss",
+                    "alias": "wc-oceansidepierss",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "69f4f0f2f55c772e4e8bcc28",
+                    "title": "SD - Southside Action Cam",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-osidepier4k/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-osidepier4k/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-osidepier4k/wc-osidepier4k",
+                    "alias": "wc-osidepier4k",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "60a2f272145c3bd06b9b71b7",
+                    "title": "SD - Southside Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-osidepierssov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-osidepierssov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-osidepierssov/wc-osidepierssov",
+                    "alias": "wc-osidepierssov",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "5bfda25733218e11c882d257",
+                    "title": "SD - Tyson Street",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-osidessov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-osidessov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-osidessov/wc-osidessov",
+                    "alias": "wc-osidessov",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5bec658795aee10001fadde5",
+            "lat": 33.18234248788874,
+            "lon": -117.37465,
+            "name": "Forster St. Oceanside",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "5bfd9f3d7dccf897cf966cc1",
+                    "title": "SD - Forster St. Oceanside",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-forsterstoside/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-forsterstoside/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-forsterstoside/wc-forsterstoside",
+                    "alias": "wc-forsterstoside",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5c0060aa12c17b0001a78941",
+            "lat": 33.18195637639852,
+            "lon": -117.37531,
+            "name": "The Rock, Oceanside",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "5bfd9f8f7dccf8788f966cc3",
+                    "title": "SD - The Rock Oceanside",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-therockoside/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-therockoside/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-therockoside/wc-therockoside",
+                    "alias": "wc-therockoside",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5bfdced06871990001fd9ff2",
+            "lat": 33.15384008522178,
+            "lon": -117.35137,
+            "name": "Carlsbad State Beach",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "5bfda1f033218e72e882d24c",
+                    "title": "SD - Carlsbad State Beach South",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-southcarlsbad/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-southcarlsbad/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-southcarlsbad/wc-southcarlsbad",
+                    "alias": "wc-southcarlsbad",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "5bfda1b373e2db77d225c374",
+                    "title": "SD - Carlsbad State Beach North",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-northcarlsbad/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-northcarlsbad/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-northcarlsbad/wc-northcarlsbad",
+                    "alias": "wc-northcarlsbad",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708837",
+            "lat": 33.14948100706,
+            "lon": -117.35029,
+            "name": "Tamarack",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "5834a126e411dc743a5d52ee",
+                    "title": "SD - Tamarack",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-tamarack/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-tamarack/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-tamarack/wc-tamarack",
+                    "alias": "wc-tamarack",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77088a6",
+            "lat": 33.130343587871906,
+            "lon": -117.33668,
+            "name": "Terramar Point",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "5c3658d3d24d0fd42180c564",
+                    "title": "SD - Terra Mar Point",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-terramarpt/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-terramarpt/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-terramarpt/wc-terramarpt",
+                    "alias": "wc-terramarpt",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77088a5",
+            "lat": 33.08685865930869,
+            "lon": -117.31532,
+            "name": "Ponto",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "58349f443421b20545c4b571",
+                    "title": "SD - Ponto North",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-pontonorth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-pontonorth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-pontonorth/wc-pontonorth",
+                    "alias": "wc-pontonorth",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "58349f3e3421b20545c4b570",
+                    "title": "SD - Ponto Jetties",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-pontojetties/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-pontojetties/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-pontojetties/wc-pontojetties",
+                    "alias": "wc-pontojetties",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "66b50e226e8cdf792922fe41",
+                    "title": "SD - Ponto South",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-pontosouth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-pontosouth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-pontosouth/wc-pontosouth",
+                    "alias": "wc-pontosouth",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "5db782d6dceace3899fc80b9",
+                    "title": "SD - Ponto South Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-pontosouthov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-pontosouthov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-pontosouthov/wc-pontosouthov",
+                    "alias": "wc-pontosouthov",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a770889f",
+            "lat": 33.07541383424675,
+            "lon": -117.3105,
+            "name": "Grandview",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "58a37450ea714bf7668c0001",
+                    "title": "SD - Grandview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-grandview/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-grandview/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-grandview/wc-grandview",
+                    "alias": "wc-grandview",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "69405a22985a5f9de4af74f2",
+                    "title": "SD - Grandview South",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-grandviewsouth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-grandviewsouth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-grandviewsouth/wc-grandviewsouth",
+                    "alias": "wc-grandviewsouth",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77088a0",
+            "lat": 33.065267421296596,
+            "lon": -117.30577,
+            "name": "Beacons",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "583496283421b20545c4b523",
+                    "title": "SD - Beacons",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-beacons/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-beacons/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-beacons/wc-beacons",
+                    "alias": "wc-beacons",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "6258488c100af10f4b804475",
+                    "title": "SD - Beacons North",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-beaconsnorth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-beaconsnorth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-beaconsnorth/wc-beaconsnorth",
+                    "alias": "wc-beaconsnorth",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77088a3",
+            "lat": 33.04694255008896,
+            "lon": -117.29966,
+            "name": "Moonlight State Beach",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "5fc814ba28bffe4023d0359a",
+                    "title": "SD - Moonlight State Beach",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-moonlight/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-moonlight/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-moonlight/wc-moonlight",
+                    "alias": "wc-moonlight",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "5fc814d534ac01c87fd7fba6",
+                    "title": "SD - Moonlight State Beach North",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-moonlightnorth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-moonlightnorth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-moonlightnorth/wc-moonlightnorth",
+                    "alias": "wc-moonlightnorth",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77088b7",
+            "lat": 33.04569760260221,
+            "lon": -117.2994,
+            "name": "D Street",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "5fc81481bceda0d20ff8ac1f",
+                    "title": "SD - D Street",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-dstreet/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-dstreet/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-dstreet/wc-dstreet",
+                    "alias": "wc-dstreet",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "69a9bd83dd8c3cbd99613726",
+                    "title": "SD - D Street Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-dstreetov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-dstreetov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-dstreetov/wc-dstreetov",
+                    "alias": "wc-dstreetov",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77088b4",
+            "lat": 33.0341859796287,
+            "lon": -117.29552,
+            "name": "Swami's",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "5834a1203421b20545c4b590",
+                    "title": "SD - Swami's",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-swamis/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-swamis/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-swamis/wc-swamis",
+                    "alias": "wc-swamis",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "60217e6509d50e645947efb6",
+                    "title": "SD - Action Cam",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-swamisclose/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-swamisclose/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-swamisclose/wc-swamisclose",
+                    "alias": "wc-swamisclose",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5c008f5313603c0001df5318",
+            "lat": 33.02460487110932,
+            "lon": -117.28879,
+            "name": "Pipes",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "609c50c9e26f8335c3984406",
+                    "title": "SD - Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-pipes/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-pipes/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-pipes/wc-pipes",
+                    "alias": "wc-pipes",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "69f4f98205b780185d0b1673",
+                    "title": "SD - Action Cam",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-pipes4k/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-pipes4k/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-pipes4k/wc-pipes4k",
+                    "alias": "wc-pipes4k",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77088b8",
+            "lat": 33.02090944350196,
+            "lon": -117.28535,
+            "name": "San Elijo State Beach",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "58349ffa3421b20545c4b57f",
+                    "title": "SD - San Elijo Campground Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-sanelijo/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-sanelijo/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-sanelijo/wc-sanelijo",
+                    "alias": "wc-sanelijo",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "5c3656f95c3187527da49693",
+                    "title": "SD - San Elijo State Beach South",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-sanelijosbsouth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-sanelijosbsouth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-sanelijosbsouth/wc-sanelijosbsouth",
+                    "alias": "wc-sanelijosbsouth",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "5bfd9fd773e2dbeee325c2ea",
+                    "title": "SD - San Elijo State Beach North",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-sanelijosbnorth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-sanelijosbnorth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-sanelijosbnorth/wc-sanelijosbnorth",
+                    "alias": "wc-sanelijosbnorth",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77088b1",
+            "lat": 33.01352178146273,
+            "lon": -117.28219,
+            "name": "Cardiff Reef",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "583496ce3421b20545c4b52a",
+                    "title": "SD - Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-cardiffov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-cardiffov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-cardiffov/wc-cardiffov",
+                    "alias": "wc-cardiffov",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "583496d7e411dc743a5d5277",
+                    "title": "SD - South Peak",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-cardiffreefsouth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-cardiffreefsouth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-cardiffreefsouth/wc-cardiffreefsouth",
+                    "alias": "wc-cardiffreefsouth",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "5ecd3657bc393a809da225e8",
+                    "title": "SD - Suckouts",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-cardiffreefnorth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-cardiffreefnorth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-cardiffreefnorth/wc-cardiffreefnorth",
+                    "alias": "wc-cardiffreefnorth",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "6a176268c039751189f80e2b",
+                    "title": "SD - Suckouts Action Cam",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-cardiff4k/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-cardiff4k/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-cardiff4k/wc-cardiff4k",
+                    "alias": "wc-cardiff4k",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "584204214e65fad6a7709d1a",
+            "lat": 33.01113550717834,
+            "lon": -117.28030529109606,
+            "name": "George's",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "58349979e411dc743a5d5292",
+                    "title": "SD - George's",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-georges/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-georges/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-georges/wc-georges",
+                    "alias": "wc-georges",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77088b3",
+            "lat": 33.00211185876003,
+            "lon": -117.2811,
+            "name": "Seaside Reef",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "5834a07ee411dc743a5d52e6",
+                    "title": "SD - Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-seasidereef/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-seasidereef/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-seasidereef/wc-seasidereef",
+                    "alias": "wc-seasidereef",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "69bec9d37e7176f6554d5c00",
+                    "title": "SD - Action Cam",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-seasidereef4k/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-seasidereef4k/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-seasidereef4k/wc-seasidereef4k",
+                    "alias": "wc-seasidereef4k",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77088af",
+            "lat": 32.95916304183685,
+            "lon": -117.26963,
+            "name": "Del Mar",
+            "subregionId": "58581a836630e24c44878fd7",
+            "subregionName": "North San Diego",
+            "cameras": [
+                {
+                    "_id": "583497cf3421b20545c4b534",
+                    "title": "SD - 15th St.  Del Mar",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-delmar15th/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-delmar15th/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-delmar15th/wc-delmar15th",
+                    "alias": "wc-delmar15th",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "5d76861d21fb308ac473d46c",
+                    "title": "SD - Del Mar",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-delmar/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-delmar/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-delmar/wc-delmar",
+                    "alias": "wc-delmar",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "5b47dc4d49d3d8001a29f2d6",
+                    "title": "SD - Del Mar Beachbreak",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-delmarbeachbreak/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-delmarbeachbreak/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-delmarbeachbreak/wc-delmarbeachbreak",
+                    "alias": "wc-delmarbeachbreak",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "583497da3421b20545c4b535",
+                    "title": "SD - 25th St. Del Mar",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-delmar25th/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-delmar25th/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-delmar25th/wc-delmar25th",
+                    "alias": "wc-delmar25th",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "584204204e65fad6a7709994",
+            "lat": 32.92712825415561,
+            "lon": -117.2599,
+            "name": "Torrey Pines State Beach",
+            "subregionId": "58581a836630e24c4487900d",
+            "subregionName": "South San Diego",
+            "cameras": [
+                {
+                    "_id": "5834a1793421b20545c4b593",
+                    "title": "SD - Torrey Pines State Beach",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-torreypines/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-torreypines/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-torreypines/wc-torreypines",
+                    "alias": "wc-torreypines",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "5fc815430279d0502a5d0645",
+                    "title": "SD - Torrey Pines State Beach South",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-torreypinessouth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-torreypinessouth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-torreypinessouth/wc-torreypinessouth",
+                    "alias": "wc-torreypinessouth",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "5fc81527bceda049ecf8ac63",
+                    "title": "SD - Torrey Pines State Beach North",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-torreypinesnorth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-torreypinesnorth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-torreypinesnorth/wc-torreypinesnorth",
+                    "alias": "wc-torreypinesnorth",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "5bfda04573e2db79ca25c307",
+                    "title": "SD - Torrey Pines Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-torreypinesov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-torreypinesov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-torreypinesov/wc-torreypinesov",
+                    "alias": "wc-torreypinesov",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a770883b",
+            "lat": 32.88338,
+            "lon": -117.25571,
+            "name": "Blacks",
+            "subregionId": "58581a836630e24c4487900d",
+            "subregionName": "South San Diego",
+            "cameras": [
+                {
+                    "_id": "5cd2f613e64ac813641c836a",
+                    "title": "SD - Blacks Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-blacksov/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-blacksov/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-blacksov/wc-blacksov",
+                    "alias": "wc-blacksov",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708839",
+            "lat": 32.865777159358856,
+            "lon": -117.25614,
+            "name": "Scripps",
+            "subregionId": "58581a836630e24c4487900d",
+            "subregionName": "South San Diego",
+            "cameras": [
+                {
+                    "_id": "5cf9cab8d23ea6772d19cddf",
+                    "title": "SD - Scripps Pier, Northside",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-scrippsnorth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-scrippsnorth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-scrippsnorth/wc-scrippsnorth",
+                    "alias": "wc-scrippsnorth",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "5834a0733421b20545c4b584",
+                    "title": "SD - Scripps Pier, Southside",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-scripps/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-scripps/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-scripps/wc-scripps",
+                    "alias": "wc-scripps",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77088cc",
+            "lat": 32.863,
+            "lon": -117.257,
+            "name": "La Jolla Shores",
+            "subregionId": "58581a836630e24c4487900d",
+            "subregionName": "South San Diego",
+            "cameras": [
+                {
+                    "_id": "66915d0e32f7db9144c7e8e3",
+                    "title": "SD - La Jolla Shores",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-lajollasouth/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-lajollasouth/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-lajollasouth/wc-lajollasouth",
+                    "alias": "wc-lajollasouth",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "58349b9b3421b20545c4b54d",
+                    "title": "SD - La Jolla Shores Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-lajollashores/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-lajollashores/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-lajollashores/wc-lajollashores",
+                    "alias": "wc-lajollashores",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a77088c4",
+            "lat": 32.8060476681448,
+            "lon": -117.26479,
+            "name": "Old Man's at Tourmaline",
+            "subregionId": "58581a836630e24c4487900d",
+            "subregionName": "South San Diego",
+            "cameras": [
+                {
+                    "_id": "5cafda1cecc2efb98fc577f9",
+                    "title": "SD - Tourmaline",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-tourmaline/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-tourmaline/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-tourmaline/wc-tourmaline",
+                    "alias": "wc-tourmaline",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "5f29e43f4a641b0b4103763b",
+                    "title": "SD - Old Man's at Tourmaline",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-oldmanstourmaline/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-oldmanstourmaline/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-oldmanstourmaline/wc-oldmanstourmaline",
+                    "alias": "wc-oldmanstourmaline",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708841",
+            "lat": 32.796582258728826,
+            "lon": -117.25779,
+            "name": "Crystal Pier",
+            "subregionId": "58581a836630e24c4487900d",
+            "subregionName": "South San Diego",
+            "cameras": [
+                {
+                    "_id": "58349ea13421b20545c4b568",
+                    "title": "SD - Pacific Beach",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-pacificbeach/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-pacificbeach/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-pacificbeach/wc-pacificbeach",
+                    "alias": "wc-pacificbeach",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "69c35681d99cd1757c7bf5d3",
+            "lat": 32.79128239180073,
+            "lon": -117.25678187509763,
+            "name": "Pacific Beach Drive",
+            "subregionId": "58581a836630e24c4487900d",
+            "subregionName": "South San Diego",
+            "cameras": [
+                {
+                    "_id": "618c4588caecb561da600adf",
+                    "title": "SD - Pacific Beach Drive",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-pbdrive/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-pbdrive/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-pbdrive/wc-pbdrive",
+                    "alias": "wc-pbdrive",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "5c78a1e164888455c5fe2f54",
+                    "title": "SD - Reed Avenue",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-reedave/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-reedave/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-reedave/wc-reedave",
+                    "alias": "wc-reedave",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708842",
+            "lat": 32.776636,
+            "lon": -117.25514,
+            "name": "Mission Beach",
+            "subregionId": "58581a836630e24c4487900d",
+            "subregionName": "South San Diego",
+            "cameras": [
+                {
+                    "_id": "58349c99e411dc743a5d52b6",
+                    "title": "SD - Mission Beach",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-missionbeach/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-missionbeach/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-missionbeach/wc-missionbeach",
+                    "alias": "wc-missionbeach",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "66a14e5058fecf2f588753e3",
+                    "title": "SD - Mission Beach South",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-missionbeachjetty/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-missionbeachjetty/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-missionbeachjetty/wc-missionbeachjetty",
+                    "alias": "wc-missionbeachjetty",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "69c35881864fd030017ba7e9",
+            "lat": 32.75266934712995,
+            "lon": -117.25331437302302,
+            "name": "Avalanche",
+            "subregionId": "58581a836630e24c4487900d",
+            "subregionName": "South San Diego",
+            "cameras": [
+                {
+                    "_id": "58349e173421b20545c4b564",
+                    "title": "SD - Ocean Beach SD",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-oceanbeachsd/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-oceanbeachsd/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-oceanbeachsd/wc-oceanbeachsd",
+                    "alias": "wc-oceanbeachsd",
+                    "isPremium": false,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a770883f",
+            "lat": 32.75034717673179,
+            "lon": -117.25337,
+            "name": "Ocean Beach Pier",
+            "subregionId": "58581a836630e24c4487900d",
+            "subregionName": "South San Diego",
+            "cameras": [
+                {
+                    "_id": "59aed8c5a336735a6a5a9f81",
+                    "title": "SD - Overview",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-oceanbeachsdpier/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-oceanbeachsdpier/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-oceanbeachsdpier/wc-oceanbeachsdpier",
+                    "alias": "wc-oceanbeachsdpier",
+                    "isPremium": false,
+                    "isDown": false
+                },
+                {
+                    "_id": "69dbca33ed5b8764591a17f7",
+                    "title": "SD - Action Cam",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-oceanbeachpier4k/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-oceanbeachpier4k/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-oceanbeachpier4k/wc-oceanbeachpier4k",
+                    "alias": "wc-oceanbeachpier4k",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708840",
+            "lat": 32.73693,
+            "lon": -117.25718,
+            "name": "Sunset Cliffs",
+            "subregionId": "58581a836630e24c4487900d",
+            "subregionName": "South San Diego",
+            "cameras": [
+                {
+                    "_id": "5834a10be411dc743a5d52ec",
+                    "title": "SD - Sunset Cliffs",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-sunsetcliffs/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-sunsetcliffs/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-sunsetcliffs/wc-sunsetcliffs",
+                    "alias": "wc-sunsetcliffs",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        },
+        {
+            "_id": "5842041f4e65fad6a7708844",
+            "lat": 32.577195519016,
+            "lon": -117.13475,
+            "name": "Imperial Beach Pier",
+            "subregionId": "58581a836630e24c4487900d",
+            "subregionName": "South San Diego",
+            "cameras": [
+                {
+                    "_id": "58349a7fe411dc743a5d529d",
+                    "title": "SD - Imperial Pier, Southside",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-imperialpierss/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-imperialpierss/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-imperialpierss/wc-imperialpierss",
+                    "alias": "wc-imperialpierss",
+                    "isPremium": true,
+                    "isDown": false
+                },
+                {
+                    "_id": "58349a78e411dc743a5d529c",
+                    "title": "SD - Imperial Pier, Northside",
+                    "streamUrl": "https://hls.cdn-surfline.com/oregon/wc-imperialpierns/playlist.m3u8",
+                    "stillUrlFull": "https://camstills.cdn-surfline.com/us-west-2/wc-imperialpierns/latest_full.jpg",
+                    "rewindBaseUrl": "https://camrewinds.cdn-surfline.com/wc-imperialpierns/wc-imperialpierns",
+                    "alias": "wc-imperialpierns",
+                    "isPremium": true,
+                    "isDown": false
+                }
+            ]
+        }
+    ]
+}

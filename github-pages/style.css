@@ -29,21 +29,87 @@ body {
 
 /* Sidebar */
 .sidebar {
-    width: 300px;
+    width: 340px;
     background-color: var(--bg-panel);
     border-right: 1px solid var(--border);
     display: flex;
     flex-direction: column;
+    min-height: 0;
 }
 
 .sidebar-header {
-    padding: 20px;
+    padding: 16px 16px 12px;
     border-bottom: 1px solid var(--border);
+}
+
+.header-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 8px;
 }
 
 .sidebar-header h2 {
     font-size: 1.2rem;
     font-weight: 600;
+}
+
+.cam-count {
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+    white-space: nowrap;
+}
+
+.search {
+    width: 100%;
+    margin-top: 12px;
+    background: var(--bg-dark);
+    border: 1px solid var(--border);
+    color: var(--text-primary);
+    border-radius: 8px;
+    padding: 8px 10px;
+    font: inherit;
+    font-size: 16px;
+}
+
+.search:focus {
+    outline: 2px solid var(--accent);
+    border-color: transparent;
+}
+
+.filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 10px;
+}
+
+.chip {
+    background: transparent;
+    color: var(--text-secondary);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    padding: 4px 10px;
+    font: inherit;
+    font-size: 0.75rem;
+    cursor: pointer;
+}
+
+.chip:hover {
+    color: var(--text-primary);
+    border-color: #3f4450;
+}
+
+.chip[aria-pressed="true"] {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: white;
+}
+
+.load-note {
+    margin-top: 8px;
+    color: #e06c75;
+    font-size: 0.8rem;
 }
 
 .spot-list {
@@ -53,24 +119,97 @@ body {
 }
 
 .spot-group {
-    margin-bottom: 15px;
+    margin-bottom: 8px;
 }
 
 .group-title {
-    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    width: 100%;
+    background: none;
+    border: none;
     color: var(--text-secondary);
+    font: inherit;
+    font-size: 0.75rem;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    padding: 5px 10px;
-    margin-bottom: 5px;
+    padding: 8px 10px;
+    cursor: pointer;
+    text-align: left;
+}
+
+.group-title .chevron {
+    width: 0.7rem;
+    text-align: center;
+    transition: transform 0.15s ease;
+}
+
+.spot-group.collapsed .chevron {
+    transform: rotate(-90deg);
+}
+
+.spot-group.collapsed .group-body {
+    display: none;
+}
+
+.spot-label {
+    font-size: 0.78rem;
+    font-weight: 600;
+    padding: 6px 10px 0;
+    color: #d7dbe3;
 }
 
 .spot-item {
-    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    width: 100%;
+    padding: 8px 10px;
     cursor: pointer;
+    border: none;
+    background: none;
+    color: inherit;
+    font: inherit;
+    text-align: left;
     border-radius: 6px;
     transition: background-color 0.2s;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
+}
+
+.cam-title {
+    flex: 1;
+    min-width: 0;
+}
+
+.badge {
+    flex-shrink: 0;
+    font-size: 0.65rem;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #d4b45a;
+    border: 1px solid rgba(212, 180, 90, 0.45);
+    border-radius: 999px;
+    padding: 1px 6px;
+}
+
+.badge.down {
+    color: #e06c75;
+    border-color: rgba(224, 108, 117, 0.5);
+}
+
+.spot-item.active .badge {
+    color: white;
+    border-color: rgba(255, 255, 255, 0.55);
+}
+
+.empty-list {
+    color: var(--text-secondary);
+    padding: 16px 10px;
+    font-size: 0.9rem;
 }
 
 .spot-item:hover {
@@ -104,7 +243,7 @@ video {
     width: 100%;
     aspect-ratio: 16/9;
     background: black;
-    display: block;
+    display: none;
 }
 
 .video-placeholder {
@@ -148,8 +287,14 @@ video {
     background: #3f4450;
 }
 
+@media (max-width: 900px) {
+    .sidebar {
+        width: 280px;
+    }
+}
+
 /* Mobile Responsive Styles */
-@media (max-width: 768px) {
+@media (max-width: 640px) {
     body {
         height: auto;
         overflow: auto;
@@ -163,9 +308,14 @@ video {
     .sidebar {
         width: 100%;
         height: auto;
-        max-height: 40vh;
+        max-height: none;
         border-right: none;
         border-bottom: 1px solid var(--border);
+    }
+
+    .spot-list {
+        max-height: 52vh;
+        min-height: 220px;
     }
 
     .main-content {
