@@ -9,10 +9,16 @@ document.addEventListener('DOMContentLoaded', async () => {
     const countEl = document.getElementById('cam-count');
     const noteEl = document.getElementById('load-note');
 
+    const FILTERS = [
+        { id: 'all', label: 'All' },
+        { id: 'pacifica', label: 'Pacifica' },
+        { id: 'bay-area', label: 'Bay Area' },
+        { id: 'san-diego', label: 'San Diego' },
+    ];
+
     let hls = null;
     let spots = [];
-    let activeSource = 'all';
-    let freeOnly = false;
+    let activeFilter = 'all';
     const collapsed = new Set();
 
     const catalogs = [
@@ -39,13 +45,9 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     searchEl.addEventListener('input', renderSpots);
     filtersEl.addEventListener('click', event => {
-        const button = event.target.closest('button[data-source], button[data-free]');
+        const button = event.target.closest('button[data-filter]');
         if (!button) return;
-        if (button.dataset.free != null) {
-            freeOnly = !freeOnly;
-        } else {
-            activeSource = button.dataset.source;
-        }
+        activeFilter = button.dataset.filter;
         renderFilters();
         renderSpots();
     });
@@ -59,7 +61,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             const source = data.region || catalog.fallbackSource;
             return {
                 source,
-                spots: list.map(spot => ({ ...spot, source })),
+                spots: list.map(spot => ({ ...spot, source, filters: coastFilters(spot, source) })),
             };
         } catch (error) {
             console.error(`Failed to load ${catalog.url}`, error);
@@ -67,34 +69,33 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
     }
 
+    // Marin (about 38.3N) through Santa Cruz (about 36.9N). Pacifica sits inside that stretch.
+    function coastFilters(spot, source) {
+        const filters = new Set();
+        const subregion = (spot.subregionName || '').toLowerCase();
+        const lat = spot.lat;
+
+        if (subregion === 'pacifica') filters.add('pacifica');
+        if (typeof lat === 'number' && lat <= 38.35 && lat >= 36.85) filters.add('bay-area');
+        if (source === 'San Diego' || subregion.includes('san diego')) filters.add('san-diego');
+        return filters;
+    }
+
     function renderFilters() {
-        const sources = ['all', ...new Set(spots.map(spot => spot.source))];
         filtersEl.replaceChildren();
-        sources.forEach(source => {
+        FILTERS.forEach(filter => {
             const button = document.createElement('button');
             button.type = 'button';
             button.className = 'chip';
-            button.dataset.source = source;
-            button.textContent = source === 'all' ? 'All' : source;
-            button.setAttribute('aria-pressed', String(source === activeSource));
+            button.dataset.filter = filter.id;
+            button.textContent = filter.label;
+            button.setAttribute('aria-pressed', String(filter.id === activeFilter));
             filtersEl.appendChild(button);
         });
-
-        const freeButton = document.createElement('button');
-        freeButton.type = 'button';
-        freeButton.className = 'chip';
-        freeButton.dataset.free = '1';
-        freeButton.textContent = 'Free only';
-        freeButton.setAttribute('aria-pressed', String(freeOnly));
-        filtersEl.appendChild(freeButton);
     }
 
     function playableCameras(spot) {
-        return (spot.cameras || []).filter(camera => {
-            if (!camera.streamUrl || camera.isDown) return false;
-            if (freeOnly && camera.isPremium) return false;
-            return true;
-        });
+        return (spot.cameras || []).filter(camera => camera.streamUrl && !camera.isDown);
     }
 
     function matchingCameras(spot, query) {
@@ -110,7 +111,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         const groups = new Map();
 
         spots.forEach(spot => {
-            if (activeSource !== 'all' && spot.source !== activeSource) return;
+            if (activeFilter !== 'all' && !spot.filters.has(activeFilter)) return;
             const cameras = matchingCameras(spot, query);
             if (!cameras.length) return;
 
