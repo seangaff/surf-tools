@@ -185,27 +185,6 @@ body {
     min-width: 0;
 }
 
-.badge {
-    flex-shrink: 0;
-    font-size: 0.65rem;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #d4b45a;
-    border: 1px solid rgba(212, 180, 90, 0.45);
-    border-radius: 999px;
-    padding: 1px 6px;
-}
-
-.badge.down {
-    color: #e06c75;
-    border-color: rgba(224, 108, 117, 0.5);
-}
-
-.spot-item.active .badge {
-    color: white;
-    border-color: rgba(255, 255, 255, 0.55);
-}
-
 .empty-list {
     color: var(--text-secondary);
     padding: 16px 10px;

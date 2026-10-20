@@ -187,13 +187,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                     camTitle.textContent = camera.title;
                     item.appendChild(camTitle);
 
-                    if (camera.isPremium) {
-                        const badge = document.createElement('span');
-                        badge.className = 'badge';
-                        badge.textContent = 'Premium';
-                        item.appendChild(badge);
-                    }
-
                     item.addEventListener('click', () => {
                         document.querySelectorAll('.spot-item').forEach(el => el.classList.remove('active'));
                         item.classList.add('active');
